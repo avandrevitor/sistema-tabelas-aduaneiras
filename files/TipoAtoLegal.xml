@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoAtoLegalList>
+    <TipoAtoLegal>
+        <codigo>AD</codigo>
+        <descricao>ATO DECLARATORIO</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>ADE</codigo>
+        <descricao>ATO DECLARATORIO EXECUTIVO</descricao>
+        <inicioVigencia>10/05/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>ADN</codigo>
+        <descricao>ATO DECLARATORIO NORMATIVO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>CCIRC</codigo>
+        <descricao>CARTA-CIRCULAR</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>CF</codigo>
+        <descricao>CONSTITUICAO FEDERAL</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>CIRC</codigo>
+        <descricao>CIRCULAR</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>COM</codigo>
+        <descricao>COMUNICADO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>D LEG</codigo>
+        <descricao>DECRETO LEGISLATIVO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>DEC</codigo>
+        <descricao>DECRETO</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>DH</codigo>
+        <descricao>DESPACHO HOMOLOGATORIO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>DL</codigo>
+        <descricao>DECRETO-LEI</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>IN</codigo>
+        <descricao>INSTRUCAO NORMATIVA</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>LC</codigo>
+        <descricao>LEI COMPLEMENTAR</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>LEI</codigo>
+        <descricao>LEI</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>MP</codigo>
+        <descricao>MEDIDA PROVISORIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>NE</codigo>
+        <descricao>NORMA DE EXECUCAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>PN</codigo>
+        <descricao>PARECER NORMATIVO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>PORT</codigo>
+        <descricao>PORTARIA</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>PR</codigo>
+        <descricao>PARECER DE RECURSO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>PROT</codigo>
+        <descricao>PROTOCOLO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>PS</codigo>
+        <descricao>PARECER SIMPLES</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+    <TipoAtoLegal>
+        <codigo>RES</codigo>
+        <descricao>RESOLUCAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoAtoLegal>
+</TipoAtoLegalList>

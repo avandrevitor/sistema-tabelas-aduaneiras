@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModalidadePagamentoList>
+    <ModalidadePagamento>
+        <codigo>10</codigo>
+        <descricao>PAGAMENTO ANTECIPADO TOTAL OU PREPONDERANTE</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>20</codigo>
+        <descricao>PAGAMENTO 'A VISTA TOTAL OU PREPONDERANTE - CARTA DE CREDITO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>21</codigo>
+        <descricao>PAGAMENTO 'A VISTA TOTAL OU PREPONDERANTE - OUTROS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>30</codigo>
+        <descricao>FINANCIAMENTO DO FORNECEDOR (SUPPLIER'S CREDIT) - CARTA DE CREDITO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>31</codigo>
+        <descricao>FINANCIAMENTO DO FORNECEDOR (SUPPLIER'S CREDIT) - OUTROS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>40</codigo>
+        <descricao>FINANCIAMENTO DE BANCO ESTRANGEIRO AO IMPORTADOR (BUYER'S CREDIT) - CARTA DE CREDITO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>41</codigo>
+        <descricao>FINANCIAMENTO DE BANCO ESTRANGEIRO AO IMPORTADOR (BUYER'S CREDIT) - OUTROS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>50</codigo>
+        <descricao>LINHA DE CREDITO DE BANCO ESTRANGEIRO A BANCO BRASILEIRO - CARTA DE CREDITO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>51</codigo>
+        <descricao>LINHA DE CREDITO DE BANCO ESTRANGEIRO A BANCO BRASILEIRO - OUTROS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+    <ModalidadePagamento>
+        <codigo>52</codigo>
+        <descricao>FINANCIAMENTO DE INSTITUICAO NAO FINANCEIRA AO IMPORTADOR</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </ModalidadePagamento>
+</ModalidadePagamentoList>

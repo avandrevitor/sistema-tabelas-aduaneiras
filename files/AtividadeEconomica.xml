@@ -1,0 +1,4035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AtividadeEconomicaList>
+    <AtividadeEconomica>
+        <codigo>0111</codigo>
+        <descricao>CULTIVO DE CEREAIS</descricao>
+        <inicioVigencia>17/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0112</codigo>
+        <descricao>CULTIVO DE ALGODãO HERBáCEO E DE OUTRAS FIBRAS DE LAVOURA TEMPORáRIA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0113</codigo>
+        <descricao>CULTIVO DE CANA-DE-AçúCAR</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0114</codigo>
+        <descricao>CULTIVO DE FUMO</descricao>
+        <inicioVigencia>17/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0115</codigo>
+        <descricao>CULTIVO DE SOJA</descricao>
+        <inicioVigencia>17/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0116</codigo>
+        <descricao>CULTIVO DE OLEAGINOSAS DE LAVOURA TEMPORáRIA, EXCETO SOJA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0119</codigo>
+        <descricao>CULTIVO DE PLANTAS DE LAVOURA TEMPORáRIA NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0121</codigo>
+        <descricao>HORTICULTURA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0122</codigo>
+        <descricao>CULTIVO DE FLORES E PLANTAS ORNAMENTAIS</descricao>
+        <inicioVigencia>17/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0131</codigo>
+        <descricao>CULTIVO DE LARANJA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0132</codigo>
+        <descricao>CULTIVO DE UVA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0133</codigo>
+        <descricao>CULTIVO DE FRUTAS DE LAVOURA PERMANENTE, EXCETO LARANJA E UVA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0134</codigo>
+        <descricao>CULTIVO DE CAFé</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0135</codigo>
+        <descricao>CULTIVO DE CACAU</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0139</codigo>
+        <descricao>CULTIVO DE PLANTAS DE LAVOURA PERMANENTE NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0141</codigo>
+        <descricao>PRODUçãO DE SEMENTES CERTIFICADAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0142</codigo>
+        <descricao>PRODUçãO DE MUDAS E OUTRAS FORMAS DE PROPAGAçãO VEGETAL, CERTIFICADAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0151</codigo>
+        <descricao>CRIAçãO DE BOVINOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0152</codigo>
+        <descricao>CRIAçãO DE OUTROS ANIMAIS DE GRANDE PORTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0153</codigo>
+        <descricao>CRIAçãO DE CAPRINOS E OVINOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0154</codigo>
+        <descricao>CRIAçãO DE SUíNOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0155</codigo>
+        <descricao>CRIAçãO DE AVES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0159</codigo>
+        <descricao>CRIAçãO DE ANIMAIS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0161</codigo>
+        <descricao>ATIVIDADES DE APOIO à AGRICULTURA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0162</codigo>
+        <descricao>ATIVIDADES DE APOIO à PECUáRIA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0163</codigo>
+        <descricao>ATIVIDADES DE PóS-COLHEITA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0170</codigo>
+        <descricao>CAçA E SERVIçOS RELACIONADOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0210</codigo>
+        <descricao>PRODUçãO FLORESTAL - FLORESTAS PLANTADAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0220</codigo>
+        <descricao>PRODUçãO FLORESTAL - FLORESTAS NATIVAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0230</codigo>
+        <descricao>ATIVIDADES DE APOIO à PRODUçãO FLORESTAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0311</codigo>
+        <descricao>PESCA EM áGUA SALGADA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0312</codigo>
+        <descricao>PESCA EM áGUA DOCE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0321</codigo>
+        <descricao>AQüICULTURA EM áGUA SALGADA E SALOBRA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0322</codigo>
+        <descricao>AQüICULTURA EM áGUA DOCE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0500</codigo>
+        <descricao>EXTRAçãO DE CARVãO MINERAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0600</codigo>
+        <descricao>EXTRAçãO DE PETRóLEO E GáS NATURAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0710</codigo>
+        <descricao>EXTRAçãO DE MINéRIO DE FERRO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0721</codigo>
+        <descricao>EXTRAçãO DE MINéRIO DE ALUMíNIO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0722</codigo>
+        <descricao>EXTRAçãO DE MINéRIO DE ESTANHO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0723</codigo>
+        <descricao>EXTRAçãO DE MINéRIO DE MANGANêS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0724</codigo>
+        <descricao>EXTRAçãO DE MINéRIO DE METAIS PRECIOSOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0725</codigo>
+        <descricao>EXTRAçãO DE MINERAIS RADIOATIVOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0729</codigo>
+        <descricao>EXTRAçãO DE MINERAIS METáLICOS NãO-FERROSOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0810</codigo>
+        <descricao>EXTRAçãO DE PEDRA, AREIA E ARGILA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0891</codigo>
+        <descricao>EXTRAçãO DE MINERAIS PARA FABRICAçãO DE ADUBOS, FERTILIZANTES E OUTROS PRODUTOS QUíMICOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0892</codigo>
+        <descricao>EXTRAçãO E REFINO DE SAL MARINHO E SAL-GEMA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0893</codigo>
+        <descricao>EXTRAçãO DE GEMAS (PEDRAS PRECIOSAS E SEMIPRECIOSAS)</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0899</codigo>
+        <descricao>EXTRAçãO DE MINERAIS NãO-METáLICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0910</codigo>
+        <descricao>ATIVIDADES DE APOIO à EXTRAçãO DE PETRóLEO E GáS NATURAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>0990</codigo>
+        <descricao>ATIVIDADES DE APOIO à EXTRAçãO DE MINERAIS, EXCETO PETRóLEO E GáS NATURAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1011</codigo>
+        <descricao>ABATE DE RESES, EXCETO SUíNOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1012</codigo>
+        <descricao>ABATE DE SUíNOS, AVES E OUTROS PEQUENOS ANIMAIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1013</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE CARNE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1020</codigo>
+        <descricao>PRESERVAçãO DO PESCADO E FABRICAçãO DE PRODUTOS DO PESCADO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1031</codigo>
+        <descricao>FABRICAçãO DE CONSERVAS DE FRUTAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1032</codigo>
+        <descricao>FABRICAçãO DE CONSERVAS DE LEGUMES E OUTROS VEGETAIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1033</codigo>
+        <descricao>FABRICAçãO DE SUCOS DE FRUTAS, HORTALIçAS E LEGUMES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1041</codigo>
+        <descricao>FABRICAçãO DE óLEOS VEGETAIS EM BRUTO, EXCETO óLEO DE MILHO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1042</codigo>
+        <descricao>FABRICAçãO DE óLEOS VEGETAIS REFINADOS, EXCETO óLEO DE MILHO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1043</codigo>
+        <descricao>FABRICAçãO DE MARGARINA E OUTRAS GORDURAS VEGETAIS E DE óLEOS NãO-COMESTíVEIS DE ANIMAIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1051</codigo>
+        <descricao>PREPARAçãO DO LEITE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1052</codigo>
+        <descricao>FABRICAçãO DE LATICíNIOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1053</codigo>
+        <descricao>FABRICAçãO DE SORVETES E OUTROS GELADOS COMESTíVEIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1061</codigo>
+        <descricao>BENEFICIAMENTO DE ARROZ E FABRICAçãO DE PRODUTOS DO ARROZ</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1062</codigo>
+        <descricao>MOAGEM DE TRIGO E FABRICAçãO DE DERIVADOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1063</codigo>
+        <descricao>FABRICAçãO DE FARINHA DE MANDIOCA E DERIVADOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1064</codigo>
+        <descricao>FABRICAçãO DE FARINHA DE MILHO E DERIVADOS, EXCETO óLEOS DE MILHO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1065</codigo>
+        <descricao>FABRICAçãO DE AMIDOS E FéCULAS DE VEGETAIS E DE óLEOS DE MILHO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1066</codigo>
+        <descricao>FABRICAçãO DE ALIMENTOS PARA ANIMAIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1069</codigo>
+        <descricao>MOAGEM E FABRICAçãO DE PRODUTOS DE ORIGEM VEGETAL NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1071</codigo>
+        <descricao>FABRICAçãO DE AçúCAR EM BRUTO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1072</codigo>
+        <descricao>FABRICAçãO DE AçúCAR REFINADO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1081</codigo>
+        <descricao>TORREFAçãO E MOAGEM DE CAFé</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1082</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS à BASE DE CAFé</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1091</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE PANIFICAçãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1092</codigo>
+        <descricao>FABRICAçãO DE BISCOITOS E BOLACHAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1093</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DERIVADOS DO CACAU, DE CHOCOLATES E CONFEITOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1094</codigo>
+        <descricao>FABRICAçãO DE MASSAS ALIMENTíCIAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1095</codigo>
+        <descricao>FABRICAçãO DE ESPECIARIAS, MOLHOS, TEMPEROS E CONDIMENTOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1096</codigo>
+        <descricao>FABRICAçãO DE ALIMENTOS E PRATOS PRONTOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1099</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS ALIMENTíCIOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1111</codigo>
+        <descricao>FABRICAçãO DE AGUARDENTES E OUTRAS BEBIDAS DESTILADAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1112</codigo>
+        <descricao>FABRICAçãO DE VINHO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1113</codigo>
+        <descricao>FABRICAçãO DE MALTE, CERVEJAS E CHOPES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1121</codigo>
+        <descricao>FABRICAçãO DE áGUAS ENVASADAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1122</codigo>
+        <descricao>FABRICAçãO DE REFRIGERANTES E DE OUTRAS BEBIDAS NãO-ALCOóLICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1210</codigo>
+        <descricao>PROCESSAMENTO INDUSTRIAL DO FUMO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1220</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DO FUMO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1311</codigo>
+        <descricao>PREPARAçãO E FIAçãO DE FIBRAS DE ALGODãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1312</codigo>
+        <descricao>PREPARAçãO E FIAçãO DE FIBRAS TêXTEIS NATURAIS, EXCETO ALGODãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1313</codigo>
+        <descricao>FIAçãO DE FIBRAS ARTIFICIAIS E SINTéTICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1314</codigo>
+        <descricao>FABRICAçãO DE LINHAS PARA COSTURAR E BORDAR</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1321</codigo>
+        <descricao>TECELAGEM DE FIOS DE ALGODãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1322</codigo>
+        <descricao>TECELAGEM DE FIOS DE FIBRAS TêXTEIS NATURAIS, EXCETO ALGODãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1323</codigo>
+        <descricao>TECELAGEM DE FIOS DE FIBRAS ARTIFICIAIS E SINTéTICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1330</codigo>
+        <descricao>FABRICAçãO DE TECIDOS DE MALHA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1340</codigo>
+        <descricao>ACABAMENTOS EM FIOS, TECIDOS E ARTEFATOS TêXTEIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1351</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS TêXTEIS PARA USO DOMéSTICO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1352</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE TAPEçARIA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1353</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE CORDOARIA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1354</codigo>
+        <descricao>FABRICAçãO DE TECIDOS ESPECIAIS, INCLUSIVE ARTEFATOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1359</codigo>
+        <descricao>FABRICAçãO DE OUTROS PRODUTOS TêXTEIS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1411</codigo>
+        <descricao>CONFECçãO DE ROUPAS íNTIMAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1412</codigo>
+        <descricao>CONFECçãO DE PEçAS DO VESTUáRIO, EXCETO ROUPAS íNTIMAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1413</codigo>
+        <descricao>CONFECçãO DE ROUPAS PROFISSIONAIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1414</codigo>
+        <descricao>FABRICAçãO DE ACESSóRIOS DO VESTUáRIO, EXCETO PARA SEGURANçA E PROTEçãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1421</codigo>
+        <descricao>FABRICAçãO DE MEIAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1422</codigo>
+        <descricao>FABRICAçãO DE ARTIGOS DO VESTUáRIO, PRODUZIDOS EM MALHARIAS ETRICOTAGENS, EXCETO MEIAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1510</codigo>
+        <descricao>CURTIMENTO E OUTRAS PREPARAçõES DE COURO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1521</codigo>
+        <descricao>FABRICAçãO DE ARTIGOS PARA VIAGEM, BOLSAS E SEMELHANTES DE QUALQUER MATERIAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1529</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE COURO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1531</codigo>
+        <descricao>FABRICAçãO DE CALçADOS DE COURO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1532</codigo>
+        <descricao>FABRICAçãO DE TêNIS DE QUALQUER MATERIAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1533</codigo>
+        <descricao>FABRICAçãO DE CALçADOS DE MATERIAL SINTéTICO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1539</codigo>
+        <descricao>FABRICAçãO DE CALçADOS DE MATERIAIS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1540</codigo>
+        <descricao>FABRICAçãO DE PARTES PARA CALçADOS, DE QUALQUER MATERIAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1610</codigo>
+        <descricao>DESDOBRAMENTO DE MADEIRA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1621</codigo>
+        <descricao>FABRICAçãO DE MADEIRA LAMINADA E DE CHAPAS DE MADEIRA COMPENSADA, PRENSADA E AGLOMERADA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1622</codigo>
+        <descricao>FABRICAçãO DE ESTRUTURAS DE MADEIRA E DE ARTIGOS DE CARPINTARIA PARA CONSTRUçãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1623</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE TANOARIA E DE EMBALAGENS DE MADEIRA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1629</codigo>
+        <descricao>FABRICAçãO D/ARTEFATOS D/MADEIRA, PALHA, CORTIçA,VIME E MATERIAL TRANçADO NãO ESPECIFICADOS ANTERIORMENTE, EXCETO MóVEIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1710</codigo>
+        <descricao>FABRICAçãO DE CELULOSE E OUTRAS PASTAS PARA A FABRICAçãO DE PAPEL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1721</codigo>
+        <descricao>FABRICAçãO DE PAPEL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1722</codigo>
+        <descricao>FABRICAçãO DE CARTOLINA E PAPEL-CARTãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1731</codigo>
+        <descricao>FABRICAçãO DE EMBALAGENS DE PAPEL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1732</codigo>
+        <descricao>FABRICAçãO DE EMBALAGENS DE CARTOLINA E PAPEL-CARTãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1733</codigo>
+        <descricao>FABRICAçãO DE CHAPAS E DE EMBALAGENS DE PAPELãO ONDULADO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1741</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE PAPEL, CARTOLINA, PAPEL-CARTãO E PAPELãO ONDULADO PARA USO COMERCIAL E DE ESCRITóRIO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1742</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE PAPEL PARA USOS DOMéSTICO E HIGIêNICO-SANITáRIO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1749</codigo>
+        <descricao>FABRICAçãO D/PRODUTOS D/PASTAS CELULóSICAS, PAPEL, CARTOLINA,PAPEL-CARTãO E PAPELãO ONDULADO N/ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1811</codigo>
+        <descricao>IMPRESSãO DE JORNAIS, LIVROS, REVISTAS E OUTRAS PUBLICAçõES PERIóDICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1812</codigo>
+        <descricao>IMPRESSãO DE MATERIAL DE SEGURANçA</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1813</codigo>
+        <descricao>IMPRESSãO DE MATERIAIS PARA OUTROS USOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1821</codigo>
+        <descricao>SERVIçOS DE PRé-IMPRESSãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1822</codigo>
+        <descricao>SERVIçOS DE ACABAMENTOS GRáFICOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1830</codigo>
+        <descricao>REPRODUçãO DE MATERIAIS GRAVADOS EM QUALQUER SUPORTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1910</codigo>
+        <descricao>COQUERIAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1921</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DO REFINO DE PETRóLEO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1922</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DERIVADOS DO PETRóLEO, EXCETO PRODUTOS DO REFINO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1931</codigo>
+        <descricao>FABRICAçãO DE áLCOOL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>1932</codigo>
+        <descricao>FABRICAçãO DE BIOCOMBUSTíVEIS, EXCETO áLCOOL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2011</codigo>
+        <descricao>FABRICAçãO DE CLORO E áLCALIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2012</codigo>
+        <descricao>FABRICAçãO DE INTERMEDIáRIOS PARA FERTILIZANTES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2013</codigo>
+        <descricao>FABRICAçãO DE ADUBOS E FERTILIZANTES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2014</codigo>
+        <descricao>FABRICAçãO DE GASES INDUSTRIAIS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2019</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS QUíMICOS INORGâNICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2021</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS PETROQUíMICOS BáSICOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2022</codigo>
+        <descricao>FABRICAçãO DE INTERMEDIáRIOS PARA PLASTIFICANTES, RESINAS E FIBRAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2029</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS QUíMICOS ORGâNICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2031</codigo>
+        <descricao>FABRICAçãO DE RESINAS TERMOPLáSTICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2032</codigo>
+        <descricao>FABRICAçãO DE RESINAS TERMOFIXAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2033</codigo>
+        <descricao>FABRICAçãO DE ELASTôMEROS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2040</codigo>
+        <descricao>FABRICAçãO DE FIBRAS ARTIFICIAIS E SINTéTICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2051</codigo>
+        <descricao>FABRICAçãO DE DEFENSIVOS AGRíCOLAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2052</codigo>
+        <descricao>FABRICAçãO DE DESINFESTANTES DOMISSANITáRIOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2061</codigo>
+        <descricao>FABRICAçãO DE SABõES E DETERGENTES SINTéTICOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2062</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE LIMPEZA E POLIMENTO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2063</codigo>
+        <descricao>FABRICAçãO DE COSMéTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2071</codigo>
+        <descricao>FABRICAçãO DE TINTAS, VERNIZES, ESMALTES E LACAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2072</codigo>
+        <descricao>FABRICAçãO DE TINTAS DE IMPRESSãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2073</codigo>
+        <descricao>FABRICAçãO DE IMPERMEABILIZANTES, SOLVENTES E PRODUTOS AFINS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2091</codigo>
+        <descricao>FABRICAçãO DE ADESIVOS E SELANTES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2092</codigo>
+        <descricao>FABRICAçãO DE EXPLOSIVOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2093</codigo>
+        <descricao>FABRICAçãO DE ADITIVOS DE USO INDUSTRIAL</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2094</codigo>
+        <descricao>FABRICAçãO DE CATALISADORES</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2099</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS QUíMICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2110</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS FARMOQUíMICOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2121</codigo>
+        <descricao>FABRICAçãO DE MEDICAMENTOS PARA USO HUMANO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2122</codigo>
+        <descricao>FABRICAçãO DE MEDICAMENTOS PARA USO VETERINáRIO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2123</codigo>
+        <descricao>FABRICAçãO DE PREPARAçõES FARMACêUTICAS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2211</codigo>
+        <descricao>FABRICAçãO DE PNEUMáTICOS E DE CâMARAS-DE-AR</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2212</codigo>
+        <descricao>REFORMA DE PNEUMáTICOS USADOS</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2219</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE BORRACHA NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2221</codigo>
+        <descricao>FABRICAçãO DE LAMINADOS PLANOS E TUBULARES DE MATERIAL PLáSTICO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2222</codigo>
+        <descricao>FABRICAçãO DE EMBALAGENS DE MATERIAL PLáSTICO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2223</codigo>
+        <descricao>FABRICAçãO DE TUBOS E ACESSóRIOS DE MATERIAL PLáSTICO PARA USO NA CONSTRUçãO</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2229</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE MATERIAL PLáSTICO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>03/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2311</codigo>
+        <descricao>FABRICAçãO DE VIDRO PLANO E DE SEGURANçA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2312</codigo>
+        <descricao>FABRICAçãO DE EMBALAGENS DE VIDRO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2319</codigo>
+        <descricao>FABRICAçãO DE ARTIGOS DE VIDRO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2320</codigo>
+        <descricao>FABRICAçãO DE CIMENTO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2330</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS DE CONCRETO, CIMENTO, FIBROCIMENTO, GESSO E MATERIAIS SEMELHANTES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2341</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS CERâMICOS REFRATáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2342</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS CERâMICOS NãO-REFRATáRIOS PARA USO ESTRUTURAL NA CONSTRUçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2349</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS CERâMICOS NãO-REFRATáRIOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2391</codigo>
+        <descricao>APARELHAMENTO E OUTROS TRABALHOS EM PEDRAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2392</codigo>
+        <descricao>FABRICAçãO DE CAL E GESSO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2399</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE MINERAIS NãO-METáLICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2411</codigo>
+        <descricao>PRODUçãO DE FERRO-GUSA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2412</codigo>
+        <descricao>PRODUçãO DE FERROLIGAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2421</codigo>
+        <descricao>PRODUçãO DE SEMI-ACABADOS DE AçO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2422</codigo>
+        <descricao>PRODUçãO DE LAMINADOS PLANOS DE AçO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2423</codigo>
+        <descricao>PRODUçãO DE LAMINADOS LONGOS DE AçO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2424</codigo>
+        <descricao>PRODUçãO DE RELAMINADOS, TREFILADOS E PERFILADOS DE AçO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2431</codigo>
+        <descricao>PRODUçãO DE TUBOS DE AçO COM COSTURA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2439</codigo>
+        <descricao>PRODUçãO DE OUTROS TUBOS DE FERRO E AçO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2441</codigo>
+        <descricao>METALURGIA DO ALUMíNIO E SUAS LIGAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2442</codigo>
+        <descricao>METALURGIA DOS METAIS PRECIOSOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2443</codigo>
+        <descricao>METALURGIA DO COBRE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2449</codigo>
+        <descricao>METALURGIA DOS METAIS NãO-FERROSOS E SUAS LIGAS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2451</codigo>
+        <descricao>FUNDIçãO DE FERRO E AçO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2452</codigo>
+        <descricao>FUNDIçãO DE METAIS NãO-FERROSOS E SUAS LIGAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2511</codigo>
+        <descricao>FABRICAçãO DE ESTRUTURAS METáLICAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2512</codigo>
+        <descricao>FABRICAçãO DE ESQUADRIAS DE METAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2513</codigo>
+        <descricao>FABRICAçãO DE OBRAS DE CALDEIRARIA PESADA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2521</codigo>
+        <descricao>FABRICAçãO DE TANQUES, RESERVATóRIOS METáLICOS E CALDEIRAS PARA AQUECIMENTO CENTRAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2522</codigo>
+        <descricao>FABRICAçãO DE CALDEIRAS GERADORAS DE VAPOR, EXCETO PARA AQUECIMENTO CENTRAL E PARA VEíCULOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2531</codigo>
+        <descricao>PRODUçãO DE FORJADOS DE AçO E DE METAIS NãO-FERROSOS E SUAS LIGAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2532</codigo>
+        <descricao>PRODUçãO DE ARTEFATOS ESTAMPADOS DE METAL; METALURGIA DO Pó</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2539</codigo>
+        <descricao>SERVIçOS DE USINAGEM, SOLDA, TRATAMENTO E REVESTIMENTO EM METAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2541</codigo>
+        <descricao>FABRICAçãO DE ARTIGOS DE CUTELARIA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2542</codigo>
+        <descricao>FABRICAçãO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2543</codigo>
+        <descricao>FABRICAçãO DE FERRAMENTAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2550</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTO BéLICO PESADO, ARMAS DE FOGO E MUNIçõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2591</codigo>
+        <descricao>FABRICAçãO DE EMBALAGENS METáLICAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2592</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE TREFILADOS DE METAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2593</codigo>
+        <descricao>FABRICAçãO DE ARTIGOS DE METAL PARA USO DOMéSTICO E PESSOAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2599</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DE METAL NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2610</codigo>
+        <descricao>FABRICAçãO DE COMPONENTES ELETRôNICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2621</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS DE INFORMáTICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2622</codigo>
+        <descricao>FABRICAçãO DE PERIFéRICOS PARA EQUIPAMENTOS DE INFORMáTICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2631</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS TRANSMISSORES DE COMUNICAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2632</codigo>
+        <descricao>FABRICAçãO DE APARELHOS TELEFôNICOS E DE OUTROS EQUIPAMENTOSDE COMUNICAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2640</codigo>
+        <descricao>FABRICAçãO DE APARELHOS DE RECEPçãO, REPRODUçãO, GRAVAçãO E AMPLIFICAçãO DE áUDIO E VíDEO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2651</codigo>
+        <descricao>FABRICAçãO DE APARELHOS E EQUIPAMENTOS DE MEDIDA, TESTE E CONTROLE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2652</codigo>
+        <descricao>FABRICAçãO DE CRONôMETROS E RELóGIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2660</codigo>
+        <descricao>FABRICAçãO DE APARELHOS ELETROMéDICOS E ELETROTERAPêUTICOS EEQUIPAMENTOS DE IRRADIAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2670</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS E INSTRUMENTOS óPTICOS, FOTOGRáFICOS E CINEMATOGRáFICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2680</codigo>
+        <descricao>FABRICAçãO DE MíDIAS VIRGENS, MAGNéTICAS E óPTICAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2710</codigo>
+        <descricao>FABRICAçãO DE GERADORES, TRANSFORMADORES E MOTORES ELéTRICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2721</codigo>
+        <descricao>FABRICAçãO DE PILHAS, BATERIAS E ACUMULADORES ELéTRICOS, EXCETO PARA VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2722</codigo>
+        <descricao>FABRICAçãO DE BATERIAS E ACUMULADORES PARA VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2731</codigo>
+        <descricao>FABRICAçãO DE APARELHOS E EQUIPAMENTOS PARA DISTRIBUIçãO E CONTROLE DE ENERGIA ELéTRICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2732</codigo>
+        <descricao>FABRICAçãO DE MATERIAL ELéTRICO PARA INSTALAçõES EM CIRCUITODE CONSUMO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2733</codigo>
+        <descricao>FABRICAçãO DE FIOS, CABOS E CONDUTORES ELéTRICOS ISOLADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2740</codigo>
+        <descricao>FABRICAçãO DE LâMPADAS E OUTROS EQUIPAMENTOS DE ILUMINAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2751</codigo>
+        <descricao>FABRICAçãO DE FOGõES, REFRIGERADORES E MáQUINAS DE LAVAR E SECAR PARA USO DOMéSTICO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2759</codigo>
+        <descricao>FABRICAçãO DE APARELHOS ELETRODOMéSTICOS NãO ESPECIFICADOS  ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2790</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS E APARELHOS ELéTRICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2811</codigo>
+        <descricao>FABRICAçãO DE MOTORES E TURBINAS, EXCETO PARA AVIõES E VEíCULOS RODOVIáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2812</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS HIDRáULICOS E PNEUMáTICOS, EXCETO VáLVULAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2813</codigo>
+        <descricao>FABRICAçãO DE VáLVULAS, REGISTROS E DISPOSITIVOS SEMELHANTES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2814</codigo>
+        <descricao>FABRICAçãO DE COMPRESSORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2815</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS DE TRANSMISSãO PARA FINS INDUSTRIAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2821</codigo>
+        <descricao>FABRICAçãO DE APARELHOS E EQUIPAMENTOS PARA INSTALAçõES TéRMICAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2822</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS, EQUIPAMENTOS E APARELHOS PARA TRANSPORTE E ELEVAçãO DE CARGAS E PESSOAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2823</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E APARELHOS DE REFRIGERAçãO E VENTILAçãO PARA USO INDUSTRIAL E COMERCIAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2824</codigo>
+        <descricao>FABRICAçãO DE APARELHOS E EQUIPAMENTOS DE AR CONDICIONADO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2825</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA SANEAMENTO BáSICOE AMBIENTAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2829</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS DE USO GERAL NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2831</codigo>
+        <descricao>FABRICAçãO DE TRATORES AGRíCOLAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2832</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS PARA IRRIGAçãO AGRíCOLA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2833</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA A AGRICULTURA E PECUáRIA, EXCETO PARA IRRIGAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2840</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS-FERRAMENTA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2851</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA A PROSPECçãO E EXTRAçãO DE PETRóLEO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2852</codigo>
+        <descricao>FABRICAçãO DE OUTRAS MáQUINAS E EQUIPAMENTOS PARA USO NA EXTRAçãO MINERAL, EXCETO NA EXTRAçãO DE PETRóLEO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2853</codigo>
+        <descricao>FABRICAçãO DE TRATORES, EXCETO AGRíCOLAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2854</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA TERRAPLENAGEM, PAVIMENTAçãO E CONSTRUçãO, EXCETO TRATORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2861</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS PARA A INDúSTRIA METALúRGICA, EXCETO MáQUINAS-FERRAMENTA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2862</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA AS INDúSTRIAS DE ALIMENTOS, BEBIDAS E FUMO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2863</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA A INDúSTRIA TêXTIL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2864</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA AS INDúSTRIAS DO VESTUáRIO, DO COURO E DE CALçADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2865</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA AS INDúSTRIAS DE CELULOSE, PAPEL E PAPELãO E ARTEFATOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2866</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA A INDúSTRIA DO PLáSTICO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2869</codigo>
+        <descricao>FABRICAçãO DE MáQUINAS E EQUIPAMENTOS PARA USO INDUSTRIAL ESPECíFICO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2910</codigo>
+        <descricao>FABRICAçãO DE AUTOMóVEIS, CAMIONETAS E UTILITáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2920</codigo>
+        <descricao>FABRICAçãO DE CAMINHõES E ôNIBUS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2930</codigo>
+        <descricao>FABRICAçãO DE CABINES, CARROCERIAS E REBOQUES PARA VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2941</codigo>
+        <descricao>FABRICAçãO DE PEçAS E ACESSóRIOS PARA O SISTEMA MOTOR DE VE íCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2942</codigo>
+        <descricao>FABRICAçãO DE PEçAS E ACESSóRIOS PARA OS SISTEMAS DE MARCHA E TRANSMISSãO DE VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2943</codigo>
+        <descricao>FABRICAçãO DE PEçAS E ACESSóRIOS PARA O SISTEMA DE FREIOS DEVEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2944</codigo>
+        <descricao>FABRICAçãO DE PEçAS E ACESSóRIOS PARA O SISTEMA DE DIREçãO ESUSPENSãO DE VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2945</codigo>
+        <descricao>FABRICAçãO DE MATERIAL ELéTRICO E ELETRôNICO PARA VEíCULOS  AUTOMOTORES, EXCETO BATERIAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2949</codigo>
+        <descricao>FABRICAçãO DE PEçAS E ACESSóRIOS PARA VEíCULOS AUTOMOTORES NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>2950</codigo>
+        <descricao>RECONDICIONAMENTO E RECUPERAçãO DE MOTORES PARA VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3011</codigo>
+        <descricao>CONSTRUçãO DE EMBARCAçõES E ESTRUTURAS FLUTUANTES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3012</codigo>
+        <descricao>CONSTRUçãO DE EMBARCAçõES PARA ESPORTE E LAZER</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3031</codigo>
+        <descricao>FABRICAçãO DE LOCOMOTIVAS,VAGõES E OUTROS MATERIAIS RODANTESS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3032</codigo>
+        <descricao>FABRICAçãO DE PEçAS E ACESSóRIOS PARA VEíCULOS FERROVIáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3041</codigo>
+        <descricao>FABRICAçãO DE AERONAVES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3042</codigo>
+        <descricao>FABRICAçãO DE TURBINAS, MOTORES E OUTROS COMPONENTES E PEçASPARA AERONAVES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3050</codigo>
+        <descricao>FABRICAçãO DE VEíCULOS MILITARES DE COMBATE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3091</codigo>
+        <descricao>FABRICAçãO DE MOTOCICLETAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3092</codigo>
+        <descricao>FABRICAçãO DE BICICLETAS E TRICICLOS NãO-MOTORIZADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3099</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS DE TRANSPORTE NãO ESPECIFICADOS  ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3101</codigo>
+        <descricao>FABRICAçãO DE MóVEIS COM PREDOMINâNCIA DE MADEIRA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3102</codigo>
+        <descricao>FABRICAçãO DE MóVEIS COM PREDOMINâNCIA DE METAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3103</codigo>
+        <descricao>FABRICAçãO DE MóVEIS DE OUTROS MATERIAIS, EXCETO MADEIRA E  METAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3104</codigo>
+        <descricao>FABRICAçãO DE COLCHõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3211</codigo>
+        <descricao>LAPIDAçãO DE GEMAS E FABRICAçãO DE ARTEFATOS DE OURIVESARIA E JOALHERIA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3212</codigo>
+        <descricao>FABRICAçãO DE BIJUTERIAS E ARTEFATOS SEMELHANTES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3220</codigo>
+        <descricao>FABRICAçãO DE INSTRUMENTOS MUSICAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3230</codigo>
+        <descricao>FABRICAçãO DE ARTEFATOS PARA PESCA E ESPORTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3240</codigo>
+        <descricao>FABRICAçãO DE BRINQUEDOS E JOGOS RECREATIVOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3250</codigo>
+        <descricao>FABRICAçãO DE INSTRUMENTOS E MATERIAIS PARA USO MéDICO E ODONTOLóGICO E DE ARTIGOS óPTICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3291</codigo>
+        <descricao>FABRICAçãO DE ESCOVAS, PINCéIS E VASSOURAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3292</codigo>
+        <descricao>FABRICAçãO DE EQUIPAMENTOS E ACESSóRIOS PARA SEGURANçA E PROTEçãO PESSOAL E PROFISSIONAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3299</codigo>
+        <descricao>FABRICAçãO DE PRODUTOS DIVERSOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3311</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE TANQUES, RESERVATóRIOS METáLICOS ECALDEIRAS, EXCETO PARA VEíCULOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3312</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE EQUIPAMENTOS ELETRôNICOS E óPTICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3313</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE MáQUINAS E EQUIPAMENTOS ELéTRICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3314</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE MáQUINAS E EQUIPAMENTOS DA INDúSTRIA MECâNICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3315</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE VEíCULOS FERROVIáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3316</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE AERONAVES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3317</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE EMBARCAçõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3319</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE EQUIPAMENTOS E PRODUTOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3321</codigo>
+        <descricao>INSTALAçãO DE MáQUINAS E EQUIPAMENTOS INDUSTRIAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3329</codigo>
+        <descricao>INSTALAçãO DE EQUIPAMENTOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3511</codigo>
+        <descricao>GERAçãO DE ENERGIA ELéTRICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3512</codigo>
+        <descricao>TRANSMISSãO DE ENERGIA ELéTRICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3513</codigo>
+        <descricao>COMéRCIO ATACADISTA DE ENERGIA ELéTRICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3514</codigo>
+        <descricao>DISTRIBUIçãO DE ENERGIA ELéTRICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3520</codigo>
+        <descricao>PRODUçãO DE GáS; PROCESSAMENTO DE GáS NATURAL; DISTRIBUIçãO DE COMBUSTíVEIS GASOSOS POR REDES URBANAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3530</codigo>
+        <descricao>PRODUçãO E DISTRIBUIçãO DE VAPOR, áGUA QUENTE E AR CONDICIONADO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3600</codigo>
+        <descricao>CAPTAçãO, TRATAMENTO E DISTRIBUIçãO DE áGUA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3701</codigo>
+        <descricao>GESTãO DE REDES DE ESGOTO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3702</codigo>
+        <descricao>ATIVIDADES RELACIONADAS A ESGOTO, EXCETO A GESTãO DE REDES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3811</codigo>
+        <descricao>COLETA DE RESíDUOS NãO-PERIGOSOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3812</codigo>
+        <descricao>COLETA DE RESíDUOS PERIGOSOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3821</codigo>
+        <descricao>TRATAMENTO E DISPOSIçãO DE RESíDUOS NãO-PERIGOSOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3822</codigo>
+        <descricao>TRATAMENTO E DISPOSIçãO DE RESíDUOS PERIGOSOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3831</codigo>
+        <descricao>RECUPERAçãO DE MATERIAIS METáLICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3832</codigo>
+        <descricao>RECUPERAçãO DE MATERIAIS PLáSTICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3839</codigo>
+        <descricao>RECUPERAçãO DE MATERIAIS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>3900</codigo>
+        <descricao>DESCONTAMINAçãO E OUTROS SERVIçOS DE GESTãO DE RESíDUOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4110</codigo>
+        <descricao>INCORPORAçãO DE EMPREENDIMENTOS IMOBILIáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4120</codigo>
+        <descricao>CONSTRUçãO DE EDIFíCIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4211</codigo>
+        <descricao>CONSTRUçãO DE RODOVIAS E FERROVIAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4212</codigo>
+        <descricao>CONSTRUçãO DE OBRAS-DE-ARTE ESPECIAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4213</codigo>
+        <descricao>OBRAS DE URBANIZAçãO - RUAS, PRAçAS E CALçADAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4221</codigo>
+        <descricao>OBRAS PARA GERAçãO E DISTRIBUIçãO DE ENERGIA ELéTRICA E PARATELECOMUNICAçõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4222</codigo>
+        <descricao>CONSTRUçãO DE REDES DE ABASTECIMENTO DE áGUA, COLETA DE ESGOTO E CONSTRUçõES CORRELATAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4223</codigo>
+        <descricao>CONSTRUçãO DE REDES DE TRANSPORTES POR DUTOS, EXCETO PARA áGUA E ESGOTO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4291</codigo>
+        <descricao>OBRAS PORTUáRIAS, MARíTIMAS E FLUVIAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4292</codigo>
+        <descricao>MONTAGEM DE INSTALAçõES INDUSTRIAIS E DE ESTRUTURAS METáLI  CAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4299</codigo>
+        <descricao>OBRAS DE ENGENHARIA CIVIL NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4311</codigo>
+        <descricao>DEMOLIçãO E PREPARAçãO DE CANTEIROS DE OBRAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4312</codigo>
+        <descricao>PERFURAçõES E SONDAGENS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4313</codigo>
+        <descricao>OBRAS DE TERRAPLENAGEM</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4319</codigo>
+        <descricao>SERVIçOS DE PREPARAçãO DO TERRENO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4321</codigo>
+        <descricao>INSTALAçõES ELéTRICAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4322</codigo>
+        <descricao>INSTALAçõES HIDRáULICAS, DE SISTEMAS DE VENTILAçãO E REFRIGERAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4329</codigo>
+        <descricao>OBRAS DE INSTALAçõES EM CONSTRUçõES NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4330</codigo>
+        <descricao>OBRAS DE ACABAMENTO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4391</codigo>
+        <descricao>OBRAS DE FUNDAçõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4399</codigo>
+        <descricao>SERVIçOS ESPECIALIZADOS PARA CONSTRUçãO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4511</codigo>
+        <descricao>COMéRCIO A VAREJO E POR ATACADO DE VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4512</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4520</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4530</codigo>
+        <descricao>COMéRCIO DE PEçAS E ACESSóRIOS PARA VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4541</codigo>
+        <descricao>COMéRCIO POR ATACADO E A VAREJO DE MOTOCICLETAS, PEçAS E ACESSóRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4542</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE MOTOCICLETAS, PEçAS E ACESSóRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4543</codigo>
+        <descricao>MANUTENçãO E REPARAçãO DE MOTOCICLETAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4611</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE MATéRIAS-PRIMAS AGRíCOLAS E ANIMAIS VIVOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4612</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE COMBUSTíVEIS, MINERAIS, PRODUTOS SIDERúRGICOS E QUíMICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4613</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE MADEIRA, MATERIAL DE CONSTRUçãO E FERRAGENS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4614</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE MáQUINAS,EQUIPAMENTOS, EMBARCAçõES E AERONAVES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4615</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE ELETRODOMéSTICOS, MóVEIS E ARTIGOS DE USO DOMéSTICO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4616</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE TêXTEIS, VESTUáRIO, CALçADOS E ARTIGOS DE VIAGEM</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4617</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE PRODUTOS ALIMENTíCIOS, BEBIDAS E FUMO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4618</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO ESPECIALIZA DO EM PRODUTOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4619</codigo>
+        <descricao>REPRESENTANTES COMERCIAIS E AGENTES DO COMéRCIO DE MERCADORIAS EM GERAL NãO ESPECIALIZADO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4621</codigo>
+        <descricao>COMéRCIO ATACADISTA DE CAFé EM GRãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4622</codigo>
+        <descricao>COMéRCIO ATACADISTA DE SOJA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4623</codigo>
+        <descricao>COMéRCIO ATACADISTA DE ANIMAIS VIVOS, ALIMENTOS PARA ANIMAISE MATéRIAS-PRIMAS AGRíCOLAS, EXCETO CAFé E SOJA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4631</codigo>
+        <descricao>COMéRCIO ATACADISTA DE LEITE E LATICíNIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4632</codigo>
+        <descricao>COMéRCIO ATACADISTA DE CEREAIS E LEGUMINOSAS BENEFICIADOS,  FARINHAS, AMIDOS E FéCULAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4633</codigo>
+        <descricao>COMéRCIO ATACADISTA DE HORTIFRUTIGRANJEIROS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4634</codigo>
+        <descricao>COMéRCIO ATACADISTA DE CARNES, PRODUTOS DA CARNE E PESCADO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4635</codigo>
+        <descricao>COMéRCIO ATACADISTA DE BEBIDAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4636</codigo>
+        <descricao>COMéRCIO ATACADISTA DE PRODUTOS DO FUMO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4637</codigo>
+        <descricao>COMéRCIO ATACADISTA ESPECIALIZADO EM PRODUTOS ALIMENTíCIOS  NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4639</codigo>
+        <descricao>COMéRCIO ATACADISTA DE PRODUTOS ALIMENTíCIOS EM GERAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4641</codigo>
+        <descricao>COMéRCIO ATACADISTA DE TECIDOS, ARTEFATOS DE TECIDOS E DE ARMARINHO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4642</codigo>
+        <descricao>COMéRCIO ATACADISTA DE ARTIGOS DO VESTUáRIO E ACESSóRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4643</codigo>
+        <descricao>COMéRCIO ATACADISTA DE CALçADOS E ARTIGOS DE VIAGEM</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4644</codigo>
+        <descricao>COMéRCIO ATACADISTA DE PRODUTOS FARMACêUTICOS PARA USO HUMA NO E VETERINáRIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4645</codigo>
+        <descricao>COMéRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MéDICO, CIRúRGICO, ORTOPéDICO E ODONTOLóGICO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4646</codigo>
+        <descricao>COMéRCIO ATACADISTA DE COSMéTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4647</codigo>
+        <descricao>COMéRCIO ATACADISTA DE ARTIGOS DE ESCRITóRIO E DE PAPELARIA;LIVROS, JORNAIS E OUTRAS PUBLICAçõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4649</codigo>
+        <descricao>COMéRCIO ATACADISTA DE EQUIPAMENTOS E ARTIGOS DE USO PESSOALE DOMéSTICO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4651</codigo>
+        <descricao>COMéRCIO ATACADISTA DE COMPUTADORES, PERIFéRICOS E SUPRIMENTOS DE INFORMáTICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4652</codigo>
+        <descricao>COMéRCIO ATACADISTA DE COMPONENTES ELETRôNICOS E EQUIPAMEN  TOS DE TELEFONIA E COMUNICAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4661</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MáQUINAS, APARELHOS E EQUIPAMENTOS PARA USO AGROPECUáRIO; PARTES E PEçAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4662</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MáQUINAS, EQUIPAMENTOS PARA TERRAPLANAGEM, MINERAçãO E CONSTRUçãO; PARTES E PEçAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4663</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MáQUINAS E EQUIPAMENTOS PARA USO INDUSTRIAL; PARTES E PEçAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4664</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MáQUINAS, APARELHOS E EQUIPAMENTOS PARA USO ODONTO-MéDICO-HOSPITALAR; PARTES E PEçAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4665</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MáQUINAS E EQUIPAMENTOS PARA USO COMERCIAL; PARTES E PEçAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4669</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MáQUINAS,APARELHOS E EQUIPAMENTOS NãOESPECIFICADOS ANTERIORMENTE; PARTES E PEçAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4671</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MADEIRA E PRODUTOS DERIVADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4672</codigo>
+        <descricao>COMéRCIO ATACADISTA DE FERRAGENS E FERRAMENTAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4673</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MATERIAL ELéTRICO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4674</codigo>
+        <descricao>COMéRCIO ATACADISTA DE CIMENTO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4679</codigo>
+        <descricao>COMéRCIO ATACADISTA ESPECIALIZADO D/MATERS. D/CONSTR.NãO ESPECIFICS. ANTERIORMENTE E D/MATERIAIS D/CONSTRUçãO EM GERAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4681</codigo>
+        <descricao>COMéRCIO ATACADISTA DE COMBUSTíVEIS SóLIDOS, LíQUIDOS E GASOSOS, EXCETO GáS NATURAL E GLP</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4682</codigo>
+        <descricao>COMéRCIO ATACADISTA DE GáS LIQüEFEITO DE PETRóLEO (GLP)</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4683</codigo>
+        <descricao>COMéRCIO ATACADISTA DE DEFENSIVOS AGRíCOLAS, ADUBOS, FERTILIZANTES E CORRETIVOS DO SOLO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4684</codigo>
+        <descricao>COMéRCIO ATACADISTA DE PRODUTOS QUíMICOS E PETROQUíMICOS, EXCETO AGROQUíMICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4685</codigo>
+        <descricao>COMéRCIO ATACADISTA DE PRODUTOS SIDERúRGICOS E METALúRGICOS,EXCETO PARA CONSTRUçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4686</codigo>
+        <descricao>COMéRCIO ATACADISTA DE PAPEL E PAPELãO EM BRUTO E DE EMBALA GENS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4687</codigo>
+        <descricao>COMéRCIO ATACADISTA DE RESíDUOS E SUCATAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4689</codigo>
+        <descricao>COMéRCIO ATACADISTA ESPECIALIZADO DE OUTROS PRODUTOS INTERMEDIáRIOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4691</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MERCADORIAS EM GERAL, COM PREDOMINâN CIA DE PRODUTOS ALIMENTíCIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4692</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MERCADORIAS EM GERAL, COM PREDOMINâN CIA DE INSUMOS AGROPECUáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4693</codigo>
+        <descricao>COMéRCIO ATACADISTA DE MERCADORIAS EM GERAL, SEM PREDOMINâN CIA DE ALIMENTOS OU DE INSUMOS AGROPECUáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4711</codigo>
+        <descricao>COMéRCIO VAREJISTA DE MERCADORIAS EM GERAL,COM PREDOMINâNCIADE PRODUTOS ALIMENTíCIOS - HIPERMERCADOS E SUPERMERCADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4712</codigo>
+        <descricao>COMéRCIO VAREJISTA DE MERCADORIAS EM GERAL,COM PREDOMINâNCIADE PRODUTOS ALIMENTíCIOS-MINIMERCADOS, MERCERIAS E ARMAZéNS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4713</codigo>
+        <descricao>COMéRCIO VAREJISTA DE MERCADORIAS EM GERAL,SEM PREDOMINâNCIADE PRODUTOS ALIMENTíCIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4721</codigo>
+        <descricao>COMéRCIO VAREJISTA DE PRODUTOS DE PADARIA, LATICíNIO, DOCES,BALAS E SEMELHANTES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4722</codigo>
+        <descricao>COMéRCIO VAREJISTA DE CARNES E PESCADOS-AçOUGUES E PEIXARIAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4723</codigo>
+        <descricao>COMéRCIO VAREJISTA DE BEBIDAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4724</codigo>
+        <descricao>COMéRCIO VAREJISTA DE HORTIFRUTIGRANJEIROS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4729</codigo>
+        <descricao>COMéRCIO VAREJ.D/PRODUTOS ALIMENTS.EM GERAL OU ESPECIALIZ.EMPRODS.ALIMENTíCS. N/ESPECIFICS.ANTERIORM.; PRODUTOS D/FUMO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4731</codigo>
+        <descricao>COMéRCIO VAREJISTA DE COMBUSTíVEIS PARA VEíCULOS AUTOMOTORES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4732</codigo>
+        <descricao>COMéRCIO VAREJISTA DE LUBRIFICANTES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4741</codigo>
+        <descricao>COMéRCIO VAREJISTA DE TINTAS E MATERIAIS PARA PINTURA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4742</codigo>
+        <descricao>COMéRCIO VAREJISTA DE MATERIAL ELéTRICO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4743</codigo>
+        <descricao>COMéRCIO VAREJISTA DE VIDROS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4744</codigo>
+        <descricao>COMéRCIO VAREJISTA DE FERRAGENS, MADEIRA E MATERIAIS DE CONSTRUçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4751</codigo>
+        <descricao>COMéRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS E SUPRIMEN TOS DE INFORMáTICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4752</codigo>
+        <descricao>COMéRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS DE TELEFO  NIA E COMUNICAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4753</codigo>
+        <descricao>COMéRCIO VAREJISTA ESPECIALIZADO DE ELETRODOMéSTICOS E EQUI PAMENTOS DE áUDIO E VíDEO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4754</codigo>
+        <descricao>COMÉRCIO VAREJISTA ESPECIALIZADO DE MÓVEIS, COLCHOARIA E ARTIGOS DE ILUMINAçÃO</descricao>
+        <inicioVigencia>15/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4755</codigo>
+        <descricao>COMéRCIO VAREJISTA ESPECIALIZADO DE TECIDOS E ARTIGOS DE CA MA, MESA E BANHO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4756</codigo>
+        <descricao>COMéRCIO VAREJISTA ESPECIALIZADO DE INSTRUMENTOS MUSICAIS E ACESSóRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4757</codigo>
+        <descricao>COMéRCIO VAREJISTA ESPECIALIZ.D/PEçAS E ACESSóRS.P/APARERS. ELETROELETRS.P/USO DOMéSTICO, EXCETO INFORMáT.E COMUNICAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4759</codigo>
+        <descricao>COMéRCIO VAREJISTA DE ARTIGOS DE USO DOMéSTICO NãO ESPECIFI CADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4761</codigo>
+        <descricao>COMéRCIO VAREJISTA DE LIVROS, JORNAIS, REVISTAS E PAPELARIA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4762</codigo>
+        <descricao>COMéRCIO VAREJISTA DE DISCOS, CDS, DVDS E FITAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4763</codigo>
+        <descricao>COMéRCIO VAREJISTA DE ARTIGOS RECREATIVOS E ESPORTIVOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4771</codigo>
+        <descricao>COMéRCIO VAREJISTA DE PRODUTOS FARMACêUTICOS PARA USO HUMANOE VETERINáRIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4772</codigo>
+        <descricao>COMéRCIO VAREJISTA DE COSMéTICOS, PRODUTOS DE PERFUMARIA E  DE HIGIENE PESSOAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4773</codigo>
+        <descricao>COMéRCIO VAREJISTA DE ARTIGOS MéDICOS E ORTOPéDICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4774</codigo>
+        <descricao>COMéRCIO VAREJISTA DE ARTIGOS DE óPTICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4781</codigo>
+        <descricao>COMéRCIO VAREJISTA DE ARTIGOS DO VESTUáRIO E ACESSóRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4782</codigo>
+        <descricao>COMéRCIO VAREJISTA DE CALçADOS E ARTIGOS DE VIAGEM</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4783</codigo>
+        <descricao>COMéRCIO VAREJISTA DE JóIAS E RELóGIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4784</codigo>
+        <descricao>COMéRCIO VAREJISTA DE GáS LIQüEFEITO DE PETRóLEO (GLP)</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4785</codigo>
+        <descricao>COMéRCIO VAREJISTA DE ARTIGOS USADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4789</codigo>
+        <descricao>COMéRCIO VAREJISTA DE OUTROS PRODUTOS NOVOS NãO ESPECIFICA  DOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4790</codigo>
+        <descricao>COMéRCIO AMBULANTE E OUTROS TIPOS DE COMéRCIO VAREJISTA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4911</codigo>
+        <descricao>TRANSPORTE FERROVIáRIO DE CARGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4912</codigo>
+        <descricao>TRANSPORTE METROFERROVIáRIO DE PASSAGEIROS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4921</codigo>
+        <descricao>TRANSPORTE RODOVIáRIO COLETIVO DE PASSAGEIROS,COM ITINERáRIOFIXO, MUNICIPAL E EM REGIãO METROPOLITANA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4922</codigo>
+        <descricao>TRANSP. RODOVIáRIO COLETIVO D/PASSAGEIROS,C/ITINERáRIO FIXO,INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4923</codigo>
+        <descricao>TRANSPORTE RODOVIáRIO DE TáXI</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4924</codigo>
+        <descricao>TRANSPORTE ESCOLAR</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4929</codigo>
+        <descricao>TRANSP. RODOVIáRIO COLETIVO D/PASSAGEIROS,SOB REGIME D/FRETAMENTO, E OUTROS TRANSPORTES RODOVIáRIOS NãO ESPECIFICADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4930</codigo>
+        <descricao>TRANSPORTE RODOVIáRIO DE CARGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4940</codigo>
+        <descricao>TRANSPORTE DUTOVIáRIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>4950</codigo>
+        <descricao>TRENS TURíSTICOS, TELEFéRICOS E SIMILARES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5011</codigo>
+        <descricao>TRANSPORTE MARíTIMO DE CABOTAGEM</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5012</codigo>
+        <descricao>TRANSPORTE MARíTIMO DE LONGO CURSO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5021</codigo>
+        <descricao>TRANSPORTE POR NAVEGAçãO INTERIOR DE CARGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5022</codigo>
+        <descricao>TRANSPORTE POR NAVEGAçãO INTERIOR DE PASSAGEIROS EM LINHAS  REGULARES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5030</codigo>
+        <descricao>NAVEGAçãO DE APOIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5091</codigo>
+        <descricao>TRANSPORTE POR NAVEGAçãO DE TRAVESSIA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5099</codigo>
+        <descricao>TRANSPORTES AQUAVIáRIOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5111</codigo>
+        <descricao>TRANSPORTE AéREO DE PASSAGEIROS REGULAR</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5112</codigo>
+        <descricao>TRANSPORTE AéREO DE PASSAGEIROS NãO-REGULAR</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5120</codigo>
+        <descricao>TRANSPORTE AéREO DE CARGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5130</codigo>
+        <descricao>TRANSPORTE ESPACIAL</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5211</codigo>
+        <descricao>ARMAZENAMENTO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5212</codigo>
+        <descricao>CARGA E DESCARGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5221</codigo>
+        <descricao>CONCESSIONáRIAS DE RODOVIAS, PONTES, TúNEIS E SERVIçOS RELACIONADOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5222</codigo>
+        <descricao>TERMINAIS RODOVIáRIOS E FERROVIáRIOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5223</codigo>
+        <descricao>ESTACIONAMENTO DE VEíCULOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5229</codigo>
+        <descricao>ATIVIDADES AUXILIARES DOS TRANSPORTES TERRESTRES NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5231</codigo>
+        <descricao>GESTãO DE PORTOS E TERMINAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5232</codigo>
+        <descricao>ATIVIDADES DE AGENCIAMENTO MARíTIMO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5239</codigo>
+        <descricao>ATIVIDADES AUXILIARES DOS TRANSPORTES AQUAVIáRIOS NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5240</codigo>
+        <descricao>ATIVIDADES AUXILIARES DOS TRANSPORTES AéREOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5250</codigo>
+        <descricao>ATIVIDADES RELACIONADAS à ORGANIZAçãO DO TRANSPORTE DE CARGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5310</codigo>
+        <descricao>ATIVIDADES DE CORREIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5320</codigo>
+        <descricao>ATIVIDADES DE MALOTE E DE ENTREGA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5510</codigo>
+        <descricao>HOTéIS E SIMILARES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5590</codigo>
+        <descricao>OUTROS TIPOS DE ALOJAMENTO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5611</codigo>
+        <descricao>RESTAURANTES E OUTROS ESTABELECIMENTOS DE SERVIçOS DE ALIMENTAçãO E BEBIDAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5612</codigo>
+        <descricao>SERVIçOS AMBULANTES DE ALIMENTAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5620</codigo>
+        <descricao>SERVIçOS DE CATERING, BUFê E OUTROS SERVIçOS DE COMIDA PREPARADA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5811</codigo>
+        <descricao>EDIçãO DE LIVROS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5812</codigo>
+        <descricao>EDIçãO DE JORNAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5813</codigo>
+        <descricao>EDIçãO DE REVISTAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5819</codigo>
+        <descricao>EDIçãO DE CADASTROS, LISTAS E OUTROS PRODUTOS GRáFICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5821</codigo>
+        <descricao>EDIçãO INTEGRADA à IMPRESSãO DE LIVROS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5822</codigo>
+        <descricao>EDIçãO INTEGRADA à IMPRESSãO DE JORNAIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5823</codigo>
+        <descricao>EDIçãO INTEGRADA à IMPRESSãO DE REVISTAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5829</codigo>
+        <descricao>EDIçãO INTEGRADA à IMPRESSãO DE CADASTROS, LISTAS E OUTROS  PRODUTOS GRáFICOS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5911</codigo>
+        <descricao>ATIVIDADES DE PRODUçãO CINEMATOGRáFICA, DE VíDEOS E DE PROGRAMAS DE TELEVISãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5912</codigo>
+        <descricao>ATIVIDADES DE PóS-PRODUçãO CINEMATOGRáFICA, DE VíDEOS E DE  PROGRAMAS DE TELEVISãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5913</codigo>
+        <descricao>DISTRIBUIçãO CINEMATOGRáFICA, DE VíDEO E DE PROGRAMAS DE TE LEVISãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5914</codigo>
+        <descricao>ATIVIDADES DE EXIBIçãO CINEMATOGRáFICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>5920</codigo>
+        <descricao>ATIVIDADES DE GRAVAçãO DE SOM E DE EDIçãO DE MúSICA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6010</codigo>
+        <descricao>ATIVIDADES DE RáDIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6021</codigo>
+        <descricao>ATIVIDADES DE TELEVISãO ABERTA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6022</codigo>
+        <descricao>PROGRAMADORAS E ATIVIDADES RELACIONADAS à TELEVISãO POR ASSINATURA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6110</codigo>
+        <descricao>TELECOMUNICAçõES POR FIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6120</codigo>
+        <descricao>TELECOMUNICAçõES SEM FIO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6130</codigo>
+        <descricao>TELECOMUNICAçõES POR SATéLITE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6141</codigo>
+        <descricao>OPERADORAS DE TELEVISãO POR ASSINATURA POR CABO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6142</codigo>
+        <descricao>OPERADORAS DE TELEVISãO POR ASSINATURA POR MICROONDAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6143</codigo>
+        <descricao>OPERADORAS DE TELEVISãO POR ASSINATURA POR SATéLITE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6190</codigo>
+        <descricao>OUTRAS ATIVIDADES DE TELECOMUNICAçõES</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6201</codigo>
+        <descricao>DESENVOLVIMENTO DE PROGRAMAS DE COMPUTADOR SOB ENCOMENDA</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6202</codigo>
+        <descricao>DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR  CUSTOMIZáVEIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6203</codigo>
+        <descricao>DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR  NãO-CUSTOMIZáVEIS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6204</codigo>
+        <descricao>CONSULTORIA EM TECNOLOGIA DA INFORMAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6209</codigo>
+        <descricao>SUPORTE TéCNICO, MANUTENçãO E OUTROS SERVIçOS EM TECNOLOGIA DA INFORMAçãO</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6311</codigo>
+        <descricao>TRATAMENTO DE DADOS, PROVEDORES DE SERVIçOS DE APLICAçãO ESERVIçOS DE HOSPEDAGEM NA INTERNET</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6319</codigo>
+        <descricao>PORTAIS, PROVEDORES DE CONTEúDO E OUTROS SERVIçOS DE INFORMAçãO NA INTERNET</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6391</codigo>
+        <descricao>AGêNCIAS DE NOTíCIAS</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6399</codigo>
+        <descricao>OUTRAS ATIVIDADES DE PRESTAçãO DE SERVIçOS DE INFORMAçãO NãOESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>04/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6410</codigo>
+        <descricao>BANCO CENTRAL</descricao>
+        <inicioVigencia>17/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6421</codigo>
+        <descricao>BANCOS COMERCIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6422</codigo>
+        <descricao>BANCOS MúLTIPLOS, COM CARTEIRA COMERCIAL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6423</codigo>
+        <descricao>CAIXAS ECONôMICAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6424</codigo>
+        <descricao>CRéDITO COOPERATIVO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6431</codigo>
+        <descricao>BANCOS MúLTIPLOS, SEM CARTEIRA COMERCIAL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6432</codigo>
+        <descricao>BANCOS DE INVESTIMENTO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6433</codigo>
+        <descricao>BANCOS DE DESENVOLVIMENTO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6434</codigo>
+        <descricao>AGêNCIAS DE FOMENTO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6435</codigo>
+        <descricao>CRéDITO IMOBILIáRIO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6436</codigo>
+        <descricao>SOCIEDADES DE CRéDITO, FINANCIAMENTO E INVESTIMENTO-FINANCEIRAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6437</codigo>
+        <descricao>SOCIEDADES DE CRéDITO AO MICROEMPREENDEDOR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6440</codigo>
+        <descricao>ARRENDAMENTO MERCANTIL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6450</codigo>
+        <descricao>SOCIEDADES DE CAPITALIZAçãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6461</codigo>
+        <descricao>HOLDINGS DE INSTITUIçõES FINANCEIRAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6462</codigo>
+        <descricao>HOLDINGS DE INSTITUIçõES NãO-FINANCEIRAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6463</codigo>
+        <descricao>OUTRAS SOCIEDADES DE PARTICIPAçãO, EXCETO HOLDINGS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6470</codigo>
+        <descricao>FUNDOS DE INVESTIMENTO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6491</codigo>
+        <descricao>SOCIEDADES DE FOMENTO MERCANTIL - FACTORING</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6492</codigo>
+        <descricao>SECURITIZAçãO DE CRéDITOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6493</codigo>
+        <descricao>ADMINISTRAçãO DE CONSóRCIOS PARA AQUISIçãO DE BENS E DIREI  TOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6499</codigo>
+        <descricao>OUTRAS ATIVIDADES DE SERVIçOS FINANCEIROS NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6511</codigo>
+        <descricao>SEGUROS DE VIDA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6512</codigo>
+        <descricao>SEGUROS NãO-VIDA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6520</codigo>
+        <descricao>SEGUROS-SAúDE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6530</codigo>
+        <descricao>RESSEGUROS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6541</codigo>
+        <descricao>PREVIDêNCIA COMPLEMENTAR FECHADA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6542</codigo>
+        <descricao>PREVIDêNCIA COMPLEMENTAR ABERTA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6550</codigo>
+        <descricao>PLANOS DE SAúDE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6611</codigo>
+        <descricao>ADMINISTRAçãO DE BOLSAS E MERCADOS DE BALCãO ORGANIZADOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6612</codigo>
+        <descricao>ATIVIDADES DE INTERMEDIáRIOS EM TRANSAçõES DE TíTULOS, VALORES MOBILIáRIOS E MERCADORIAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6613</codigo>
+        <descricao>ADMINISTRAçãO DE CARTõES DE CRéDITO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6619</codigo>
+        <descricao>ATIVIDADES AUXILIARES DOS SERVIçOS FINANCEIROS NãO ESPECIFI CADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6621</codigo>
+        <descricao>AVALIAçãO DE RISCOS E PERDAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6622</codigo>
+        <descricao>CORRETORES E AGENTES DE SEGUROS, DE PLANOS DE PREVIDêNCIA COMPLEMENTAR E DE SAúDE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6629</codigo>
+        <descricao>ATIVIDS.AUXILIARES D/SEGUROS,D/PREVIDêNCIA COMPLEMETAR E DOSPLANOS D/SAúDE N/ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6630</codigo>
+        <descricao>ATIVIDADES D/ADMINISTRAçãO D/FUNDOS POR CONTRATO OU COMISSãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6810</codigo>
+        <descricao>ATIVIDADES IMOBILIáRIAS DE IMóVEIS PRóPRIOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6821</codigo>
+        <descricao>INTERMEDIAçãO NA COMPRA, VENDA E ALUGUEL DE IMóVEIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6822</codigo>
+        <descricao>GESTãO E ADMINISTRAçãO DA PROPRIEDADE IMOBILIáRIA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6911</codigo>
+        <descricao>ATIVIDADES JURíDICAS, EXCETO CARTóRIOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6912</codigo>
+        <descricao>CARTóRIOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>6920</codigo>
+        <descricao>ATIVIDADES DE CONTABILIDADE,CONSULTORIA E AUDITORIA CONTáBILE TRIBUTáRIA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7010</codigo>
+        <descricao>SEDES DE EMPRESAS E UNIDADES ADMINISTRATIVAS LOCAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7020</codigo>
+        <descricao>ATIVIDADES DE CONSULTORIA EM GESTãO EMPRESARIAL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7111</codigo>
+        <descricao>SERVIçOS DE ARQUITETURA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7112</codigo>
+        <descricao>SERVIçOS DE ENGENHARIA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7119</codigo>
+        <descricao>ATIVIDADES TéCNICAS RELACIONADAS à ARQUITETURA E ENGENHARIA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7120</codigo>
+        <descricao>TESTES E ANáLISES TéCNICAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7210</codigo>
+        <descricao>PESQUISA E DESENVOLVIMENTO EXPERIMENTAL EM CIêNCIAS FíSICAS ENATURAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7220</codigo>
+        <descricao>PESQUISA E DESENVOLVIMENTO EXPERIMENTAL EM CIêNCIAS SOCIAIS EHUMANAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7311</codigo>
+        <descricao>AGêNCIAS DE PUBLICIDADE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7312</codigo>
+        <descricao>AGENCIAMENTO DE ESPAçOS PARA PUBLICIDADE, EXCETO EM VEíCULOSDE COMUNICAçãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7319</codigo>
+        <descricao>ATIVIDADES DE PUBLICIDADE NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7320</codigo>
+        <descricao>PESQUISAS DE MERCADO E DE OPINIãO PúBLICA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7410</codigo>
+        <descricao>DESIGN E DECORAçãO DE INTERIORES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7420</codigo>
+        <descricao>ATIVIDADES FOTOGRáFICAS E SIMILARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7490</codigo>
+        <descricao>ATIVIDADES PROFISSIONAIS, CIENTíFICAS E TéCNICAS NãO ESPECI FICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7500</codigo>
+        <descricao>ATIVIDADES VETERINáRIAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7711</codigo>
+        <descricao>LOCAçãO DE AUTOMóVEIS SEM CONDUTOR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7719</codigo>
+        <descricao>LOCAçãO DE MEIOS DE TRANSPORTE, EXCETO AUTOMóVEIS, SEM CONDUTOR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7721</codigo>
+        <descricao>ALUGUEL DE EQUIPAMENTOS RECREATIVOS E ESPORTIVOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7722</codigo>
+        <descricao>ALUGUEL DE FITAS DE VíDEO, DVDS E SIMILARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7723</codigo>
+        <descricao>ALUGUEL DE OBJETOS DO VESTUáRIO, JóIAS E ACESSóRIOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7729</codigo>
+        <descricao>ALUGUEL DE OBJETOS PESSOAIS E DOMéSTICOS NãO ESPECIFICADOS  ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7731</codigo>
+        <descricao>ALUGUEL DE MáQUINAS E EQUIPAMENTOS AGRíCOLAS SEM OPERADOR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7732</codigo>
+        <descricao>ALUGUEL DE MáQUINAS E EQUIPAMENTOS PARA CONSTRUçãO SEM OPERADOR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7733</codigo>
+        <descricao>ALUGUEL DE MáQUINAS E EQUIPAMENTOS PARA ESCRITóRIO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7739</codigo>
+        <descricao>ALUGUEL D/MáQUINAS E EQUIPAMENTOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7740</codigo>
+        <descricao>GESTãO DE ATIVOS INTANGíVEIS NãO-FINANCEIROS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7810</codigo>
+        <descricao>SELEçãO E AGENCIAMENTO DE MãO-DE-OBRA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7820</codigo>
+        <descricao>LOCAçãO DE MãO-DE-OBRA TEMPORáRIA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7830</codigo>
+        <descricao>FORNECIMENTO E GESTãO DE RECURSOS HUMANOS PARA TERCEIROS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7911</codigo>
+        <descricao>AGêNCIAS DE VIAGENS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7912</codigo>
+        <descricao>OPERADORES TURíSTICOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>7990</codigo>
+        <descricao>SERVIçOS DE RESERVAS E OUTROS SERVIçOS DE TURISMO NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8011</codigo>
+        <descricao>ATIVIDADES DE VIGILâNCIA E SEGURANçA PRIVADA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8012</codigo>
+        <descricao>ATIVIDADES DE TRANSPORTE DE VALORES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8020</codigo>
+        <descricao>ATIVIDADES DE MONITORAMENTO DE SISTEMAS DE SEGURANçA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8030</codigo>
+        <descricao>ATIVIDADES DE INVESTIGAçãO PARTICULAR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8111</codigo>
+        <descricao>SERVIçOS COMBINADOS P/APOIO A EDIFíCIOS, EXCETO CONDOMíNIOS PREDIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8112</codigo>
+        <descricao>CONDOMíNIOS PREDIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8121</codigo>
+        <descricao>LIMPEZA EM PRéDIOS E EM DOMICíLIOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8122</codigo>
+        <descricao>IMUNIZAçãO E CONTROLE DE PRAGAS URBANAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8129</codigo>
+        <descricao>ATIVIDADES DE LIMPEZA NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8130</codigo>
+        <descricao>ATIVIDADES PAISAGíSTICAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8211</codigo>
+        <descricao>SERVIçOS COMBINADOS DE ESCRITóRIO E APOIO ADMINISTRATIVO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8219</codigo>
+        <descricao>FOTOCóPIAS, PREPARAçãO DE DOCUMENTOS E OUTROS SERVIçOS ESPE CIALIZADOS DE APOIO ADMINISTRATIVO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8220</codigo>
+        <descricao>ATIVIDADES DE TELEATENDIMENTO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8230</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçãO DE EVENTOS, EXCETO CULTURAIS E ES PORTIVOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8291</codigo>
+        <descricao>ATIVIDADES DE COBRANçA E INFORMAçõES CADASTRAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8292</codigo>
+        <descricao>ENVASAMENTO E EMPACOTAMENTO SOB CONTRATO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8299</codigo>
+        <descricao>ATIVIDADES DE SERVIçOS PRESTADOS PRINCIPALMENTE àS EMPRESAS NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8411</codigo>
+        <descricao>ADMINISTRAçãO PúBLICA EM GERAL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8412</codigo>
+        <descricao>REGULAçãO DAS ATIVIDADES DE SAúDE, EDUCAçãO, SERVIçOS CULTU RAIS E OUTROS SERVIçOS SOCIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8413</codigo>
+        <descricao>REGULAçãO DAS ATIVIDADES ECONôMICAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8421</codigo>
+        <descricao>RELAçõES EXTERIORES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8422</codigo>
+        <descricao>DEFESA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8423</codigo>
+        <descricao>JUSTIçA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8424</codigo>
+        <descricao>SEGURANçA E ORDEM PúBLICA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8425</codigo>
+        <descricao>DEFESA CIVIL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8430</codigo>
+        <descricao>SEGURIDADE SOCIAL OBRIGATóRIA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8511</codigo>
+        <descricao>EDUCAçãO INFANTIL - CRECHE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8512</codigo>
+        <descricao>EDUCAçãO INFANTIL - PRé-ESCOLA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8513</codigo>
+        <descricao>ENSINO FUNDAMENTAL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8520</codigo>
+        <descricao>ENSINO MéDIO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8531</codigo>
+        <descricao>EDUCAçãO SUPERIOR - GRADUAçãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8532</codigo>
+        <descricao>EDUCAçãO SUPERIOR - GRADUAçãO E PóS-GRADUAçãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8533</codigo>
+        <descricao>EDUCAçãO SUPERIOR - PóS-GRADUAçãO E EXTENSãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8541</codigo>
+        <descricao>EDUCAçãO PROFISSIONAL DE NíVEL TéCNICO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8542</codigo>
+        <descricao>EDUCAçãO PROFISSIONAL DE NíVEL TECNOLóGICO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8550</codigo>
+        <descricao>ATIVIDADES DE APOIO à EDUCAçãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8591</codigo>
+        <descricao>ENSINO DE ESPORTES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8592</codigo>
+        <descricao>ENSINO DE ARTE E CULTURA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8593</codigo>
+        <descricao>ENSINO DE IDIOMAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8599</codigo>
+        <descricao>ATIVIDADES DE ENSINO NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8610</codigo>
+        <descricao>ATIVIDADES DE ATENDIMENTO HOSPITALAR</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8621</codigo>
+        <descricao>SERVIçOS MóVEIS DE ATENDIMENTO A URGêNCIAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8622</codigo>
+        <descricao>SERVIçOS DE REMOçãO DE PACIENTES, EXCETO OS SERVIçOS MóVEIS DE ATENDIMENTO A URGêNCIAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8630</codigo>
+        <descricao>ATIVIDADES DE ATENçãO AMBULATORIAL EXECUTADAS POR MéDICOS E ODONTóLOGOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8640</codigo>
+        <descricao>ATIVIDADES DE SERVIçOS DE COMPLEMENTAçãO DIAGNóSTICA E TERA PêUTICA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8650</codigo>
+        <descricao>ATIVIDADES DE PROFISSIONAIS DA áREA DE SAúDE, EXCETO MéDICOSE ODONTóLOGOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8660</codigo>
+        <descricao>ATIVIDADES DE APOIO à GESTãO DE SAúDE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8690</codigo>
+        <descricao>ATIVIDADES DE ATENçãO à SAúDE HUMANA NãO ESPECIFICADAS ANTE RIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8711</codigo>
+        <descricao>ATIVIDS.D/ASSIST.A IDOSOS, DEFICIENTES FíSICOS, IMUNODEPRIMIDOS E CONVALESCENTES PRESTS.EM RESIDS.COLETS.E PARTICULARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8712</codigo>
+        <descricao>ATIVIDADES DE FORNECIMENTO DE INFRA-ESTRUTURA DE APOIO E ASSISTêNCIA A PACIENTE NO DOMICíLIO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8720</codigo>
+        <descricao>ATIVIDS.D/ASSISTêNCIA PSICOSSOCIAL E à SAúDE A PORTADS.D/DISTúRBIOS PSíQUICOS, DEFICIêNCIA MENTAL E DEPêNDENCIA QUíMICA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8730</codigo>
+        <descricao>ATIVIDADES DE ASSISTêNCIA SOCIAL PRESTADAS EM RESIDêNCIAS COLETIVAS E PARTICULARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>8800</codigo>
+        <descricao>SERVIçOS DE ASSISTêNCIA SOCIAL SEM ALOJAMENTO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9001</codigo>
+        <descricao>ARTES CêNICAS, ESPETáCULOS E ATIVIDADES COMPLEMENTARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9002</codigo>
+        <descricao>CRIAçãO ARTíSTICA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9003</codigo>
+        <descricao>GESTãO DE ESPAçOS PARA ARTES CêNICAS, ESPETáCULOS E OUTRAS  ATIVIDADES ARTíSTICAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9101</codigo>
+        <descricao>ATIVIDADES DE BIBLIOTECAS E ARQUIVOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9102</codigo>
+        <descricao>ATIVIDS.D/MUSEUS E D/EXPLORAçãO, RESTAURAçãO ARTíSTICA E CONSERVAçãO D/LUGARES E PRéDIOS HISTóRICOS E ATRAçõES SIMILARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9103</codigo>
+        <descricao>ATIVIDS. D/JARDINS BOTâNICOS, ZOOLóGICOS, PARQUES NACIONAIS,RESERVAS ECOLóGICAS E áREAS DE PROTEçãO AMBIENTAL</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9200</codigo>
+        <descricao>ATIVIDADES DE EXPLORAçãO DE JOGOS DE AZAR E APOSTAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9311</codigo>
+        <descricao>GESTãO DE INSTALAçõES DE ESPORTES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9312</codigo>
+        <descricao>CLUBES SOCIAIS, ESPORTIVOS E SIMILARES</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9313</codigo>
+        <descricao>ATIVIDADES DE CONDICIONAMENTO FíSICO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9319</codigo>
+        <descricao>ATIVIDADES ESPORTIVAS NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9321</codigo>
+        <descricao>PARQUES DE DIVERSãO E PARQUES TEMáTICOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9329</codigo>
+        <descricao>ATIVIDADES DE RECREAçãO E LAZER NãO ESPECIFICADAS ANTERIOR  MENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9411</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçõES ASSOCIATIVAS PATRONAIS E EMPRESA RIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9412</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçõES ASSOCIATIVAS PROFISSIONAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9420</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçõES SINDICAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9430</codigo>
+        <descricao>ATIVIDADES DE ASSOCIAçõES DE DEFESA DE DIREITOS SOCIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9491</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçõES RELIGIOSAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9492</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçõES POLíTICAS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9493</codigo>
+        <descricao>ATIVIDADES DE ORGANIZAçõES ASSOCIATIVAS LIGADAS à CULTURA E à ARTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9499</codigo>
+        <descricao>ATIVIDADES ASSOCIATIVAS NãO ESPECIFICADAS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9511</codigo>
+        <descricao>REPARAçãO E MANUTENçãO DE COMPUTADORES E DE EQUIPAMENTOS PE RIFéRICOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9512</codigo>
+        <descricao>REPARAçãO E MANUTENçãO DE EQUIPAMENTOS DE COMUNICAçãO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9521</codigo>
+        <descricao>REPARAçãO E MANUTENçãO DE EQUIPAMENTOS ELETROELETRôNICOS DE USO PESSOAL E DOMéSTICO</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9529</codigo>
+        <descricao>REPARAçãO E MANUTENçãO DE OBJETOS E EQUIPAMENTOS PESSOAIS E DOMéSTICOS NãO ESPECIFICADOS ANTERIORMENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9601</codigo>
+        <descricao>LAVANDERIAS, TINTURARIAS E TOALHEIROS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9602</codigo>
+        <descricao>CABELEIREIROS E OUTRAS ATIVIDADES DE TRATAMENTO DE BELEZA</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9603</codigo>
+        <descricao>ATIVIDADES FUNERáRIAS E SERVIçOS RELACIONADOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9609</codigo>
+        <descricao>ATIVIDADES DE SERVIçOS PESSOAIS NãO ESPECIFICADAS ANTERIOR  MENTE</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9700</codigo>
+        <descricao>SERVIçOS DOMéSTICOS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+    <AtividadeEconomica>
+        <codigo>9900</codigo>
+        <descricao>ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIçõES EXTRATERRITORIAIS</descricao>
+        <inicioVigencia>05/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AtividadeEconomica>
+</AtividadeEconomicaList>

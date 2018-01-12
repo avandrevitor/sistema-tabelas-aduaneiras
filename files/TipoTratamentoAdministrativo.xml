@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoTratamentoAdministrativoList>
+    <TipoTratamentoAdministrativo>
+        <codigo>01</codigo>
+        <descricao>MERCADORIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>02</codigo>
+        <descricao>MERCADORIA COM CONTROLE DE COTA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>03</codigo>
+        <descricao>MERCADORIA NEGOCIACAO</descricao>
+        <inicioVigencia>21/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>04</codigo>
+        <descricao>MERCADORIA COMERCIALIZACAO</descricao>
+        <inicioVigencia>21/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>05</codigo>
+        <descricao>MERCADORIA COM RESTRICAO DE LOCAL DE ENTRADA NO PAIS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>06</codigo>
+        <descricao>MERCADORIA POR PAIS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>07</codigo>
+        <descricao>PAIS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>08</codigo>
+        <descricao>PAIS POR MERCADORIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>09</codigo>
+        <descricao>PAIS E MERCADORIA COM CONTROLE DE COTA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>10</codigo>
+        <descricao>MERCADORIA DE PAIS ALADI COM CONTROLE DE COTA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>12</codigo>
+        <descricao>MERCADORIA DE PAIS ALADI COM RESTRICAO DE LOCAL DE ENTRADA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>14</codigo>
+        <descricao>IMPORTADOR</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>15</codigo>
+        <descricao>MOTIVO DA IMPORTACAO SEM COBERTURA CAMBIAL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>16</codigo>
+        <descricao>REGIME TRIBUTARIO / FUNDAMENTO LEGAL DO REGIME</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>17</codigo>
+        <descricao>INCOTERM</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>18</codigo>
+        <descricao>MATERIAL USADO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>19</codigo>
+        <descricao>BENS SOB ENCOMENDA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>20</codigo>
+        <descricao>COMMODITIE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>21</codigo>
+        <descricao>DESTAQUE DE MERCADORIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>22</codigo>
+        <descricao>REGIME TRIBUTARIO/FUNDAMENTO LEGAL DO REGIME E MERCADORIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>23</codigo>
+        <descricao>REGIME TRIBUTARIO/FUNDAMENTO LEGAL DO REGIME E IMPORTADOR</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>24</codigo>
+        <descricao>TSP</descricao>
+        <inicioVigencia>17/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+    <TipoTratamentoAdministrativo>
+        <codigo>25</codigo>
+        <descricao>MERCADORIA/IMPORTADOR</descricao>
+        <inicioVigencia>23/10/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoTratamentoAdministrativo>
+</TipoTratamentoAdministrativoList>

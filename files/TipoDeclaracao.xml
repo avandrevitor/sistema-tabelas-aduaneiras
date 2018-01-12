@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoDeclaracaoList>
+    <TipoDeclaracao>
+        <codigo>01</codigo>
+        <descricao>CONSUMO</descricao>
+        <inicioVigencia>30/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>02</codigo>
+        <descricao>ADMISSAO EM ENTREPOSTO ADUANEIRO</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>03</codigo>
+        <descricao>ADMISSAO EM EIZOF - ENTREPOSTO INTERNACIONAL DA ZFM</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>04</codigo>
+        <descricao>ADMISSAO EM ENTREPOSTO INDUSTRIAL</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>05</codigo>
+        <descricao>ADMISSAO TEMPORARIA</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>06</codigo>
+        <descricao>ADMISSAO NA ZFM - ZONA FRANCA DE MANAUS</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>07</codigo>
+        <descricao>ADMISSAO EM LOJA FRANCA</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>08</codigo>
+        <descricao>ADMISSAO EM ALC - AREA DE LIVRE COMERCIO</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>09</codigo>
+        <descricao>ADMISSAO EM DAD - DEPOSITO ADUANEIRO DE DISTRIBUICAO</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>10</codigo>
+        <descricao>ADMISSAO EM DE/DAF</descricao>
+        <inicioVigencia>26/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>11</codigo>
+        <descricao>ADMISSAO EM ZPE - ZONA DE PROCESSAMENTO DE EXPORTACAO</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>12</codigo>
+        <descricao>CONSUMO E ADMISSAO TEMPORARIA</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>13</codigo>
+        <descricao>NACIONALIZACAO DE ADMISSAO TEMPORARIA</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>14</codigo>
+        <descricao>NACIONALIZACAO DE ENTREPOSTO ADUANEIRO</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>15</codigo>
+        <descricao>SAIDA DE EIZOF - ENTREPOSTO INTERNACIONAL DA ZFM</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>16</codigo>
+        <descricao>SAIDA DE ENTREPOSTO INDUSTRIAL</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>17</codigo>
+        <descricao>NACIONALIZACAO DE DEA - DEPOSITO ESPECIAL ALFANDEGADO</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>18</codigo>
+        <descricao>NACIONALIZACAO DE REGIME ADUANEIRO - GERAL</descricao>
+        <inicioVigencia>03/05/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>19</codigo>
+        <descricao>INTERNACAO DA ZFM - PI (PRODUTO INDUSTRIALIZADO)</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>20</codigo>
+        <descricao>INTERNACAO DA ZFM - PE (PRODUTO ESTRANGEIRO)</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>21</codigo>
+        <descricao>INTERNACAO DE ALC - AREA DE LIVRE COMERCIO</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>22</codigo>
+        <descricao>INTERNACAO DA ZPE - ZONA DE PROCESSAMENTO DE EXPORTACAO</descricao>
+        <inicioVigencia>19/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>23</codigo>
+        <descricao>TRANSFERENCIA DA ZFM (PRODUTO INDUSTRIAL.) PARA ALC</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>24</codigo>
+        <descricao>TRANSFERENCIA DA ZFM (PRODUTO ESTRANGEIRO) PARA ALC</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>25</codigo>
+        <descricao>TRANSFERENCIA DA ZFM (PRODUTO INDUSTRIAL.) PARA ZPE</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>26</codigo>
+        <descricao>TRANSFERENCIA DA ZFM (PRODUTO ESTRANGEIRO) PARA ZPE</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>27</codigo>
+        <descricao>TRANSFERENCIA DA ALC (PRODUTO ESTRANGEIRO) PARA ZFM</descricao>
+        <inicioVigencia>30/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+    <TipoDeclaracao>
+        <codigo>28</codigo>
+        <descricao>NACIONALIZACAO DE DE - DEPOSITO ESPECIAL</descricao>
+        <inicioVigencia>24/03/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoDeclaracao>
+</TipoDeclaracaoList>

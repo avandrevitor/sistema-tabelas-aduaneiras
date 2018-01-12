@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TaxaJurosBacenList>
+    <TaxaJurosBacen>
+        <codigo>1010</codigo>
+        <descricao>"PRIME RATE" DO CANADA</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1011</codigo>
+        <descricao>"PRIME RATE" DOS CANADIAN CHARTERED BANKS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1040</codigo>
+        <descricao>"PRIME RATE" DE NEW YORK, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1041</codigo>
+        <descricao>"PRIME RATE" DE NEW YORK, REAJUSTAVEL A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1042</codigo>
+        <descricao>"PRIME RATE" DE NEW YORK, REAJUSTAVEL A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1043</codigo>
+        <descricao>"PRIME RATE" DE NEW YORK, REAJUSTAVEL A 12 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1074</codigo>
+        <descricao>"PRIME RATE" DE BOSTON, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1075</codigo>
+        <descricao>TAXA DE BASE BANCARIA(PRIME RATE) COTADA PELO BANCO PARIBAS</descricao>
+        <inicioVigencia>20/03/1990</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1100</codigo>
+        <descricao>"PRIME RATE" DO MERCADO HOLANDES, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>03/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1130</codigo>
+        <descricao>"PRIME RATE" DO MERCADO BELGA, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>361</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1131</codigo>
+        <descricao>"PRIME RATE" DA BELGICA, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>360</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1170</codigo>
+        <descricao>"PRIME RATE" DO MERCADO FRANCES, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1200</codigo>
+        <descricao>"PRIME RATE" DO MERCADO SUI¦O, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1230</codigo>
+        <descricao>"PRIME RATE" DO MERCADO JAPONES, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1231</codigo>
+        <descricao>"JAPANESE LONG-TERM PRIME LENDING RATE"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1260</codigo>
+        <descricao>"PRIME RATE" DO MERCADO ITALIANO, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1261</codigo>
+        <descricao>"PRIME RATE" DO MERCADO ITALIANO, REAJUSTAVEL A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>1290</codigo>
+        <descricao>"PRIME RATE" DO MERCADO ALEM`O OCIDENTAL, REAJUSTAVEL "PARI PASSU"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2240</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLAR NEOZELANDEZ A 6 MESES</descricao>
+        <inicioVigencia>22/06/1993</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>245</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2318</codigo>
+        <descricao>LIBOR-AUD-03 MESES</descricao>
+        <inicioVigencia>04/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2319</codigo>
+        <descricao>LIBOR-AUD-06 MESES</descricao>
+        <inicioVigencia>04/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2320</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM COROAS DINAMARQUESAS A 6 MESES</descricao>
+        <inicioVigencia>06/08/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>055</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2340</codigo>
+        <descricao>LIBOR-NKR-06 MESES</descricao>
+        <inicioVigencia>23/06/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>065</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2371</codigo>
+        <descricao>LIBOR-PTE-06 MESES</descricao>
+        <inicioVigencia>15/07/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>315</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2372</codigo>
+        <descricao>LIBOR-PTE-03 MESES</descricao>
+        <inicioVigencia>16/07/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>315</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2373</codigo>
+        <descricao>LIBOR-PTE MENSAL</descricao>
+        <inicioVigencia>16/07/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>315</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2375</codigo>
+        <descricao>LIBOR-EUR-3 MESES</descricao>
+        <inicioVigencia>11/05/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2376</codigo>
+        <descricao>LIBOR-EUR-6 MESES</descricao>
+        <inicioVigencia>11/05/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2377</codigo>
+        <descricao>LIBOR-EUR-12 MESES</descricao>
+        <inicioVigencia>11/05/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2380</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES CANADENSES A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2389</codigo>
+        <descricao>LIBOR-USD P/DEPOSITOS MENSAIS</descricao>
+        <inicioVigencia>18/11/1993</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2390</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS, REAJUSTAVEL "OVERNIGHT"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2391</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2392</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2393</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS A 12 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2394</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS A 24 MESES</descricao>
+        <inicioVigencia>28/04/1992</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2395</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS A 36 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2396</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS A 48 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2397</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM DOLARES AMERICANOS A 60 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2398</codigo>
+        <descricao>LIBOR DOS ESTADOS UNIDOS PARA 9 MESES</descricao>
+        <inicioVigencia>21/03/1995</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2399</codigo>
+        <descricao>LIBOR DOS ESTADOS UNIDOS PARA 4 MESES</descricao>
+        <inicioVigencia>26/04/1995</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2400</codigo>
+        <descricao>LIBOR DOS ESTADOS UNIDOS PARA 18 MESES</descricao>
+        <inicioVigencia>08/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2401</codigo>
+        <descricao>LIBOR DOS ESTADOS UNIDOS PARA 2 MESES</descricao>
+        <inicioVigencia>22/08/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2420</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS BELGAS A 6 MESES</descricao>
+        <inicioVigencia>15/01/1993</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>360</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2450</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS FRANCESES A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2460</codigo>
+        <descricao>LIBOR PARA DEPOSITOS FRANCESES A 12 MESES</descricao>
+        <inicioVigencia>28/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2480</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FLORINS HOLANDESES A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2490</codigo>
+        <descricao>LIBOR- F. - 12 MESES</descricao>
+        <inicioVigencia>01/07/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2510</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2511</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2512</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 12 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2513</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 24 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2514</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 36 MESES</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2515</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 48 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2516</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM FRANCOS SUI¦OS A 60 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2540</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM IENES JAPONESES A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2541</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM IENES JAPONESES A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2542</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM IENES JAPONESES A 12 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2570</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM LIBRAS ESTERLINAS A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>540</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2571</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM LIBRAS ESTERLINAS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>540</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2572</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM LIBRA ESTERLINAS A 12 MESES</descricao>
+        <inicioVigencia>10/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>540</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2580</codigo>
+        <descricao>LIBOR PARA_DEPOSITOS EM LIBRAS IRLANDESAS A 06 MESES</descricao>
+        <inicioVigencia>02/06/1993</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>550</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2600</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM LIRAS ITALIANAS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2601</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM LIRAS ITALIANAS A 12 MESES</descricao>
+        <inicioVigencia>13/05/1993</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2630</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOS ALEMAES A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2631</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOES ALEMAES A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2632</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOS ALEMAES A 12 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2633</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOS ALEMAES A 24 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2634</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOS ALEMAES A 36 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2635</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOS ALEMAES A 48 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2636</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM MARCOS ALEMAES A 60 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2637</codigo>
+        <descricao>LIBOR PARA MARCO FINLANDES PARA SEIS MESES</descricao>
+        <inicioVigencia>12/03/1991</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>615</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2660</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM PESETAS ESPANHOLAS A 6 MESES</descricao>
+        <inicioVigencia>07/11/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>700</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2690</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM UNIDADES MONETARIAS EUROPEIAS (ECU) A 3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>918</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2691</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM UNIDADES MONETARIAS EUROPEIAS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>918</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2750</codigo>
+        <descricao>LIBOR PARA DEPOSITOS EM XELINS AUSTRIACOS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>940</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>2803</codigo>
+        <descricao>TAXA DE CAPTA¦`O DE "CERTIFICATES OF DEPOSITS", AJUSTADA P.PREMIO DO FDIC</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3900</codigo>
+        <descricao>TX.FIXA-OUTRAS</descricao>
+        <inicioVigencia>26/03/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3909</codigo>
+        <descricao>TAXA FIXA PARA DIREITOS ESPECIAIS DE SAQUE (DES)</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>138</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3910</codigo>
+        <descricao>TAXA FIXA DOMESTICA DA AUSTRALIA PARA DOLARES AUSTRALIANOS</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>150</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3911</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO CANADA PARA DOLARES CANADENSES</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3912</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO AMERICANO</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3913</codigo>
+        <descricao>TX.FIXA-EUR</descricao>
+        <inicioVigencia>17/01/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3916</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO PORTUGUES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>315</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3920</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO HOLANDES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3924</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO BELGA (FRANCOS COMERCIAIS)</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>360</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3925</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO BELGA (FRANCOS FINANCEIROS)</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>361</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3928</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO FRANCES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3930</codigo>
+        <descricao>TAXA FIXA DE LUXEMBURGO PARA FRANCOS LUXEMBURGUESES</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>400</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3932</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO SUI¦O</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3936</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO JAPONES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3940</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO INGLES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>540</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3944</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO ITALIANO</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3948</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO ALEMAO</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3952</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO ESPANHOL</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>700</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3953</codigo>
+        <descricao>TAXA FIXA DA AFRICA DO SUL PARA RANDES</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>785</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3956</codigo>
+        <descricao>TAXA FIXA DO FUNDO SAUDITA DE DESENVOLVIMENTO</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>820</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3960</codigo>
+        <descricao>TAXA FIXA DOMESTICA DO MERCADO AUSTRIACO</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>940</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3964</codigo>
+        <descricao>TAXA FIXA CONVENIO COM A ALEMANHA ORIENTAL</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>980</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3968</codigo>
+        <descricao>TAXA FIXA CONVENIO COM A HUNGRIA</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>984</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3970</codigo>
+        <descricao>TAXA FIXA CONVENIO COM A IUGOSLAVIA</descricao>
+        <inicioVigencia>18/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>988</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3972</codigo>
+        <descricao>TAXA FIXA CONVENIO COM A POLONIA</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>990</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3973</codigo>
+        <descricao>TAXA FIXA CONVENIO COM A ROMENIA</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>992</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3980</codigo>
+        <descricao>TAXA FIXA DO BANCO MUNDIAL PARA CESTA DE MOEDAS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>3981</codigo>
+        <descricao>TAXA FIXA DO BANCO MUNDIAL PARA CESTA DE MOEDAS CAPITALIZADAS PERIODICAMENT</descricao>
+        <inicioVigencia>21/06/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4232</codigo>
+        <descricao>FISCAL INVESTMENT</descricao>
+        <inicioVigencia>11/06/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4622</codigo>
+        <descricao>FIBOR DE FRANKFURT-ALEMANHA PARA 06 MESES</descricao>
+        <inicioVigencia>09/09/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4788</codigo>
+        <descricao>TMO-TRIMESTRAL</descricao>
+        <inicioVigencia>24/04/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4789</codigo>
+        <descricao>CANADIAN INTER BID</descricao>
+        <inicioVigencia>26/04/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4790</codigo>
+        <descricao>TAXA DO FMI PARA "EXTENDED FINANCING FACILITY ENLARGED ACCESS"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>138</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4791</codigo>
+        <descricao>TAXA DO FMI PARA "EXTENDED FINANCING FACILITY FUND RESOURCES"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>138</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4792</codigo>
+        <descricao>TAXA DO FMI PARA "STOCK FINANCING FACILITIES"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>138</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4793</codigo>
+        <descricao>FMI-SRF</descricao>
+        <inicioVigencia>23/08/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>138</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4794</codigo>
+        <descricao>TESOURO AMERICANO</descricao>
+        <inicioVigencia>26/04/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4795</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO CANADENSE PARA DOLARES CANADENSES</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>165</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4800</codigo>
+        <descricao>TAXA DE DESCONTO DO FEDERAL RESERVE BANK DOS ESTADOS UNIDOS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4801</codigo>
+        <descricao>TAXA DE CUSTO DE CAPTA¦`O DO EXPORT-IMPORT BANK OF UNITED STATES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4802</codigo>
+        <descricao>TAXA DE CUSTO DE CAPTA¦`O DO COMMODITY CREDIT CORPORATION (USA)</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4804</codigo>
+        <descricao>TAXA DE COLOCA¦`O DE "COMMERCIAL PAPERS" NOS ESTADOS UNIDOS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4805</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO AMERICANO PARA DOLARES</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4807</codigo>
+        <descricao>KFW-CUSTO CAPT-MES</descricao>
+        <inicioVigencia>12/08/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4808</codigo>
+        <descricao>OPIC-CUSTO CAPTACAO</descricao>
+        <inicioVigencia>15/03/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4809</codigo>
+        <descricao>TAXAS PARA "BANKERS ACCEPTANCES" DE NEW YORK</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4810</codigo>
+        <descricao>BIRD-S.C.L.-USS-FIXA</descricao>
+        <inicioVigencia>16/07/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4811</codigo>
+        <descricao>BIRD-S.C.L.-USS-FLUT</descricao>
+        <inicioVigencia>16/07/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4812</codigo>
+        <descricao>TAXA DE CUSTO DE EMPRESTIMOS QUALIFICADOS DO BANCO MUNDIAL</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4813</codigo>
+        <descricao>BID-EMQ</descricao>
+        <inicioVigencia>25/07/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4814</codigo>
+        <descricao>TAXA FLUTUANTE DE APLICAC{ES DO BANCO INTERAMERICANO DE DESENVOLVIMENTO</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4815</codigo>
+        <descricao>BID-EUQ</descricao>
+        <inicioVigencia>05/06/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4816</codigo>
+        <descricao>SINGAPORE INTERBANK OFFERED RATE</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4817</codigo>
+        <descricao>BID C.E.Q.</descricao>
+        <inicioVigencia>04/03/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4820</codigo>
+        <descricao>TAXA DE DESCONTO DO DE NEDERLANDSCHE BANK N.V.</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4821</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO HOLANDES PARA FLORINS HOLANDESES</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>335</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4822</codigo>
+        <descricao>US TREASURY BIL</descricao>
+        <inicioVigencia>07/02/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4824</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO BELGA PARA FRANCOS BELGAS FINANCEIROS</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>361</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4825</codigo>
+        <descricao>TAXA DE DESCONTO DO BANQUE NATIONALE DE BELGIQUE S.A.</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>361</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4826</codigo>
+        <descricao>TAXA DE DESCONTO DO BANQUE NATIONALE DE BELGIQUE S.A.</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>360</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4830</codigo>
+        <descricao>TAXA DE DESCONTO DO BANQUE DE FRANCE</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4831</codigo>
+        <descricao>"TAUX MOIENNE OBLIGATOIRE" DAS APLICA¦OES DO TESOURO FRANCES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4832</codigo>
+        <descricao>PARIS INTERBANK OFFERED RATE PARA DEPOSITOS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4833</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO FRANCES PARA FRANCOS FRANCESES</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4837</codigo>
+        <descricao>FIDA-FLOATING</descricao>
+        <inicioVigencia>19/09/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4840</codigo>
+        <descricao>TAXA DE DESCONTO DO BANQUE NATIONALE SUISSE</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4841</codigo>
+        <descricao>TAXAS DOS "CASH BONDS" DOS BANCOS SUI¦OS PARA 3 ANOS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4842</codigo>
+        <descricao>TAXAS DOS "CASH BONDS" DOS BANCOS SUI¦OS PARA 5 ANOS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4843</codigo>
+        <descricao>TAXAS DOS "CASH BONDS" DOS BANCOS SUI¦OS PARA 8 ANOS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4844</codigo>
+        <descricao>TAXA DOS "CASH BONDS" DO UNION BANK OF SWITZERLAND PARA 8 ANOS</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>425</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4850</codigo>
+        <descricao>TAXA DE DESCONTO DO NIPPON GINKO</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4851</codigo>
+        <descricao>TAXA DE CAPTA¦`O DE "CERTIFICATE OF DEPOSITS", AJUSTADA, DO JAPAO P.3 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4852</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO JAPONES PARA IENES</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4855</codigo>
+        <descricao>TAXA DE DESCONTO DO BANK OF ENGLAND</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>540</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4856</codigo>
+        <descricao>EURIBOR - 3 MESES</descricao>
+        <inicioVigencia>11/05/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4857</codigo>
+        <descricao>EURIBOR - 6 MESES</descricao>
+        <inicioVigencia>11/05/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4859</codigo>
+        <descricao>EURIBOR - 12 MESES</descricao>
+        <inicioVigencia>11/05/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4860</codigo>
+        <descricao>TAXA DE DESCONTO DA BANCA D'ITALIA</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4861</codigo>
+        <descricao>TAXA DOMESTICA DO MERCADO ITALIANO PARA LIRAS ITALIANAS</descricao>
+        <inicioVigencia>15/08/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>595</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4862</codigo>
+        <descricao>MOEDA DA OCDE VIGENTE NA ASSINATURA DE CONT.COMAL.P/INSERCAO LINHA CREDITO</descricao>
+        <inicioVigencia>05/04/1994</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4863</codigo>
+        <descricao>UK CLEARING BANK</descricao>
+        <inicioVigencia>11/07/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>540</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4864</codigo>
+        <descricao>CONSENSUS/CIRR-YEN</descricao>
+        <inicioVigencia>16/02/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>470</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4865</codigo>
+        <descricao>TAXA DE DESCONTO DO DEUTSCHE BUNDESBANK</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4866</codigo>
+        <descricao>TAXA FLUTUANTE DE FINANCIAMENTOS A EXPORTACAO DO WESTDEUTSCHE LANDESBANK</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4867</codigo>
+        <descricao>TAXA DOS "UNSECURED BEARER BONDS" DO GERMAN LANDESBANK</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4868</codigo>
+        <descricao>TAXA DE FINANCIAMENTO DA AKA PARA O TETO "A"</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4869</codigo>
+        <descricao>TAXA DE FINANCIAMENTO DA AKA PARA O TETO "C" (REFINANCIAMENTOS)</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4870</codigo>
+        <descricao>LUXEMBOURG INTERBANK OFFERED RATE PARA DEPOSITOS EM DM A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>610</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4873</codigo>
+        <descricao>EONIA</descricao>
+        <inicioVigencia>07/02/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>978</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4875</codigo>
+        <descricao>TAXA DE FINANCIAMENTO AA EXPORTA¦`O DO AUSTRIAN STATUTORY PROMOTION SYSTEM</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>940</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4876</codigo>
+        <descricao>TAXA DE FINANCIAMENTO DO OESTERREISCHISCHE KONTROLLBANK</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>940</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4877</codigo>
+        <descricao>VIEN INTERBANK OFFERED RATE PARA DEPOSITOS A 6 MESES</descricao>
+        <inicioVigencia>13/06/1989</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>940</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4878</codigo>
+        <descricao>TX.FLUTUANTE-OUTRAS</descricao>
+        <inicioVigencia>07/05/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>220</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4879</codigo>
+        <descricao>CDI-TAXA DOMESTICA</descricao>
+        <inicioVigencia>21/10/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>790</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4880</codigo>
+        <descricao>TX.ESTABELECIDA P/EXP.CRED.NA DATA DO CONTRATO COMPRA E/OU SERVS.CONF.OCDE.</descricao>
+        <inicioVigencia>02/03/1995</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>395</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4881</codigo>
+        <descricao>TX. FLUTUANTE DE CREDITO DE EXPORTACAO OFICIAL SUL-AFRICANA EM RANDE</descricao>
+        <inicioVigencia>15/12/1995</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>785</codigoMoeda>
+    </TaxaJurosBacen>
+    <TaxaJurosBacen>
+        <codigo>4888</codigo>
+        <descricao>IGPM-REAL</descricao>
+        <inicioVigencia>05/03/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <codigoMoeda>790</codigoMoeda>
+    </TaxaJurosBacen>
+</TaxaJurosBacenList>

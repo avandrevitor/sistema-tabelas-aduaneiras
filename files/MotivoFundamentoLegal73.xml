@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MotivoFundamentoLegal73List>
+    <MotivoFundamentoLegal73>
+        <codigo>01</codigo>
+        <descricao>NAO EFETIVACAO DE VENDA, NO PRAZO AUTORIZADO, QUANDO ENVIADOS AO EXTERIOR EM CONSIGNACAO</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal73>
+    <MotivoFundamentoLegal73>
+        <codigo>02</codigo>
+        <descricao>DEFEITO TECNICO PARA REPARO OU SUBSTITUICAO</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal73>
+    <MotivoFundamentoLegal73>
+        <codigo>03</codigo>
+        <descricao>ALTERACAO NAS NORMAS APLICAVEIS A IMPORTACAO DO PAIS IMPORTADOR</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal73>
+    <MotivoFundamentoLegal73>
+        <codigo>04</codigo>
+        <descricao>GUERRA OU CALAMIDADE PUBLICA</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal73>
+    <MotivoFundamentoLegal73>
+        <codigo>05</codigo>
+        <descricao>MOTIVOS ALHEIOS À VONTADE DO IMPORTADOR (RA, ART 88, II, E)</descricao>
+        <inicioVigencia>28/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal73>
+</MotivoFundamentoLegal73List>

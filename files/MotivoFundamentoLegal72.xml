@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MotivoFundamentoLegal72List>
+    <MotivoFundamentoLegal72>
+        <codigo>01</codigo>
+        <descricao>REIMPORTACAO DE BENS CULTURAIS</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal72>
+    <MotivoFundamentoLegal72>
+        <codigo>02</codigo>
+        <descricao>REIMPORTACAO DE MATERIAL DE EMPREGO MILITAR</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal72>
+    <MotivoFundamentoLegal72>
+        <codigo>03</codigo>
+        <descricao>REIMPORTACAO DE BENS ENVIADOS PARA FEIRAS COMERCIAIS E INDUSTRIAIS E PROMOCAO COMERCIAL NO EXTERIOR</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal72>
+    <MotivoFundamentoLegal72>
+        <codigo>04</codigo>
+        <descricao>REIMPORTACAO DE OUTROS BENS NO MESMO ESTADO</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal72>
+    <MotivoFundamentoLegal72>
+        <codigo>05</codigo>
+        <descricao>REIMPORTACAO DE BENS APOS CONSERTO, REPARO OU RESTAURACAO NO EXTERIOR</descricao>
+        <inicioVigencia>02/10/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoFundamentoLegal72>
+</MotivoFundamentoLegal72List>

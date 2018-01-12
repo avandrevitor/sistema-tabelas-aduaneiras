@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoEmbalagemNacionalList>
+    <TipoEmbalagemNacional>
+        <codigo>01</codigo>
+        <descricao>AMARRADO/ATADO/FEIXE</descricao>
+        <inicioVigencia>05/07/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>02</codigo>
+        <descricao>BARRICA DE FERRO</descricao>
+        <inicioVigencia>02/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>03</codigo>
+        <descricao>BARRICA DE FIBRA DE VIDRO</descricao>
+        <inicioVigencia>02/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>04</codigo>
+        <descricao>BARRICA DE PAPELAO</descricao>
+        <inicioVigencia>02/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>05</codigo>
+        <descricao>BARRICA DE PLASTICO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>06</codigo>
+        <descricao>BARRICA DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>07</codigo>
+        <descricao>BAU DE MADEIRA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>08</codigo>
+        <descricao>BAU DE METAL</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>09</codigo>
+        <descricao>BAU DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>10</codigo>
+        <descricao>BIG BAG</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>11</codigo>
+        <descricao>BLOCO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>12</codigo>
+        <descricao>BOBINA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>13</codigo>
+        <descricao>BOMBONA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>14</codigo>
+        <descricao>BOTIJAO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>15</codigo>
+        <descricao>CAIXA CORRUGADA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>16</codigo>
+        <descricao>CAIXA DE ISOPOR</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>17</codigo>
+        <descricao>CAIXA DE MADEIRA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>18</codigo>
+        <descricao>CAIXA DE METAL</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>19</codigo>
+        <descricao>CAIXA DE PAPELAO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>20</codigo>
+        <descricao>CAIXA DE PLASTICO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>21</codigo>
+        <descricao>CAIXA DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>22</codigo>
+        <descricao>CANUDO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>23</codigo>
+        <descricao>CARRETEL</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>24</codigo>
+        <descricao>CILINDRO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>25</codigo>
+        <descricao>CINTADO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>26</codigo>
+        <descricao>ENGRADADO DE MADEIRA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>27</codigo>
+        <descricao>ENGRADADO DE PLASTICO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>28</codigo>
+        <descricao>ENGRADADO DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>29</codigo>
+        <descricao>ENVELOPE</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>30</codigo>
+        <descricao>ESTOJO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>31</codigo>
+        <descricao>ESTRADO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>32</codigo>
+        <descricao>FARDO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>33</codigo>
+        <descricao>FRASCO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>34</codigo>
+        <descricao>GALAO DE METAL</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>35</codigo>
+        <descricao>GALAO DE PLASTICO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>36</codigo>
+        <descricao>GALAO DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>37</codigo>
+        <descricao>GRANEL</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>38</codigo>
+        <descricao>LATA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>39</codigo>
+        <descricao>MALA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>40</codigo>
+        <descricao>MALETA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>41</codigo>
+        <descricao>PACOTE</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>42</codigo>
+        <descricao>PECA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>43</codigo>
+        <descricao>QUARTOLA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>44</codigo>
+        <descricao>ROLO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>45</codigo>
+        <descricao>SACA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>46</codigo>
+        <descricao>SACO DE ANIAGEM</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>47</codigo>
+        <descricao>SACO DE COURO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>48</codigo>
+        <descricao>SACO DE LONA</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>49</codigo>
+        <descricao>SACO DE NYLON</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>50</codigo>
+        <descricao>SACO DE PAPEL</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>51</codigo>
+        <descricao>SACO DE PAPELAO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>52</codigo>
+        <descricao>SACO DE PLASTICO</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>53</codigo>
+        <descricao>SACO DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>54</codigo>
+        <descricao>SACOLA</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>55</codigo>
+        <descricao>SAN BAG</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>56</codigo>
+        <descricao>TAMBOR DE METAL</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>57</codigo>
+        <descricao>TAMBOR DE PAPELAO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>58</codigo>
+        <descricao>TAMBOR DE PLASTICO</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>59</codigo>
+        <descricao>TAMBOR DE OUTROS MATERIAIS</descricao>
+        <inicioVigencia>27/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>60</codigo>
+        <descricao>PALLETS</descricao>
+        <inicioVigencia>28/03/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+    <TipoEmbalagemNacional>
+        <codigo>99</codigo>
+        <descricao>OUTROS</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoEmbalagemNacional>
+</TipoEmbalagemNacionalList>

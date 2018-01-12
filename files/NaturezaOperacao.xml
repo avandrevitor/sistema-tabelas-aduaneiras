@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NaturezaOperacaoList>
+    <NaturezaOperacao>
+        <codigo>01</codigo>
+        <descricao>IMPORTACAO DEFINITIVA - PESSOA FISICA COM COBERTURA CAMBIAL</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>02</codigo>
+        <descricao>IMPORTACAO DEFINITIVA - PESSOA FISICA SEM COBERTURA CAMBIAL</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>03</codigo>
+        <descricao>IMPORTACAO DEFINITIVA - PESSOA JURID. COM COBERTURA CAMBIAL</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>04</codigo>
+        <descricao>IMPORTACAO DEFINITIVA - PESSOA JURID. SEM COBERTURA CAMBIAL</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>05</codigo>
+        <descricao>IMPORTACAO DEFINITIVA - DOACAO A ORGAO,AUTARQUIA OU FUNDACAO PUBLICA</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>06</codigo>
+        <descricao>IMPORTACAO DEFINITIVA - DOACAO A INSTITUICAO DE ASSISTENCIA SOCIAL</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>09</codigo>
+        <descricao>ADMISSAO TEMPORARIA</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>10</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>11</codigo>
+        <descricao>REIMPORTACAO / RETORNO AO PAIS</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>13</codigo>
+        <descricao>INTERNACAO DE ZFM-PE (PRODUTO ESTRANGEIRO)</descricao>
+        <inicioVigencia>05/01/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+    <NaturezaOperacao>
+        <codigo>14</codigo>
+        <descricao>INTERNACAO DE ZFM-PI (PRODUTO INDUSTRIALIZADO)</descricao>
+        <inicioVigencia>05/01/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </NaturezaOperacao>
+</NaturezaOperacaoList>

@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FundamentoLegalRegimeTributacaoPisCofinsList>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>01</codigo>
+        <descricao>RETORNO DE BENS EXPORTADOS - EXPORTACAO EM CONSIGNACAO (LEI 10865/2004 - ARTIGO 1º, PAR. 2º, INC. I, AL. A)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>02</codigo>
+        <descricao>RETORNO DE BENS EXPORTADOS - DEVOLUCAO PARA REPARO OU SUBSTITUICAO (LEI 10865/04 - ART. 1º, PAR. 2º, INC.I, AL. B)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>03</codigo>
+        <descricao>RETORNO DE BENS EXPORTADOS - MODIFICACOES NO PAIS IMPORTADOR (LEI 10865/04 - ART. 1º, PAR. 2º, INC. I, AL. C)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>04</codigo>
+        <descricao>RETORNO DE BENS EXPORTADOS - GUERRA OU CALAMIDADE PUBLICA (LEI 10865/04 - ART. 1º, PAR. 2º, INC. I, AL. D)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>05</codigo>
+        <descricao>RETORNO DE BENS EXPORTADOS - FATORES ALHEIOS AO EXPORTADOR (LEI 10865/04 - ART. 1º, PAR. 2º, INC. I, AL. E)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>06</codigo>
+        <descricao>BENS IDENTICOS DESTINADOS A REPOSICAO DE OUTROS ANTERIORMENTE IMPORTADOS (LEI 10865/04, ART. 2º, INC. II)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>07</codigo>
+        <descricao>BENS AOS QUAIS TENHA SIDO APLICADO O REGIME DE EXPORTACAO TEMPORARIA (LEI 10865/04 - ART. 2º, INC. VI)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>08</codigo>
+        <descricao>BENS IMPORTADOS PELAS ENTIDADES BENEFICENTES DE ASSISTENCIA SOCIAL (LEI 10865/04, ART. 2º, INC. VII)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>09</codigo>
+        <descricao>PRODUTOS QUIMICOS E FARMACEUTICOS - CAPITULOS 29/30 NCM (LEI 10865/04 - ART 8º, PAR 11, INC I, C/C DEC 5127/04)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>10</codigo>
+        <descricao>PRODUTOS C/USO DEFINIDO P/LEI 10865/04 -ART 8º,PAR 11,INC II,C/C L.11196/05 -ART 44, C/C DEC 5127/04</descricao>
+        <inicioVigencia>14/01/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>11</codigo>
+        <descricao>PARTES, PECAS E COMPONENTES PARA EMBARCACOES COM REGISTRO NO REB (LEI 10865/04 - ART 8º, PAR 12, INC I, C/C DEC 5171/04)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>12</codigo>
+        <descricao>RETORNO AO REG. BRASILEIRO DE EMBARCACOES CONSTRUIDAS NO BRASIL (LEI 10865/04 - ART 8º, PAR 12, INC II, C/C DEC 5171/04)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>13</codigo>
+        <descricao>PAPEL DESTINADO A IMPRESSAO DE JORNAIS (LEI 10865/04 - ART. 8º, PAR. 12, INC. III, C/C DEC 5171/04)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>14</codigo>
+        <descricao>GAS NATURAL LIQUEFEITO - GNL ( LEI 10865/04 - ART.8, PAR.12, INC. XVI - LEI 11727/08 - ART. 26)</descricao>
+        <inicioVigencia>11/03/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>15</codigo>
+        <descricao>BENS DESTINADOS A INDUSTRIA CINEMATOGRAFICA E AUDIOVISUAL (LEI 10865/04 - ART 8º, PAR 12, INC V, C/C DEC 5171/04)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>16</codigo>
+        <descricao>AERONAVES DA POSICAO 8802 DA NCM (LEI 10865/04 - ART 8º, PAR 12, INC VI, C/C LEI 10925/04 - ART 6º, C/C DEC 5171/04)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>17</codigo>
+        <descricao>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,PAR 12, INC VII, C/C LEI 10925/04 - ART 6º, C/C DEC 5171/04)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>18</codigo>
+        <descricao>RECINE-REGIME ESP TRIB P/DESENV ATIV EXIB CINEMATOGRAFICA (LEI 12599/12, ART.12 E DEC. 7729/12, ART.7)</descricao>
+        <inicioVigencia>04/02/2013</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>19</codigo>
+        <descricao>GAS NATURAL DESTINADO AS UNIDADES TERMELETRICAS INTEGRANTES DO PPT (LEI 10865/04 - ART. 8º, PAR. 12, INC. IX)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>20</codigo>
+        <descricao>PRODUTOS HORTICULAS E FRUTAS - CAPITULOS 7 E 8 DA TIPI - E OVOS - POSICAO 0407 (LEI 10865/04 - ART. 8º, PAR. 12, INC. X)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>21</codigo>
+        <descricao>SEMENS E EMBRIOES DA POSICAO 0511 DA NCM (LEI 10865/04 - ART. 8º, PAR. 12, INC. XI)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>22</codigo>
+        <descricao>LIVROS, CFE DEFINIDO NO ART. 2º DA LEI 10753/03 (LEI 10865/04 - ART 8º, PAR 12, INC XII, C/C LEI 11033/04 - ART 6º)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>23</codigo>
+        <descricao>ADUBOS OU FERTILIZANTES - CAPITULO 31 DA NCM - E SUAS MAT. PRIMAS (LEI 10925/04 - ART 1º, INC I, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>24</codigo>
+        <descricao>DEFENSIVOS AGROPECUARIOS - POSICAO 3808 DA NCM - E SUAS MAT. PRIMAS (LEI 10925/04 - ART 1º, INC II, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>25</codigo>
+        <descricao>SEMENTES/MUDAS E PRODUTOS DE NATUREZA BIOLOGICA PARA SUA PRODUCAO (LEI 10925/04 - ART 1º, INC III, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>26</codigo>
+        <descricao>CORRETIVO DE SOLO DE ORIGEM MINERAL - CAPITULO 25 DA NCM (LEI 10925/04 - ART 1º, INC IV, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>27</codigo>
+        <descricao>FEIJOES COMUNS, ARROZ E FARINHAS, COM CODIGOS NCM DEFINIDOS PELA LEI 10925/04 - ART 1º, INC V, C/C DEC 5630/05.</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>28</codigo>
+        <descricao>INOCULANTES AGRICOLAS DO CODIGO 3002.90.99 DA NCM (LEI 10925/04 - ART 1º, INC VI, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>29</codigo>
+        <descricao>VACINAS PARA MEDICINA VETERINARIA - CóDIGO 3002.30 DA NCM (LEI 10925/04 - ART 1º, INC VII, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>30</codigo>
+        <descricao>PRODUTOS DEFINIDOS PELA LEI 10925/04 - ART 1º, INC IX, C/C LEI 11051/04 - ART 29, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>31</codigo>
+        <descricao>PINTOS DE UM DIA - CODIGO 0105.11 DA TIPI (LEI 10925/04 - ART 1º, INC X, C/C LEI 11051/04 - ART 29, C/C DEC 5630/05)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>32</codigo>
+        <descricao>LEITE FLUIDO, CFE DEFINICõES DA LEI 10925/04 - ART 1º, INC, XI, C/C LEI 11488/08 - ART 32, C/C DECS 5630/05E 6461/08</descricao>
+        <inicioVigencia>26/05/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>33</codigo>
+        <descricao>UNIAO, ESTADOS, DISTRITO FEDERAL E MUNICIPIOS, SUAS AUTARQUIAS E FUNDACOES (LEI 10865/04 - ART. 9º, INC. I, AL. A)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>34</codigo>
+        <descricao>MISSOES DIPLOMATICAS, REPARTICOES CONSULARES E RESPECTIVOS INTEGRANTES_(LEI 10865/04 - ART. 9º, INC. I, AL. B)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>35</codigo>
+        <descricao>REPRESENTACOES DE ORGANISMOS INTERNACIONAIS E RESPECTIVOS INTEGRANTES (LEI 10865/04 - ART. 9º, INC. I, AL. C)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>36</codigo>
+        <descricao>AMOSTRAS E REMESSAS POSTAIS INTERNACIONAIS, SEM VALOR COMERCIAL (LEI 10865/04 - ART. 9º, INC. II, AL. A)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>37</codigo>
+        <descricao>REMESSAS POSTAIS E ENCOMENDAS AEREAS INTERNACIONAIS DESTINADAS A PESSOA FISICA (LEI 10865/04 - ART. 1º, INC. II, AL. B)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>38</codigo>
+        <descricao>BAGAGEM E BENS A QUE SE APLIQUEM OS REGIMES DE TRIBUTACAO SIMPLIFICADA/ESPECIAL (LEI 10865/04 - ART 9º, INC II, AL. C)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>39</codigo>
+        <descricao>BENS IMPORTADOS SOB O REGIME ADUANEIRO ESPECIAL DE DRAWBACK/ISENCAO (LEI 10865/04 - ART. 9º, INC. II, AL. F)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>40</codigo>
+        <descricao>OBJETOS DE ARTE - CODIGOS 9701, 9702, 9703 E 9706 DA NCM - RECEBIDOS EM DOACAO (LEI 10865/04 - ART. 9º, INC. II, AL. G)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>41</codigo>
+        <descricao>BENS IMPORTADOS POR INST. CIENTIFICAS E TECNOLOGICAS,CIENTISTAS E PESQUISADORES (LEI 10865/04 - ART 9º, INC II, AL H)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>42</codigo>
+        <descricao>BENS SUBMETIDOS AOS REGIMES ADUANEIROS ESPECIAIS (LEI 10865/04 - ART. 14, CAPUT)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>43</codigo>
+        <descricao>MAT. PRIMAS, PROD. INTERM. E MAT. DE EMBALAGEM - EMPRESAS DA ZFM (LEI 10865/04 - ART 14-A, C/C LEI 10925/04 - ART 6º)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>44</codigo>
+        <descricao>BENS PARA ELABORACAO DE MAT. PRIMAS, PROD. INTERM. E MAT. DE EMBALAGEM - EMPRESAS DA ZFM (LEI 10865/04 - ART 14, PAR 1º)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>45</codigo>
+        <descricao>PREP. COMPOSTAS N/ ALCOOLICAS P/ ELAB. DE BEBIDAS (LEI 10865/04 - ART 8º, PAR 12, INC XIII, C/C LEI 11196/05 - ART 44)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>46</codigo>
+        <descricao>BENS SUBMETIDOS AO REPORTO (LEI 11033/04 - ART. 14, C/C DEC 6582/08)</descricao>
+        <inicioVigencia>30/09/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>47</codigo>
+        <descricao>BENS SUBMETIDOS AO REPES (LEI 11196/05 - ART. 4º, INC. II, C/C DEC 5713/06)</descricao>
+        <inicioVigencia>11/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>48</codigo>
+        <descricao>BENS SUBMETIDOS AO RECAP (LEI 11196/05 - ART. 14, INC. II, C/C DEC 6581/08)</descricao>
+        <inicioVigencia>30/09/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>49</codigo>
+        <descricao>BENS A SEREM INCORPORADOS AO ATIVO IMOBILIZADO DE EMPRESAS DA ZFM (LEI 11196/05 - ART 50, C/C DEC 5691/06)</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>50</codigo>
+        <descricao>QUEIJOS DE TIPOS DEFINIDOS PELA LEI 10925/04 - ART 1º, INC XII, C/C LEI 11488/07 - ART 32, C/C DECS 5630/05 E 6461/08</descricao>
+        <inicioVigencia>26/05/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>51</codigo>
+        <descricao>MAQUINAS E EQUIPAMENTOS - POSICAO 8439 DA TIPI - P/ FABRICACAO DE PAPEIS (LEI 11196/05 - ART 55, INC II, C/C DEC 5653/05</descricao>
+        <inicioVigencia>12/04/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>52</codigo>
+        <descricao>LEITE EM Pó, CFE DEFINIçõES DA LEI 10925/04 - ART 1º, INC XI,C/C LEI 11488/07 - ART 32, C/C DECS 5630/05 E 6461/08</descricao>
+        <inicioVigencia>26/05/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>53</codigo>
+        <descricao>CUSTOS DE ENERGIA ELETRICA - EFEITOS CAMBIAIS (IN SRF 649, DE 2006).</descricao>
+        <inicioVigencia>14/06/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA                                              </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>54</codigo>
+        <descricao>PROD QUIMICOS, CAP 29 - DEC 5821/06, ART 1º, INC I.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>55</codigo>
+        <descricao>PROD QUIMICOS SINTESE,CAP 29-DEC 5821/06,ART 1º,INC II,AL B.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>56</codigo>
+        <descricao>POS. 3002,3006,3926,4015,9018-DEC 5821/06, ART 1º, INC III.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>57</codigo>
+        <descricao>POS. 3002,3006,3926,4015,9018-DEC 5821/06,ART 1º,PAR UNICO.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>58</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC I.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>59</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC II.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>60</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC III.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>61</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC IV.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>62</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC V.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>63</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC VI.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>64</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2º, INC VII.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>65</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 5821/06 ART 2º, INC VIII.</descricao>
+        <inicioVigencia>21/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>66</codigo>
+        <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 10865/04, ART. 9, INCISO II, ALINEA D)</descricao>
+        <inicioVigencia>15/02/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>67</codigo>
+        <descricao>BENS C/USO RELAT.EVENTO CULTURAL,CIENT.OU ESPORTIVO OFICIAL REALIZADO NO EXTERIOR OU BRASIL-L.11.488/07,ART.38.</descricao>
+        <inicioVigencia>17/12/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>68</codigo>
+        <descricao>MAT.PRIMAS, PROD.INTERM. E MAT.DE EMB.- EMPR.EXPORTADORA(LEI10.865/2004-ART.40-PARAGRAFO 6º C/C LEIS10925/04 E 11482/07)</descricao>
+        <inicioVigencia>15/01/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>69</codigo>
+        <descricao>PROD QUIMICOS, CAP 29 - DEC 6426/08, ART 1º, INC I</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>70</codigo>
+        <descricao>PROD QUIMICOS SINTESE,CAP 29-DEC 6426/08,ART 1º,INC II,AL B.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>71</codigo>
+        <descricao>POS. 3002,3006,3926,4015,9018-DEC 6426/08, ART 1º, INC III</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>72</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC I.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>73</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC II.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>74</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC III.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>75</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC IV.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>76</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC V.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>77</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC VI.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>78</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC VII.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>79</codigo>
+        <descricao>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC VIII.</descricao>
+        <inicioVigencia>08/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>80</codigo>
+        <descricao>ÓLEOS COMBS.TIPO BUNKER, CóDS. 2710.19.21 E 2710.19.22,DESTS.à NAVEGAçãO D/CAB.E D/APOIO PORT.E MARíT.-LEI 11774/08 ART.2º</descricao>
+        <inicioVigencia>23/10/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>81</codigo>
+        <descricao>PRODUTOS DEFINIDOS PELA LEI 10925/04 - ART 1º, INC,XI, C/C  LEI 11488/08 - ART 32, C/C DEC 6461/08</descricao>
+        <inicioVigencia>26/05/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>82</codigo>
+        <descricao>SORO DE LEITE FLUIDO, CFE DEFINIçõES DA LEI 10925/04 - ART 1º, INC XIV, C/C LEI 11488/07 - ART 32, C/C DEC 6461/08</descricao>
+        <inicioVigencia>26/05/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>83</codigo>
+        <descricao>LEI 10925/04 - ART. 1º, INC, XIV, C/C MP 433/08, C/C MP 552/11,INC. XVIII</descricao>
+        <inicioVigencia>29/12/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>84</codigo>
+        <descricao>TRIGO, LEI 10925/04 - ART 1º, INC XV, C/C MP 433/08 E LEI 12096/09</descricao>
+        <inicioVigencia>14/01/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>85</codigo>
+        <descricao>PRÉ-MISTURAS PRÓPRIAS P/FABRICAçÃO DE PÃO COMUM E PÃO COMUM,LEI 10925/04 - ART 1º, INC XVI, C/C MP 433/08 E LEI 12096/09</descricao>
+        <inicioVigencia>14/01/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>86</codigo>
+        <descricao>ACETONA DESTINADA A PRODUçãO DE MONOISOPROPILAMINA (MIPA), CóDIGO TIPI 2914.11.00,LEI 11727/08 - ART. 25º, PARáGRS.1º E 2º</descricao>
+        <inicioVigencia>14/07/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>87</codigo>
+        <descricao>MATERIAIS,EQUIPAMENTO E DADOS TECNICOS IMPORTADOS P/ENT.BINACIONAL ALCANTARA CYCLONE SPACE - ART. 9 DO DECRETO 5436/2005</descricao>
+        <inicioVigencia>03/10/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>88</codigo>
+        <descricao>ISENçÃO PIS/COFINS LEI 11488/2007 ART.38</descricao>
+        <inicioVigencia>26/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>89</codigo>
+        <descricao>REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRA-ESTRUTUTA - REIDI (LEI Nº 11.488/2007 ART. 3º)</descricao>
+        <inicioVigencia>10/09/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>90</codigo>
+        <descricao>PRODUTOS COM USO DEFINIDO PELA LEI 10865 ART. 8º - PAR 12,INCXVIII,XIX,XX E XXI - LEI 12058/09 ART 28º -INC XV,XVI E XVII</descricao>
+        <inicioVigencia>14/01/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>91</codigo>
+        <descricao>GÁS NATURAL IMPORTADO DA BOLÍVIA - DECRETO Nº 681/1992, ART.3º - ATO DECLARATÓRIO INTERPRETATIVO Nº 21/2004</descricao>
+        <inicioVigencia>05/01/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>92</codigo>
+        <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC          7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+        <inicioVigencia>07/01/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>93</codigo>
+        <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO     DECRETO 7.243/2010, ART.5º,III</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>94</codigo>
+        <descricao>PADIS E PATVD - LEI 11484/07, DECRETOS 6233/2007, 6234/2007 E7600/2011, E IN RFB 853/08 E 852/08</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>95</codigo>
+        <descricao>RECOPA - LEI 12350/2010; DECRETOS 7319/2010 E 7525/2011; IN RFB 1176/2011 E 1237/2012</descricao>
+        <inicioVigencia>15/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>96</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>97</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 BENS ADMITIDOS SOB O REGIME DE ADMISSãO TEMPORáRIA</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+    <FundamentoLegalRegimeTributacaoPisCofins>
+        <codigo>98</codigo>
+        <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES NÃO CAPITULADAS NESTA TABELA</descricao>
+        <inicioVigencia>11/01/2013</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <regimesTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+        <regimesTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO                                                     </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+        <regimesTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO                                                   </descricao>
+            <fimVigencia>-</fimVigencia>
+        </regimesTributacao>
+    </FundamentoLegalRegimeTributacaoPisCofins>
+</FundamentoLegalRegimeTributacaoPisCofinsList>

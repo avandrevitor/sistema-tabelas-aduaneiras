@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UnidadeMedidaMercosulList>
+    <UnidadeMedidaMercosul>
+        <codigo>10</codigo>
+        <descricao>QUILOGRAMA LIQUIDO</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>11</codigo>
+        <descricao>UNIDADE</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>12</codigo>
+        <descricao>MIL UNIDADES</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>13</codigo>
+        <descricao>PARES</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>14</codigo>
+        <descricao>METRO</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>15</codigo>
+        <descricao>METRO QUADRADO</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>16</codigo>
+        <descricao>METRO CUBICO</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>17</codigo>
+        <descricao>LITRO</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>18</codigo>
+        <descricao>MEGAWATT HORA</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>19</codigo>
+        <descricao>QUILATE</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>20</codigo>
+        <descricao>DUZIA</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>21</codigo>
+        <descricao>TONEL.METR.LIQ.</descricao>
+        <inicioVigencia>23/03/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>22</codigo>
+        <descricao>GRAMA</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>23</codigo>
+        <descricao>BILHAO DE UNIDADE INTERNACIONAL</descricao>
+        <inicioVigencia>23/03/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>24</codigo>
+        <descricao>QUILOGRAMA BRUTO</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+    <UnidadeMedidaMercosul>
+        <codigo>25</codigo>
+        <descricao>JOGO</descricao>
+        <inicioVigencia>23/11/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </UnidadeMedidaMercosul>
+</UnidadeMedidaMercosulList>

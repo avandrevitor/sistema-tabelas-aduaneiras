@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MoedaList>
+    <Moeda>
+        <codigo>005</codigo>
+        <descricao>AFEGANE/AFEGANIST</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>009</codigo>
+        <descricao>BIRR/ETIOPIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>015</codigo>
+        <descricao>BATH</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>020</codigo>
+        <descricao>BALBOA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>026</codigo>
+        <descricao>BOLIVAR FORTE/VEN</descricao>
+        <inicioVigencia>02/01/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>030</codigo>
+        <descricao>BOLIVIANO/BOLIVIA</descricao>
+        <inicioVigencia>20/09/1993</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>035</codigo>
+        <descricao>CEDI</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>040</codigo>
+        <descricao>COLON COSTARRIQUENHO</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>045</codigo>
+        <descricao>COLON SALVADORENHO</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>051</codigo>
+        <descricao>CORDOBA OURO</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>055</codigo>
+        <descricao>COROA DINAM/DINAM</descricao>
+        <inicioVigencia>01/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>060</codigo>
+        <descricao>COROA ISLANDESA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>065</codigo>
+        <descricao>COROA NORUE/NORUE</descricao>
+        <inicioVigencia>01/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>070</codigo>
+        <descricao>COROA SUECA/SUECI</descricao>
+        <inicioVigencia>16/04/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>075</codigo>
+        <descricao>COROA TCHECA</descricao>
+        <inicioVigencia>29/03/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>090</codigo>
+        <descricao>DALASI</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>095</codigo>
+        <descricao>DINAR ARGELINO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>100</codigo>
+        <descricao>DINAR COVEITEANO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>105</codigo>
+        <descricao>DINAR DE BAHREIN</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>115</codigo>
+        <descricao>DINAR/IRAQUE</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>125</codigo>
+        <descricao>DINAR JORDANIANO</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>130</codigo>
+        <descricao>DINAR LIBIO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>132</codigo>
+        <descricao>DINAR/MACEDONIA</descricao>
+        <inicioVigencia>31/05/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>133</codigo>
+        <descricao>DINAR SERVIO/SERV</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>134</codigo>
+        <descricao>DINAR/SUDAO</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>135</codigo>
+        <descricao>DINAR TUNISIANO</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>136</codigo>
+        <descricao>LIBRA SUL SUDANESA</descricao>
+        <inicioVigencia>17/02/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>138</codigo>
+        <descricao>DIREITO ESPECIAL</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>139</codigo>
+        <descricao>DIRHAM DE MARROCOS</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>145</codigo>
+        <descricao>DIRHAM EMIR.ARABES</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>148</codigo>
+        <descricao>DOBRA/S.TOME PRIN</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>150</codigo>
+        <descricao>DOLAR AUSTRALIANO</descricao>
+        <inicioVigencia>01/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>155</codigo>
+        <descricao>DOLAR/BAHAMAS</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>160</codigo>
+        <descricao>DOLAR/BERMUDAS</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>165</codigo>
+        <descricao>DOLAR CANADENSE</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>170</codigo>
+        <descricao>DOLAR DA GUIANA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>173</codigo>
+        <descricao>DÓLAR DA NAMÍBIA</descricao>
+        <inicioVigencia>08/04/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>175</codigo>
+        <descricao>DOLAR DE BARBADOS</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>180</codigo>
+        <descricao>DOLAR/BELIZE</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>185</codigo>
+        <descricao>DOLAR BRUNEI</descricao>
+        <inicioVigencia>09/11/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>190</codigo>
+        <descricao>DOLAR/CAYMAN</descricao>
+        <inicioVigencia>31/08/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>195</codigo>
+        <descricao>DOLAR DE CINGAPURA</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>197</codigo>
+        <descricao>UNIDADE DE FOMENTO DO CHILE</descricao>
+        <inicioVigencia>17/02/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>200</codigo>
+        <descricao>DOLAR/FIJI</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>205</codigo>
+        <descricao>DOLAR DE HONG-KONG</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>210</codigo>
+        <descricao>DOLAR DE TRINIDADE</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>215</codigo>
+        <descricao>DOLAR DO CARIBE O</descricao>
+        <inicioVigencia>24/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>217</codigo>
+        <descricao>DOLAR DE ZIMBABUE</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>220</codigo>
+        <descricao>DOLAR DOS EUA</descricao>
+        <inicioVigencia>03/04/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>230</codigo>
+        <descricao>DOLAR JAMAICANO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>235</codigo>
+        <descricao>DOLAR/LIBERIA</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>245</codigo>
+        <descricao>DOLAR/NOVA ZELAND</descricao>
+        <inicioVigencia>01/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>250</codigo>
+        <descricao>DOLAR IL SALOMAO</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>255</codigo>
+        <descricao>DOLAR/SURINAME</descricao>
+        <inicioVigencia>06/09/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>260</codigo>
+        <descricao>DONGUE/VIETNAN</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>275</codigo>
+        <descricao>DRAM/ARMENIA REP</descricao>
+        <inicioVigencia>05/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>295</codigo>
+        <descricao>ESCUDO CABO VERDE</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>325</codigo>
+        <descricao>FLORIM/ANT. HOLAN</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>328</codigo>
+        <descricao>FLORIM/ARUBA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>345</codigo>
+        <descricao>FORINT</descricao>
+        <inicioVigencia>23/12/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>363</codigo>
+        <descricao>FRANCO CONGOLES</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>365</codigo>
+        <descricao>FRANCO DE BURUNDI</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>368</codigo>
+        <descricao>FRANCO/COMORES</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>370</codigo>
+        <descricao>FRANCO/COM.FIN.AF</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>372</codigo>
+        <descricao>FRANCO/CFA OESTE</descricao>
+        <inicioVigencia>07/01/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>380</codigo>
+        <descricao>FRANCO COL FRANC</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>390</codigo>
+        <descricao>FRANCO/DJIBUTI</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>398</codigo>
+        <descricao>FRANCO GUINÉ</descricao>
+        <inicioVigencia>21/01/2013</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>406</codigo>
+        <descricao>ARIARY MADAGASCAR</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>420</codigo>
+        <descricao>FRANCO DE RUANDA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>425</codigo>
+        <descricao>FRANCO SUICO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>440</codigo>
+        <descricao>GOURDE</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>450</codigo>
+        <descricao>GUARANI</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>460</codigo>
+        <descricao>HRYVNIA UCRANIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>470</codigo>
+        <descricao>IENE</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>482</codigo>
+        <descricao>LARI GEORGIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>490</codigo>
+        <descricao>LEK ALBANIA REP</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>495</codigo>
+        <descricao>LEMPIRA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>500</codigo>
+        <descricao>LEONE</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>503</codigo>
+        <descricao>LEU/MOLDAVIA, REP</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>506</codigo>
+        <descricao>NOVO LEU/ROMENIA</descricao>
+        <inicioVigencia>28/04/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>510</codigo>
+        <descricao>LEV/BULGARIA, REP</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>530</codigo>
+        <descricao>LIBRA/GIBRALTAR</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>535</codigo>
+        <descricao>LIBRA EGIPCIA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>540</codigo>
+        <descricao>LIBRA ESTERLINA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>545</codigo>
+        <descricao>LIBRA/FALKLAND</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>560</codigo>
+        <descricao>LIBRA LIBANESA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>570</codigo>
+        <descricao>LIBRA/STA HELENA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>575</codigo>
+        <descricao>LIBRA SIRIA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>585</codigo>
+        <descricao>LILANGENI/SUAZIL</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>603</codigo>
+        <descricao>LOTI/LESOTO</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>607</codigo>
+        <descricao>MANAT</descricao>
+        <inicioVigencia>03/08/1994</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>608</codigo>
+        <descricao>NOVO MANAT TURCOM</descricao>
+        <inicioVigencia>29/01/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>612</codigo>
+        <descricao>MARCO CONV BOSNIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>622</codigo>
+        <descricao>NOVA METICAL/MOCA</descricao>
+        <inicioVigencia>18/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>625</codigo>
+        <descricao>NAKFA/ERITREIA</descricao>
+        <inicioVigencia>27/09/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>630</codigo>
+        <descricao>NAIRA/NIGERIA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>635</codigo>
+        <descricao>CUANZA/ANGOLA</descricao>
+        <inicioVigencia>04/08/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>640</codigo>
+        <descricao>NOVO DOLAR TAIWAN</descricao>
+        <inicioVigencia>04/09/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>642</codigo>
+        <descricao>NOVA LIRA/TURQUIA</descricao>
+        <inicioVigencia>18/07/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>660</codigo>
+        <descricao>NOVO SOL/PERU</descricao>
+        <inicioVigencia>01/02/1991</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>665</codigo>
+        <descricao>NGULTRUM/BUTAO</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>670</codigo>
+        <descricao>UGUIA MAURITANIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>680</codigo>
+        <descricao>PAANGA</descricao>
+        <inicioVigencia>24/07/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>685</codigo>
+        <descricao>PATACA/MACAU</descricao>
+        <inicioVigencia>16/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>706</codigo>
+        <descricao>PESO ARGENTINO</descricao>
+        <inicioVigencia>13/03/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>715</codigo>
+        <descricao>PESO CHILENO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>720</codigo>
+        <descricao>PESO COLOMBIANO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>725</codigo>
+        <descricao>PESO CUBANO</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>730</codigo>
+        <descricao>PESO DOMINICANO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>735</codigo>
+        <descricao>PESO FILIPINO</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>738</codigo>
+        <descricao>PESO/GUINE BISSAU</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>741</codigo>
+        <descricao>PESO/MEXICO</descricao>
+        <inicioVigencia>06/08/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>745</codigo>
+        <descricao>PESO/URUGUAIO</descricao>
+        <inicioVigencia>14/08/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>755</codigo>
+        <descricao>PULA/BOTSWANA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>760</codigo>
+        <descricao>QUACHA DE MALAVI</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>766</codigo>
+        <descricao>QUACHA ZAMBIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>770</codigo>
+        <descricao>QUETZAL</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>775</codigo>
+        <descricao>QUIATE/BIRMANIA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>776</codigo>
+        <descricao>KARBOVANETS</descricao>
+        <inicioVigencia>03/08/1994</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>778</codigo>
+        <descricao>KINA/PAPUA N GUIN</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>779</codigo>
+        <descricao>KUNA/CROACIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>780</codigo>
+        <descricao>QUIPE/LAOS, REP</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>785</codigo>
+        <descricao>RANDE</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>790</codigo>
+        <descricao>REAL/BRASIL</descricao>
+        <inicioVigencia>15/04/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>795</codigo>
+        <descricao>IUAN RENMIMBI</descricao>
+        <inicioVigencia>02/06/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>796</codigo>
+        <descricao>RENMINBI HONG KONG</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>800</codigo>
+        <descricao>RIAL DE CATAR</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>805</codigo>
+        <descricao>RIAL/OMA</descricao>
+        <inicioVigencia>06/01/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>810</codigo>
+        <descricao>RIAL IEMENITA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>815</codigo>
+        <descricao>RIAL/IRAN, REP</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>820</codigo>
+        <descricao>RIAL SAUDITA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>825</codigo>
+        <descricao>RIEL/CAMBOJA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>828</codigo>
+        <descricao>RINGGIT (MALASIA)</descricao>
+        <inicioVigencia>25/07/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>830</codigo>
+        <descricao>RUBLO/RÚSSIA</descricao>
+        <inicioVigencia>17/11/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>831</codigo>
+        <descricao>RUBRO BELARUS</descricao>
+        <inicioVigencia>17/02/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>835</codigo>
+        <descricao>SOMONI TADJIQUIST</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>840</codigo>
+        <descricao>RUPIA DE MAURICIO</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>845</codigo>
+        <descricao>RUPIA DE NEPAL</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>850</codigo>
+        <descricao>RUPIA/SEYCHELES</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>855</codigo>
+        <descricao>RUPIA DE SRILANKA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>860</codigo>
+        <descricao>RUPIA INDIANA</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>865</codigo>
+        <descricao>RUPIA DA INDONESIA</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>870</codigo>
+        <descricao>RUFIA/MALDIVAS</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>875</codigo>
+        <descricao>RUPIA PAQUISTANES</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>880</codigo>
+        <descricao>SHEKEL</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>892</codigo>
+        <descricao>SOM QUIRGUISTAO</descricao>
+        <inicioVigencia>29/01/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>893</codigo>
+        <descricao>SOM/UZBEQUISTAO</descricao>
+        <inicioVigencia>30/09/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>905</codigo>
+        <descricao>TACA/BANGLADESH</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>912</codigo>
+        <descricao>TALA SAMOA</descricao>
+        <inicioVigencia>17/02/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>913</codigo>
+        <descricao>TENGE/CASAQISTAO</descricao>
+        <inicioVigencia>01/06/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>915</codigo>
+        <descricao>TUGRIK/MONGOLIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>918</codigo>
+        <descricao>UNID.MONET.EUROP.</descricao>
+        <inicioVigencia>26/12/1983</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>920</codigo>
+        <descricao>VATU VANUATU</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>925</codigo>
+        <descricao>WON/COREIA NORTE</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>930</codigo>
+        <descricao>WON</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>946</codigo>
+        <descricao>XELIM/TANZANIA</descricao>
+        <inicioVigencia>01/08/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>950</codigo>
+        <descricao>XELIM DE QUENIA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>955</codigo>
+        <descricao>XELIM DE UGANDA</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>960</codigo>
+        <descricao>XELIM SOMALIANO</descricao>
+        <inicioVigencia>07/12/1984</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>975</codigo>
+        <descricao>ZLOTY/POLONIA</descricao>
+        <inicioVigencia>15/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>978</codigo>
+        <descricao>EURO/COM.EUROPEIA</descricao>
+        <inicioVigencia>09/08/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+    <Moeda>
+        <codigo>998</codigo>
+        <descricao>DOLAR OURO</descricao>
+        <inicioVigencia>31/03/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </Moeda>
+</MoedaList>

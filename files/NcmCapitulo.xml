@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NcmList>
+    <Ncm>
+        <codigo>01</codigo>
+        <descricao>Animais vivos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>02</codigo>
+        <descricao>Carnes e miudezas, comestíveis</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>03</codigo>
+        <descricao>Peixes e crustáceos, moluscos e outros invertebrados aquáticos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>04</codigo>
+        <descricao>Leite e lacticínios; ovos de aves; mel natural; produtos comestíveis de origem animal, não especificados nem compreendidos noutros Capítulos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>05</codigo>
+        <descricao>Outros produtos de origem animal, não especificados nem compreendidosnoutros Capítulos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>06</codigo>
+        <descricao>Plantas vivas e produtos de floricultura</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>07</codigo>
+        <descricao>Produtos hortícolas, plantas, raízes e tubérculos, comestíveis</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>08</codigo>
+        <descricao>Frutas; cascas de frutos cítricos e de melões</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>09</codigo>
+        <descricao>Café, chá, mate e especiarias</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>10</codigo>
+        <descricao>Cereais</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>11</codigo>
+        <descricao>Produtos da indústria de moagem; malte; amidos e féculas; inulina; glúten de trigo</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>12</codigo>
+        <descricao>Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>13</codigo>
+        <descricao>Gomas, resinas e outros sucos e extratos vegetais</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>14</codigo>
+        <descricao>Matérias para entrançar e outros produtos de origem vegetal, não especificados nem compreendidos noutros Capítulos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>15</codigo>
+        <descricao>Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>16</codigo>
+        <descricao>Preparações de carne, de peixes ou de crustáceos, de moluscos ou de outros invertebrados aquáticos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>17</codigo>
+        <descricao>Açúcares e produtos de confeitaria</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>18</codigo>
+        <descricao>Cacau e suas preparações</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>19</codigo>
+        <descricao>Preparações à base de cereais, farinhas, amidos, féculas ou leite; produtos de pastelaria</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>20</codigo>
+        <descricao>Preparações de produtos hortícolas, de frutas ou de outras partes de plantas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>21</codigo>
+        <descricao>Preparações alimentícias diversas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>22</codigo>
+        <descricao>Bebidas, líquidos alcoólicos e vinagres</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>23</codigo>
+        <descricao>Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>24</codigo>
+        <descricao>Tabaco e seus sucedâneos manufaturados</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>25</codigo>
+        <descricao>Sal; enxofre; terras e pedras; gesso, cal e cimento</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>26</codigo>
+        <descricao>Minérios, escórias e cinzas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>27</codigo>
+        <descricao>Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>28</codigo>
+        <descricao>Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras rarasou de isótopos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>29</codigo>
+        <descricao>Produtos químicos orgânicos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>30</codigo>
+        <descricao>Produtos farmacêuticos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>31</codigo>
+        <descricao>Adubos (fertilizantes)</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>32</codigo>
+        <descricao>Extratos tanantes e tintoriais; taninos e seus derivados; pigmentos eoutras matérias corantes; tintas e vernizes; mástiques; tintas de escrever</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>33</codigo>
+        <descricao>Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e preparações cosméticas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>34</codigo>
+        <descricao>Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtosde conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar, ceras para dentistas e com</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>35</codigo>
+        <descricao>Matérias albuminóides; produtos à base de amidos ou de féculas modificados; colas; enzimas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>36</codigo>
+        <descricao>Pólvoras e explosivos; artigos de pirotecnia; fósforos; ligas pirofóricas; matérias inflamáveis</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>37</codigo>
+        <descricao>Produtos para fotografia e cinematografia</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>38</codigo>
+        <descricao>Produtos diversos das indústrias químicas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>39</codigo>
+        <descricao>Plásticos e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>40</codigo>
+        <descricao>Borracha e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>41</codigo>
+        <descricao>Peles, exceto as peles com pelo, e couros</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>42</codigo>
+        <descricao>Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefatos semelhantes; obras de tripa</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>43</codigo>
+        <descricao>Peles com pelo e suas obras; peles com pelo artificiais</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>44</codigo>
+        <descricao>Madeira, carvão vegetal e obras de madeira</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>45</codigo>
+        <descricao>Cortiça e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>46</codigo>
+        <descricao>Obras de espartaria ou de cestaria</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>47</codigo>
+        <descricao>Pastas de madeira ou de outras matérias fibrosas celulósicas; papel ou cartão para reciclar (desperdícios e aparas)</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>48</codigo>
+        <descricao>Papel e cartão; obras de pasta de celulose, de papel ou de cartão</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>49</codigo>
+        <descricao>Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou datilografados, planos e plantas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>50</codigo>
+        <descricao>Seda</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>51</codigo>
+        <descricao>Lã, pelos finos ou grosseiros; fios e tecidos de crina</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>52</codigo>
+        <descricao>Algodão</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>53</codigo>
+        <descricao>Outras fibras têxteis vegetais; fios de papel e tecidos de fios de papel</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>54</codigo>
+        <descricao>Filamentos sintéticos ou artificiais; lâminas e formas semelhantes dematérias têxteis sintéticas ou artificiais</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>55</codigo>
+        <descricao>Fibras sintéticas ou artificiais, descontínuas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>56</codigo>
+        <descricao>Pastas (ouates), feltros e falsos tecidos; fios especiais; cordéis, cordas e cabos; artigos de cordoaria</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>57</codigo>
+        <descricao>Tapetes e outros revestimentos para pisos (pavimentos), de matérias têxteis</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>58</codigo>
+        <descricao>Tecidos especiais; tecidos tufados; rendas; tapeçarias; passamanarias; bordados</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>59</codigo>
+        <descricao>Tecidos impregnados, revestidos, recobertos ou estratificados; artigos para usos técnicos de matérias têxteis</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>60</codigo>
+        <descricao>Tecidos de malha</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>61</codigo>
+        <descricao>Vestuário e seus acessórios, de malha</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>62</codigo>
+        <descricao>Vestuário e seus acessórios, exceto de malha</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>63</codigo>
+        <descricao>Outros artefatos têxteis confeccionados; sortidos; artefatos de matérias têxteis, calçados, chapéus e artefatos de uso semelhante, usados; trapos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>64</codigo>
+        <descricao>Calçados, polainas e artefatos semelhantes; suas partes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>65</codigo>
+        <descricao>Chapéus e artefatos de uso semelhante, e suas partes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>66</codigo>
+        <descricao>Guarda-chuvas, sombrinhas, guarda-sóis, bengalas, bengalas-assentos, chicotes, pingalins, e suas partes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>67</codigo>
+        <descricao>Penas e penugem preparadas e suas obras; flores artificiais; obras decabelo</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>68</codigo>
+        <descricao>Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>69</codigo>
+        <descricao>Produtos cerâmicos</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>70</codigo>
+        <descricao>Vidro e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>71</codigo>
+        <descricao>Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos (plaquê), e suas obras; bijuterias; moedas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>72</codigo>
+        <descricao>Ferro fundido, ferro e aço</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>73</codigo>
+        <descricao>Obras de ferro fundido, ferro ou aço</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>74</codigo>
+        <descricao>Cobre e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>75</codigo>
+        <descricao>Níquel e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>76</codigo>
+        <descricao>Alumínio e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>78</codigo>
+        <descricao>Chumbo e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>79</codigo>
+        <descricao>Zinco e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>80</codigo>
+        <descricao>Estanho e suas obras</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>81</codigo>
+        <descricao>Outros metais comuns; ceramais (cermets); obras dessas matérias</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>82</codigo>
+        <descricao>Ferramentas, artefatos de cutelaria e talheres, e suas partes, de metais comuns</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>83</codigo>
+        <descricao>Obras diversas de metais comuns</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>84</codigo>
+        <descricao>Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>85</codigo>
+        <descricao>Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>86</codigo>
+        <descricao>Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos mecânicos (incluindo os eletromecânicos) de sinalização paravias de comunicação</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>87</codigo>
+        <descricao>Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>88</codigo>
+        <descricao>Aeronaves e aparelhos espaciais, e suas partes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>89</codigo>
+        <descricao>Embarcações e estruturas flutuantes</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>90</codigo>
+        <descricao>Instrumentos e aparelhos de óptica, de fotografia, de cinematografia,de medida, de controle ou de precisão; instrumentos e aparelhos médico-cirúrgicos; suas partes e acessórios</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>91</codigo>
+        <descricao>Artigos de relojoaria</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>92</codigo>
+        <descricao>Instrumentos musicais; suas partes e acessórios</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>93</codigo>
+        <descricao>ARMAS E MUNIçõES; SUAS PARTES E ACESSóRIOS</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>94</codigo>
+        <descricao>Móveis; mobiliário médico-cirúrgico; colchões, almofadas e semelhantes; aparelhos de iluminação não especificados nem compreendidos noutrosCapítulos; anúncios, cartazes ou tabuletas e placas indicadoras, luminosos e artigos semelhantes; construções pré-</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>95</codigo>
+        <descricao>Brinquedos, jogos, artigos para divertimento ou para esporte; suas partes e acessórios</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>96</codigo>
+        <descricao>Obras diversas</descricao>
+    </Ncm>
+    <Ncm>
+        <codigo>97</codigo>
+        <descricao>Objetos de arte, de coleção e antiguidades</descricao>
+    </Ncm>
+</NcmList>

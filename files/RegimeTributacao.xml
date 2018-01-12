@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegimeTributacaoList>
+    <RegimeTributacao>
+        <codigo>1</codigo>
+        <descricao>RECOLHIMENTO INTEGRAL</descricao>
+        <inicioVigencia>08/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>2</codigo>
+        <descricao>IMUNIDADE</descricao>
+        <inicioVigencia>08/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>3</codigo>
+        <descricao>ISENCAO</descricao>
+        <inicioVigencia>21/07/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>4</codigo>
+        <descricao>REDUCAO</descricao>
+        <inicioVigencia>21/07/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>5</codigo>
+        <descricao>SUSPENSAO</descricao>
+        <inicioVigencia>21/07/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>6</codigo>
+        <descricao>NAO INCIDENCIA</descricao>
+        <inicioVigencia>21/07/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>7</codigo>
+        <descricao>TRIBUTACAO SIMPLIFICADA</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>8</codigo>
+        <descricao>TRIBUTACAO SIMPLIFICADA DE BAGAGEM</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+    <RegimeTributacao>
+        <codigo>9</codigo>
+        <descricao>PAGAMENTO REALIZADO</descricao>
+        <inicioVigencia>06/06/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </RegimeTributacao>
+</RegimeTributacaoList>

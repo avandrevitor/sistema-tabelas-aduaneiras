@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<InstituicaoFinanciadoraList>
+    <InstituicaoFinanciadora>
+        <codigo>01</codigo>
+        <descricao>AID - AGENCY FOR INTERNATIONAL DEVELOPMENT (AGENCIA PARA O DESENVOLVIMENTO INTERNACIONAL) - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>17/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>03</codigo>
+        <descricao>BAD - BANQUE AFRICAINE DE DEVELOPMENT (BANCO AFRICANO DE DESENVOLVIMENTO)</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>04</codigo>
+        <descricao>BID - INTER-AMERICAN DEVELOPMENT BANK (BANCO INTERAMERICANO DE DESENVOLVIMENTO)</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>06</codigo>
+        <descricao>BIRD - INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (BANCO INTERNACIONAL P/ A RECONSTRUCAO E O DESENVOLVIMENTO)</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>07</codigo>
+        <descricao>BND - NATIONAL BANK OF DENMARK (BANCO NACIONAL DA DINAMARCA) - DINAMARCA</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>08</codigo>
+        <descricao>BLADEX - BANCO LATINOAMERICANO DE EXPORTACIONES</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>09</codigo>
+        <descricao>CCC - COMMODITY CREDIT AND CORPORATION (CORPORACAO DE CREDITO PARA PRODUTOS PRIMARIOS) - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>10</codigo>
+        <descricao>CECA - EUROPEAN COAL AND STEEL COMMUNITY (COMUNIDADE EUROPEIA DO CARVAO E DO ACO)</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>12</codigo>
+        <descricao>CESCE - CIA ESPANOLA DE SEGUROS DE CRED. A LA EXPORT - ESPANHA</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>13</codigo>
+        <descricao>CFF - COOPERATIVE FINANCING FACILITY - EXIMBANK - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>14</codigo>
+        <descricao>IFC - INTERNATIONAL FINANCE CORPORATION (CORPORACAO FINANCEIRA INTERNACIONAL - CFI) - VINCULADA AO BIRD</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>15</codigo>
+        <descricao>IIC - INTERAMERICAN INVESTMENT CORPORATION (CORPORACAO INTERAMERICANA DE INVESTIMENTOS - CII) - VINCULADA AO BID</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>16</codigo>
+        <descricao>CGD - CAIXA GERAL DE DEPOSITOS - PORTUGAL</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>17</codigo>
+        <descricao>CIDA - CANADIAN INTERNATIONAL DEVELOPMENT AGENCY - CANADA'</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>18</codigo>
+        <descricao>COFACE - CIE. FRANCAISE D'ASSURANCE POUR LE COMMERCE EXTERIEUR - FRANCA</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>19</codigo>
+        <descricao>CWB - CANADIAN WHEAT BOARD (JUNTA CANADENSE DO TRIGO) - CANADA'</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>20</codigo>
+        <descricao>CREDIT NATIONAL - FRANCA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>21</codigo>
+        <descricao>DECC - DANISH EXPORT CREDIT COUNCIL - DINAMARCA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>22</codigo>
+        <descricao>DEG - DEUTSCHE G. FUR WIRTSCHAFTLICHE ZUSAMENARBEIT - ALEMANHA</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>23</codigo>
+        <descricao>DOD - DEPARTMENT OF DEFENSE - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>26</codigo>
+        <descricao>ECGD - EXPORT CREDIT GUARANTEE DEPARTMENT - INGLATERRA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>27</codigo>
+        <descricao>EDC - EXPORT DEVELOPMENT CORPORATION - CANADA'</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>28</codigo>
+        <descricao>EKN - EXPORTKREDITNAMNDEN (CONSELHO DE SEGURO DE CREDITO 'A EXPORTACAO) - SUECIA</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>29</codigo>
+        <descricao>ERG - EXPORTRISKOGARANTIE (GARANTIA CONTRA RISCOS DE EXPORTACAO) - SUICA</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>31</codigo>
+        <descricao>JBIC - JAPAN BANK FOR INTERNATIONAL COOPERATION</descricao>
+        <inicioVigencia>30/12/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>32</codigo>
+        <descricao>EXIMBANK - EXPORT IMPORT BANK OF THE UNITED STATES - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>35</codigo>
+        <descricao>FIDA - FUNDO INTERNACIONAL PARA O DESENVOLVIMENTO AGRICOLA (INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT - IFAD)</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>36</codigo>
+        <descricao>FAD - FONDS AFRICAIN DE DEVELOPMENT (FUNDO AFRICANO DE DESENVOLVIMENTO)</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>37</codigo>
+        <descricao>FCIA - FOREIGN CREDIT INSURANCE ASSOCIATION (ASSOCIACAO DE SEGURO DE CREDITO EXTERNO) - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>38</codigo>
+        <descricao>FMI - INTERNATIONAL MONETARY FUND (FUNDO MONETARIO INTERNACIONAL)</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>39</codigo>
+        <descricao>FONPLATA - FONDO FINANCIERO PARA EL DESARROLLO DE LA CUENCA DEL PLATA (FUNDO FINANC. PARA O DESENVOLV.DA BACIA DO PRATA)</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>40</codigo>
+        <descricao>FMO - NEDERLANDSCHE FIN. MAATSCHAPPIJ VOOR ONTWIKLANDEN - HOLANDA</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>42</codigo>
+        <descricao>GIEK - GARANTI INSTITTUED EKSPORTKREDIT - NORUEGA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>45</codigo>
+        <descricao>HERMES KREDITVERSICHERUNGS A.G. - ALEMANHA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>48</codigo>
+        <descricao>IDA - INTERNATIONAL DEVELOPMENT ASSOCIATION (ASSOCIACAO INTERNACIONAL DE DESENVOLVIMENTO) - VINCULADA AO BIRD</descricao>
+        <inicioVigencia>17/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>49</codigo>
+        <descricao>JADECO - JAPAN BRAZIL AGRICULTURAL DEVELOPMENT CORPORATION</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>51</codigo>
+        <descricao>JICA - JAPAN INTERNATIONAL CORPORATION AGENCY - JAPAO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>54</codigo>
+        <descricao>KFW - KREDITANSTALT FUR WIEDERAUFBAU (CORPORACAO DE EMPRESTIMO 'A RECONSTRUCAO) - ALEMANHA</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>57</codigo>
+        <descricao>NCM - NEDERLANDSCHE CREDIETVARZEKERING MAATSCHAPPIJ N. V. - HOLANDA</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>61</codigo>
+        <descricao>ODA - OVERSEAS DEVELOPMENT AGENCY - INGLATERRA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>62</codigo>
+        <descricao>OECF - OVERSEAS ECONOMIC COOPERATION FUND - JAPAO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>63</codigo>
+        <descricao>OKB - OESTERREICHISCHE KONTROL BANK - AUSTRIA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>64</codigo>
+        <descricao>OND - OFFICE NATIONAL DU DUCROIRE - BELGICA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>65</codigo>
+        <descricao>OPIC - OVERSEAS PRIVATE INVESTMENT CORPORATION - ESTADOS UNIDOS</descricao>
+        <inicioVigencia>18/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>69</codigo>
+        <descricao>SACE - SEZIONE PER LASSIC. DEL CREDITO ALLO EXP. - ITALIA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>70</codigo>
+        <descricao>SEK - SVENSKA EXPORT KREDIT - SUECIA</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>94</codigo>
+        <descricao>ENTIDADES OFICIAIS ESTRANGEIRAS - SUPPLIER'S CREDITS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>95</codigo>
+        <descricao>ENTIDADES PARTICULARES ESTRANGEIRAS - SUPPLIER'S CREDITS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>96</codigo>
+        <descricao>ENTIDADES PARTICULARES ESTRANGEIRAS - BUYER'S CREDITS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>97</codigo>
+        <descricao>ENTIDADES OFICIAIS ESTRANGEIRAS - BUYER'S CREDITS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+    <InstituicaoFinanciadora>
+        <codigo>99</codigo>
+        <descricao>OUTROS NAO ESPECIFICADOS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </InstituicaoFinanciadora>
+</InstituicaoFinanciadoraList>

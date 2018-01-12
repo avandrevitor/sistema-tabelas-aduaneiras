@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FundamentoLegalRegimeTributacaoIIList>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>01</codigo>
+        <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+        <inicioVigencia>01/07/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>2</codigo>
+            <descricao>IMUNIDADE</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>02</codigo>
+        <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+        <inicioVigencia>01/07/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>2</codigo>
+            <descricao>IMUNIDADE</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>03</codigo>
+        <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+        <inicioVigencia>29/10/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>2</codigo>
+            <descricao>IMUNIDADE</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>04</codigo>
+        <descricao>MATERIAIS,EQUIPAMENTO E DADOS TECNICOS IMPORTADOS P/ENT.BINACIONAL ALCANTARA CYCLONE SPACE - ART. 9 DO DECRETO 5436/2005</descricao>
+        <inicioVigencia>03/10/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>05</codigo>
+        <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+        <inicioVigencia>29/11/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>06</codigo>
+        <descricao>PARTES,PECAS E COMPS.DESTS.REPARO,REVISAO E MANUT. D/EMBARCA-COES - LEI 8032/90, ART.2,II,J, PA.UN.- LEI 8402/92, ART.1,IV</descricao>
+        <inicioVigencia>29/11/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>07</codigo>
+        <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+        <inicioVigencia>16/06/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>08</codigo>
+        <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+        <inicioVigencia>17/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>09</codigo>
+        <descricao>RECOPA - LEI 12350/2010; DECRETOS 7319/2010 E 7525/2011; IN RFB 1176/2011 E 1237/2012</descricao>
+        <inicioVigencia>15/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>10</codigo>
+        <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>11</codigo>
+        <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>12</codigo>
+        <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>13</codigo>
+        <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>14</codigo>
+        <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>15</codigo>
+        <descricao>TROFéUS,MEDALHAS,PLACAS,E OUTS.OBJETOS COMEMORS.RECEBS.EM EVENTO CULTURAL,CIENT.OU ESPORT.L.11488/07-ART.38.</descricao>
+        <inicioVigencia>17/12/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>16</codigo>
+        <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>17</codigo>
+        <descricao>AMAZONIA OCIDENTAL - DL 356/88. ART.2 - DL 1435/76, ART.3</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>18</codigo>
+        <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>19</codigo>
+        <descricao>MATERIAS-PRIMAS E PRODUTOS INTERMEDIARIOS PARA INDUSTRIALIZACAO D/BENS D/INFORMATICA PARA O TSE - LEIS 9359/96 E 9643/98</descricao>
+        <inicioVigencia>01/06/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>20</codigo>
+        <descricao>PRODUTOS INDUSTRS.NA Z.F.M., C/INSUMOS ESTRANGEIROS EMPREGADOS(RED. MEDIANTE APLIC. DO COEF.)-LEI 8387/91,ART.7,PAR.1</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>21</codigo>
+        <descricao>BENS DESPORTIVOS - LEI 8672/93, ART. 40 - PORT/INTERM. MED/MF/MEE 1299/95</descricao>
+        <inicioVigencia>18/03/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>22</codigo>
+        <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+        <inicioVigencia>15/02/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>23</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA - LIVROS, FOLHETOS E PERIODICOS (ART. 150, INC. IV - D - CF)</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>2</codigo>
+            <descricao>IMUNIDADE</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>24</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA-ROUPAS E OUTROS ARTIGOS DE VEST.,HIG.E TOUCADOR,CALCADOS USADOS(LEI8032/90,ART.2,II E IN 117/98)</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>25</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA - OUTROS BENS USADOS E ISENTOS (LEI 8.032/90, ART. 2, INC. II E IN SRF 117/98)</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>26</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA - BENS USADOS (IN SRF 117/98, ART.20, PARAG. 4, ACRESCIDO PELA IN SRF 140/98)</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>8</codigo>
+            <descricao>TRIBUTACAO SIMPLIFICADA DE BAGAGEM</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>27</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA - BENS NOVOS ( IN SRF 117/98, ART. 20,PARAG. 4, ACRESCIDO PELA IN SRF 140/98).</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>8</codigo>
+            <descricao>TRIBUTACAO SIMPLIFICADA DE BAGAGEM</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>28</codigo>
+        <descricao>BAGAGEM DESACOMPANHADA-BENS NOVOS DEC.4543/02 ART.160</descricao>
+        <inicioVigencia>22/05/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>29</codigo>
+        <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+        <inicioVigencia>01/06/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>2</codigo>
+            <descricao>IMUNIDADE</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>30</codigo>
+        <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+        <inicioVigencia>22/03/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>31</codigo>
+        <descricao>ADMISSAO TEMPORARIA - DL 37/66, ART. 75(EXCETO RECIPIENTES, EMBALAGENS E OUTROS COM FINALIDADE SEMELHANTE - FL 98)</descricao>
+        <inicioVigencia>13/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>32</codigo>
+        <descricao>PRODUTOS INDUSTRIALIZADOS NA Z.F.M., C/INSUMOS ESTRANGEIROS EMPREGADOS (REDUCAO DE 88%) - LEI 8387/91, ART. 7, PAR.4</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>33</codigo>
+        <descricao>PRODUTOS INDUSTRS.NA Z.F.M.,C/INSUMOS ESTRANGEIROS EMPREGADOS(RED.MEDIANTE APLIC.COEF.ACRES.D/5%)- LEI 8387/91,ART.7,PAR.9</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>34</codigo>
+        <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+        <inicioVigencia>18/03/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>35</codigo>
+        <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+        <inicioVigencia>08/09/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>36</codigo>
+        <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+        <inicioVigencia>06/10/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>37</codigo>
+        <descricao>ADMISSãO TEMPORáRIA- PAGAMENTO PROPORCIONAL DE IMPOSTOS LEI 9430/96, ART.79 E DEC. 4543/02, ARTS. 324 A 330.</descricao>
+        <inicioVigencia>12/02/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>38</codigo>
+        <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC., REGIOES NORTE, NORDESTE E CENTRO-OESTE - LEI 9440/97</descricao>
+        <inicioVigencia>08/09/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>39</codigo>
+        <descricao>ADMISSÃO TEMPORÁRIA - DSI.</descricao>
+        <inicioVigencia>24/05/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>40</codigo>
+        <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL SIGILOSO)</descricao>
+        <inicioVigencia>27/11/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>41</codigo>
+        <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL NãO SIGILOSO)</descricao>
+        <inicioVigencia>27/11/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>42</codigo>
+        <descricao>REGIME DE TRIBUTACAO SIMPLIFICADA (DECRETO-LEI 1.804/80 C/C PORTARIA MF 156/99)</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>7</codigo>
+            <descricao>TRIBUTACAO SIMPLIFICADA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>43</codigo>
+        <descricao>CUSTOS DE ENERGIA ELETRICA - EFEITOS CAMBIAIS (IN/SRF Nº 649/06)</descricao>
+        <inicioVigencia>25/11/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>9</codigo>
+            <descricao>PAGAMENTO REALIZADO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>44</codigo>
+        <descricao>ENERGIA/POTÊNCIA - PAGAMENTO INTEGRAL (IN/SRF Nº 649/2006)</descricao>
+        <inicioVigencia>14/06/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>45</codigo>
+        <descricao>NACIONALIZACAO - LOJA FRANCA</descricao>
+        <inicioVigencia>15/06/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>1</codigo>
+            <descricao>RECOLHIMENTO INTEGRAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>46</codigo>
+        <descricao>ADMISSÃO EM RECOF</descricao>
+        <inicioVigencia>02/03/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>49</codigo>
+        <descricao>TRANSFERENCIA DE REGIME DE DRAWBACK SUSPENSAO PARA RECOF.</descricao>
+        <inicioVigencia>02/03/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>50</codigo>
+        <descricao>CONSUMO DE FEIRAS, EXPOSIçõES E ASSEMELHADOS - LEI          8383/91-ART.70 E PORTARIA MF 107/96-ARTS.1 A 4</descricao>
+        <inicioVigencia>26/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>52</codigo>
+        <descricao>ADMISSAO EM ENTREPOSTO ADUANEIRO - DL 1455/76, ART 9º</descricao>
+        <inicioVigencia>25/07/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>53</codigo>
+        <descricao>ADMISSAO NO ENTREPOSTO INTERNACIONAL DA ZONA FRANCA DE MANAUS - EIZOF - PORT. INTERM. MEFP/SDR 2/92</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>54</codigo>
+        <descricao>ADMISSAO EM ENTREPOSTO INDUSTRIAL - DL 37/66, ART. 89</descricao>
+        <inicioVigencia>25/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>1</codigo>
+            <descricao>RECOLHIMENTO INTEGRAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>55</codigo>
+        <descricao>REPOSICAO DE MERCAD. IMPORTADA COM DEFEITO (DEVOLUCAO A POSTERIORI) - DEC 91030/85, ART. 85, II - PORT. MF 150/92, ITEM 4</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>56</codigo>
+        <descricao>ADMISSAO NA ZONA FRANCA DE MANAUS - ZFM - CF/88, DISPOSICOES TRANSITORIAS, 40 - DL 288/67</descricao>
+        <inicioVigencia>30/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>57</codigo>
+        <descricao>ADMISSAO EM LOJA FRANCA - DL 1455/76, ART 15</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>58</codigo>
+        <descricao>ADMISSAO EM DEPOSITO ESPECIAL - DE</descricao>
+        <inicioVigencia>31/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>59</codigo>
+        <descricao>ADMISSAO EM DEPOSITO ADUANEIRO DE DISTRIBUICAO - DAD - DL 37/66, ART. 93 (REDACAO DO DL 2472/89) - PORT. MF 69/92</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>60</codigo>
+        <descricao>ADMISSAO NA A.L.C. GUAJARA-MIRIM - LEI 8210/91 (ALTERADO P/LEI 8981/95, ART. 109) - DEC 843/93</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>61</codigo>
+        <descricao>ADMISSAO NA A.L.C. DE TABATINGA - LEI 7965/89 (ALTERADO P/LEI 8981/95, ART. 108)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>62</codigo>
+        <descricao>ADMISSAO NA A.L.C. DE MACAPA E SANTANA - LEI 8387/91 - DEC 517/92</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>63</codigo>
+        <descricao>ADMISSAO NA A.L.C. DE CRUZEIRO DO SUL, BRASILEIA E EPITACIOLANDIA- L.8857/94 (ALTERADO P/L. 8981/95,ART.110) - DEC 1357/94</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>64</codigo>
+        <descricao>ADMISSAO NA A.L.C. DE BOA VISTA - LEI 8256/91 (ALTERADO PELA LEI 8981/95, ART. 110 - E LEI 11.732/2008-ART. 4º)</descricao>
+        <inicioVigencia>01/07/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>65</codigo>
+        <descricao>MERCADORIAS IMPORTADAS ENTREPOSTADAS E DESTINADAS A EXPORTACAO (ART.5, INC.II E ART.6, § 3º DA IN/SRF 56/00)</descricao>
+        <inicioVigencia>06/06/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>66</codigo>
+        <descricao>REPEX - DECRETO 3312/99, IN/SRF 53/00 E IN/SRF 1.078/2010</descricao>
+        <inicioVigencia>03/10/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>68</codigo>
+        <descricao>RECOM - REGIME AD. ESPECIAL DE IMPORTAçãO - ART.17 DA MP N.º 1990-28, DE 11/2/2000 E IN SRF N.º 17, DE 16/2/2000.</descricao>
+        <inicioVigencia>06/06/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>9</codigo>
+            <descricao>PAGAMENTO REALIZADO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>69</codigo>
+        <descricao>BENS DESTINADOS AO REPETRO NA MODALIDADE TEMPORARIA PREVISTANA ALINEA "A" DO INCISO I DO ART.376 DO DECRETO Nº6.759/2009</descricao>
+        <inicioVigencia>02/01/2018</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>70</codigo>
+        <descricao>BENS DESTINADOS AO REPETRO NA MODALIDADE DEFINITIVA PREVISTA NO INCISO IV DO ART. 458 DO DECRETO Nº6.759/2009</descricao>
+        <inicioVigencia>03/01/2018</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>71</codigo>
+        <descricao>REPOSICAO DE MERCADORIA IMPORTADA C/ DEFEITO (DEVOLUCAO JA EFETUADA) - DEC 91030/85, ART 85,II - PORT. MF 150/82, ITEM 2</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>72</codigo>
+        <descricao>REIMPORTACAO (EXCETO RECIPIENTES E EMBALAGENS E SIMILARES) DL 37/66, ART. 92, PARAG.4 (REDACAO DO DL 2472/88, ART. 1)</descricao>
+        <inicioVigencia>28/03/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>73</codigo>
+        <descricao>RETORNO DE MERCADORIAS - DL 37/66, ART. 1, PARAG. 1 (REDACAO DO DL 2472/88, ART. 1)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>76</codigo>
+        <descricao>DEPOSITO AFIANCADO - IN-SRF 364/2003</descricao>
+        <inicioVigencia>20/11/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>77</codigo>
+        <descricao>DEPOSITO ESPECIAL - DI PARA EFEITOS CAMBIAIS (LEI 10833/03 -ART. 76, DEC 4543/02 - ART. 433, IN 386/04 - ART. 20)</descricao>
+        <inicioVigencia>25/11/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>78</codigo>
+        <descricao>RECOF - DI PARA EFEITOS CAMBIAIS (DEL 37/66 - ART. 90, LEI 10833/03 - ART. 59, DEC 4543/02 ART. 376, IN 417/04 - ART.31)</descricao>
+        <inicioVigencia>12/11/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>79</codigo>
+        <descricao>REPORTO - REGIME TRIB. P/INCENTIVO À MODERN. E À AMPLIAçÃO DAESTRUT.PORTUÁRIA - LEI 11.033/04-IN/SRF 477/04 -LEI 11.726/08</descricao>
+        <inicioVigencia>24/06/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>80</codigo>
+        <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+        <inicioVigencia>22/08/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>81</codigo>
+        <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+        <inicioVigencia>10/01/2013</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>82</codigo>
+        <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+        <inicioVigencia>05/03/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>7</codigo>
+            <descricao>TRIBUTACAO SIMPLIFICADA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>83</codigo>
+        <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>84</codigo>
+        <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>85</codigo>
+        <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+        <inicioVigencia>07/01/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>86</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS2016</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>87</codigo>
+        <descricao>ADMISSÃO EM RECOF SPED (ART. 89 DO DL 37/66)</descricao>
+        <inicioVigencia>09/06/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>88</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 BENS ADMITIDOS SOB REGIME DE ADMISSÃO TEMPORÁRIA</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>89</codigo>
+        <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>90</codigo>
+        <descricao>TRANSF MERC ADMITIDA REGIME ADUAN ESP OU ATIP -ART 251 RA</descricao>
+        <inicioVigencia>15/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>91</codigo>
+        <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>92</codigo>
+        <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+        <inicioVigencia>20/05/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>93</codigo>
+        <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>94</codigo>
+        <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+        <inicioVigencia>02/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>95</codigo>
+        <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - MP 1.100/95 - PORT/MICT 322/95 (REVOGADOS)</descricao>
+        <inicioVigencia>03/02/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>96</codigo>
+        <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+        <inicioVigencia>20/05/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>97</codigo>
+        <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+        <inicioVigencia>20/05/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>98</codigo>
+        <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+        <inicioVigencia>02/07/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>6</codigo>
+            <descricao>NAO INCIDENCIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+    <FundamentoLegalRegimeTributacaoII>
+        <codigo>99</codigo>
+        <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+        <inicioVigencia>05/12/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaRegimeTributacao>
+            <codigo>3</codigo>
+            <descricao>ISENCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>4</codigo>
+            <descricao>REDUCAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+        <listaRegimeTributacao>
+            <codigo>5</codigo>
+            <descricao>SUSPENSAO</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaRegimeTributacao>
+    </FundamentoLegalRegimeTributacaoII>
+</FundamentoLegalRegimeTributacaoIIList>

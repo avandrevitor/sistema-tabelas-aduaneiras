@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoDeclaracaoRegimeTributarioList>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>012</codigo>
+        <descricao>CONSUMO - IMUNIDADE</descricao>
+        <inicioVigencia>22/07/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>01</codigo>
+            <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>02</codigo>
+            <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>013</codigo>
+        <descricao>CONSUMO ISENçÃO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>04</codigo>
+            <descricao>MATERIAIS,EQUIPAMENTO E DADOS TECNICOS IMPORTADOS P/ENT.BINACIONAL ALCANTARA CYCLONE SPACE - ART. 9 DO DECRETO 5436/2005</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>06</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTS.REPARO,REVISAO E MANUT. D/EMBARCA-COES - LEI 8032/90, ART.2,II,J, PA.UN.- LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>15</codigo>
+            <descricao>TROFéUS,MEDALHAS,PLACAS,E OUTS.OBJETOS COMEMORS.RECEBS.EM EVENTO CULTURAL,CIENT.OU ESPORT.L.11488/07-ART.38.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>19</codigo>
+            <descricao>MATERIAS-PRIMAS E PRODUTOS INTERMEDIARIOS PARA INDUSTRIALIZACAO D/BENS D/INFORMATICA PARA O TSE - LEIS 9359/96 E 9643/98</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>22</codigo>
+            <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>40</codigo>
+            <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL SIGILOSO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>41</codigo>
+            <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL NãO SIGILOSO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>50</codigo>
+            <descricao>CONSUMO DE FEIRAS, EXPOSIçõES E ASSEMELHADOS - LEI          8383/91-ART.70 E PORTARIA MF 107/96-ARTS.1 A 4</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>86</codigo>
+            <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS2016</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>87</codigo>
+            <descricao>ADMISSÃO EM RECOF SPED (ART. 89 DO DL 37/66)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>88</codigo>
+            <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 BENS ADMITIDOS SOB REGIME DE ADMISSÃO TEMPORÁRIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>014</codigo>
+        <descricao>CONSUMO - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>30</codigo>
+            <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>36</codigo>
+            <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>38</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC., REGIOES NORTE, NORDESTE E CENTRO-OESTE - LEI 9440/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>95</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - MP 1.100/95 - PORT/MICT 322/95 (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>97</codigo>
+            <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>44</codigo>
+            <descricao>ENERGIA/POTÊNCIA - PAGAMENTO INTEGRAL (IN/SRF Nº 649/2006)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>015</codigo>
+        <descricao>CONSUMO - SUSPENSÃO</descricao>
+        <inicioVigencia>03/01/2018</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>55</codigo>
+            <descricao>REPOSICAO DE MERCAD. IMPORTADA COM DEFEITO (DEVOLUCAO A POSTERIORI) - DEC 91030/85, ART. 85, II - PORT. MF 150/92, ITEM 4</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>66</codigo>
+            <descricao>REPEX - DECRETO 3312/99, IN/SRF 53/00 E IN/SRF 1.078/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>79</codigo>
+            <descricao>REPORTO - REGIME TRIB. P/INCENTIVO À MODERN. E À AMPLIAçÃO DAESTRUT.PORTUÁRIA - LEI 11.033/04-IN/SRF 477/04 -LEI 11.726/08</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>67</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>74</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>75</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>51</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>46</codigo>
+            <descricao>ADMISSÃO EM RECOF</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>47</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>48</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>49</codigo>
+            <descricao>TRANSFERENCIA DE REGIME DE DRAWBACK SUSPENSAO PARA RECOF.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>09</codigo>
+            <descricao>RECOPA - LEI 12350/2010; DECRETOS 7319/2010 E 7525/2011; IN RFB 1176/2011 E 1237/2012</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>70</codigo>
+            <descricao>BENS DESTINADOS AO REPETRO NA MODALIDADE DEFINITIVA PREVISTA NO INCISO IV DO ART. 458 DO DECRETO Nº6.759/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>016</codigo>
+        <descricao>CONSUMO - NAO-INCIDENCIA</descricao>
+        <inicioVigencia>11/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>71</codigo>
+            <descricao>REPOSICAO DE MERCADORIA IMPORTADA C/ DEFEITO (DEVOLUCAO JA EFETUADA) - DEC 91030/85, ART 85,II - PORT. MF 150/82, ITEM 2</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>72</codigo>
+            <descricao>REIMPORTACAO (EXCETO RECIPIENTES E EMBALAGENS E SIMILARES) DL 37/66, ART. 92, PARAG.4 (REDACAO DO DL 2472/88, ART. 1)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>73</codigo>
+            <descricao>RETORNO DE MERCADORIAS - DL 37/66, ART. 1, PARAG. 1 (REDACAO DO DL 2472/88, ART. 1)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>68</codigo>
+            <descricao>RECOM - REGIME AD. ESPECIAL DE IMPORTAçãO - ART.17 DA MP N.º 1990-28, DE 11/2/2000 E IN SRF N.º 17, DE 16/2/2000.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>019</codigo>
+        <descricao>CONSUMO/PAGAMENTO REALIZADO</descricao>
+        <inicioVigencia>14/06/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>68</codigo>
+            <descricao>RECOM - REGIME AD. ESPECIAL DE IMPORTAçãO - ART.17 DA MP N.º 1990-28, DE 11/2/2000 E IN SRF N.º 17, DE 16/2/2000.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>43</codigo>
+            <descricao>CUSTOS DE ENERGIA ELETRICA - EFEITOS CAMBIAIS (IN/SRF Nº 649/06)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>023</codigo>
+        <descricao>ADMISSAO EM ENTREPOSTO ADUANEIRO - ISENCAO</descricao>
+        <inicioVigencia>22/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>22</codigo>
+            <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>025</codigo>
+        <descricao>ADMISSAO EM ENTREPOSTO ADUANEIRO - SUSPENSAO</descricao>
+        <inicioVigencia>05/07/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>52</codigo>
+            <descricao>ADMISSAO EM ENTREPOSTO ADUANEIRO - DL 1455/76, ART 9º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>035</codigo>
+        <descricao>ADMISSAO EM EIZOF - SUSPENSAO</descricao>
+        <inicioVigencia>05/07/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>53</codigo>
+            <descricao>ADMISSAO NO ENTREPOSTO INTERNACIONAL DA ZONA FRANCA DE MANAUS - EIZOF - PORT. INTERM. MEFP/SDR 2/92</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>045</codigo>
+        <descricao>ADMISSAO ENTREPOSTO INDUSTRIAL - SUSPENSAO</descricao>
+        <inicioVigencia>09/06/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>87</codigo>
+            <descricao>ADMISSÃO EM RECOF SPED (ART. 89 DO DL 37/66)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>053</codigo>
+        <descricao>ADMISSAO TEMPORARIA - ISENCAO</descricao>
+        <inicioVigencia>22/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>22</codigo>
+            <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>055</codigo>
+        <descricao>ADMISSAO TEMPORARIA - SUSPENSAO</descricao>
+        <inicioVigencia>03/01/2018</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>31</codigo>
+            <descricao>ADMISSAO TEMPORARIA - DL 37/66, ART. 75(EXCETO RECIPIENTES, EMBALAGENS E OUTROS COM FINALIDADE SEMELHANTE - FL 98)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>41</codigo>
+            <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL NãO SIGILOSO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>90</codigo>
+            <descricao>TRANSF MERC ADMITIDA REGIME ADUAN ESP OU ATIP -ART 251 RA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>69</codigo>
+            <descricao>BENS DESTINADOS AO REPETRO NA MODALIDADE TEMPORARIA PREVISTANA ALINEA "A" DO INCISO I DO ART.376 DO DECRETO Nº6.759/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>063</codigo>
+        <descricao>ADMISSAO NA ZFM - ISENCAO</descricao>
+        <inicioVigencia>22/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>17</codigo>
+            <descricao>AMAZONIA OCIDENTAL - DL 356/88. ART.2 - DL 1435/76, ART.3</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>065</codigo>
+        <descricao>ADMISSAO NA ZFM - SUSPENSAO</descricao>
+        <inicioVigencia>25/07/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>56</codigo>
+            <descricao>ADMISSAO NA ZONA FRANCA DE MANAUS - ZFM - CF/88, DISPOSICOES TRANSITORIAS, 40 - DL 288/67</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>075</codigo>
+        <descricao>ADMISSAO EM LOJA FRANCA - SUSPENSAO</descricao>
+        <inicioVigencia>22/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>57</codigo>
+            <descricao>ADMISSAO EM LOJA FRANCA - DL 1455/76, ART 15</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>085</codigo>
+        <descricao>ADMISSAO EM ALC - SUSPENSAO</descricao>
+        <inicioVigencia>25/07/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>60</codigo>
+            <descricao>ADMISSAO NA A.L.C. GUAJARA-MIRIM - LEI 8210/91 (ALTERADO P/LEI 8981/95, ART. 109) - DEC 843/93</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>61</codigo>
+            <descricao>ADMISSAO NA A.L.C. DE TABATINGA - LEI 7965/89 (ALTERADO P/LEI 8981/95, ART. 108)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>62</codigo>
+            <descricao>ADMISSAO NA A.L.C. DE MACAPA E SANTANA - LEI 8387/91 - DEC 517/92</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>63</codigo>
+            <descricao>ADMISSAO NA A.L.C. DE CRUZEIRO DO SUL, BRASILEIA E EPITACIOLANDIA- L.8857/94 (ALTERADO P/L. 8981/95,ART.110) - DEC 1357/94</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>64</codigo>
+            <descricao>ADMISSAO NA A.L.C. DE BOA VISTA - LEI 8256/91 (ALTERADO PELA LEI 8981/95, ART. 110 - E LEI 11.732/2008-ART. 4º)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>095</codigo>
+        <descricao>ADMISSAO EM DAD - SUSPENSAO</descricao>
+        <inicioVigencia>22/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>59</codigo>
+            <descricao>ADMISSAO EM DEPOSITO ADUANEIRO DE DISTRIBUICAO - DAD - DL 37/66, ART. 93 (REDACAO DO DL 2472/89) - PORT. MF 69/92</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>105</codigo>
+        <descricao>ADMISSAO EM DEA/DAF - SUSPENSAO</descricao>
+        <inicioVigencia>05/07/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>58</codigo>
+            <descricao>ADMISSAO EM DEPOSITO ESPECIAL - DE</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>76</codigo>
+            <descricao>DEPOSITO AFIANCADO - IN-SRF 364/2003</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>121</codigo>
+        <descricao>ADMISSÃO TEMPORÁRIA - PAGAMENTO PROPORCIONAL</descricao>
+        <inicioVigencia>28/01/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>37</codigo>
+            <descricao>ADMISSãO TEMPORáRIA- PAGAMENTO PROPORCIONAL DE IMPOSTOS LEI 9430/96, ART.79 E DEC. 4543/02, ARTS. 324 A 330.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>122</codigo>
+        <descricao>CONSUMO E ADMISSAO TEMPORARIA - IMUNIDADE</descricao>
+        <inicioVigencia>01/06/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>01</codigo>
+            <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>02</codigo>
+            <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>123</codigo>
+        <descricao>CONSUMO E ADMISSAO TEMPORARIA - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>19</codigo>
+            <descricao>MATERIAS-PRIMAS E PRODUTOS INTERMEDIARIOS PARA INDUSTRIALIZACAO D/BENS D/INFORMATICA PARA O TSE - LEIS 9359/96 E 9643/98</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>124</codigo>
+        <descricao>CONSUMO E ADMISSAO TEMPORARIA - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>30</codigo>
+            <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>36</codigo>
+            <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>95</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - MP 1.100/95 - PORT/MICT 322/95 (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>97</codigo>
+            <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>125</codigo>
+        <descricao>CONSUMO E ADMISSAO TEMPORÁRIA - SUSPENSAO</descricao>
+        <inicioVigencia>14/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>69</codigo>
+            <descricao>BENS DESTINADOS AO REPETRO NA MODALIDADE TEMPORARIA PREVISTANA ALINEA "A" DO INCISO I DO ART.376 DO DECRETO Nº6.759/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>31</codigo>
+            <descricao>ADMISSAO TEMPORARIA - DL 37/66, ART. 75(EXCETO RECIPIENTES, EMBALAGENS E OUTROS COM FINALIDADE SEMELHANTE - FL 98)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>37</codigo>
+            <descricao>ADMISSãO TEMPORáRIA- PAGAMENTO PROPORCIONAL DE IMPOSTOS LEI 9430/96, ART.79 E DEC. 4543/02, ARTS. 324 A 330.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>09</codigo>
+            <descricao>RECOPA - LEI 12350/2010; DECRETOS 7319/2010 E 7525/2011; IN RFB 1176/2011 E 1237/2012</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>126</codigo>
+        <descricao>CONSUMO E ADMISSAO TEMPORARIA - NAO-INCIDENCIA</descricao>
+        <inicioVigencia>11/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>71</codigo>
+            <descricao>REPOSICAO DE MERCADORIA IMPORTADA C/ DEFEITO (DEVOLUCAO JA EFETUADA) - DEC 91030/85, ART 85,II - PORT. MF 150/82, ITEM 2</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>72</codigo>
+            <descricao>REIMPORTACAO (EXCETO RECIPIENTES E EMBALAGENS E SIMILARES) DL 37/66, ART. 92, PARAG.4 (REDACAO DO DL 2472/88, ART. 1)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>73</codigo>
+            <descricao>RETORNO DE MERCADORIAS - DL 37/66, ART. 1, PARAG. 1 (REDACAO DO DL 2472/88, ART. 1)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>98</codigo>
+            <descricao>EXCLUSIVO RECIPIENTES E EMBALAGENS RETORNAVEIS E SIMILARES - ADM. TEMP. OU REIMPORTACAO - IN RFB 747/07, PORT. SECEX 35/06</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>132</codigo>
+        <descricao>NACIONALIZACAO DE ADMISSAO TEMPORARIA - IMUNIDADE</descricao>
+        <inicioVigencia>21/07/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>01</codigo>
+            <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>02</codigo>
+            <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>133</codigo>
+        <descricao>NACIONALIZACAO DE ADMISSAO TEMPORARIA - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>21</codigo>
+            <descricao>BENS DESPORTIVOS - LEI 8672/93, ART. 40 - PORT/INTERM. MED/MF/MEE 1299/95</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>22</codigo>
+            <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>86</codigo>
+            <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS2016</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>87</codigo>
+            <descricao>ADMISSÃO EM RECOF SPED (ART. 89 DO DL 37/66)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>88</codigo>
+            <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 BENS ADMITIDOS SOB REGIME DE ADMISSÃO TEMPORÁRIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>134</codigo>
+        <descricao>NACIONALIZACAO DE ADMISSAO TEMPORARIA - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>36</codigo>
+            <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>95</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - MP 1.100/95 - PORT/MICT 322/95 (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>97</codigo>
+            <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>135</codigo>
+        <descricao>NACIONALIZACAO DE ADMISSAO TEMPORARIA - SUSPENSAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>41</codigo>
+            <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL NãO SIGILOSO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>142</codigo>
+        <descricao>NACIONALIZACAO DE ENTREPOSTO ADUANEIRO - IMUNIDADE</descricao>
+        <inicioVigencia>22/07/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>01</codigo>
+            <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>02</codigo>
+            <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>143</codigo>
+        <descricao>NACIONALIZACAO DE ENTREPOSTO ADUANEIRO - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>19</codigo>
+            <descricao>MATERIAS-PRIMAS E PRODUTOS INTERMEDIARIOS PARA INDUSTRIALIZACAO D/BENS D/INFORMATICA PARA O TSE - LEIS 9359/96 E 9643/98</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>22</codigo>
+            <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>86</codigo>
+            <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS2016</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>87</codigo>
+            <descricao>ADMISSÃO EM RECOF SPED (ART. 89 DO DL 37/66)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>88</codigo>
+            <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 BENS ADMITIDOS SOB REGIME DE ADMISSÃO TEMPORÁRIA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>144</codigo>
+        <descricao>NACIONALIZACAO DE ENTREPOSTO ADUANEIRO - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>30</codigo>
+            <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>36</codigo>
+            <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>38</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC., REGIOES NORTE, NORDESTE E CENTRO-OESTE - LEI 9440/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>95</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - MP 1.100/95 - PORT/MICT 322/95 (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>97</codigo>
+            <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>145</codigo>
+        <descricao>NACIONALIZACAO DE ENTREPOSTO ADUANEIRO - SUSPENSAO</descricao>
+        <inicioVigencia>14/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>55</codigo>
+            <descricao>REPOSICAO DE MERCAD. IMPORTADA COM DEFEITO (DEVOLUCAO A POSTERIORI) - DEC 91030/85, ART. 85, II - PORT. MF 150/92, ITEM 4</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>65</codigo>
+            <descricao>MERCADORIAS IMPORTADAS ENTREPOSTADAS E DESTINADAS A EXPORTACAO (ART.5, INC.II E ART.6, § 3º DA IN/SRF 56/00)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>79</codigo>
+            <descricao>REPORTO - REGIME TRIB. P/INCENTIVO À MODERN. E À AMPLIAçÃO DAESTRUT.PORTUÁRIA - LEI 11.033/04-IN/SRF 477/04 -LEI 11.726/08</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>09</codigo>
+            <descricao>RECOPA - LEI 12350/2010; DECRETOS 7319/2010 E 7525/2011; IN RFB 1176/2011 E 1237/2012</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>146</codigo>
+        <descricao>NACIONALIZAÇÃO DE ENTREPOSTO ADUANEIRO - NÃO INCIDÊNCIA</descricao>
+        <inicioVigencia>11/06/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>71</codigo>
+            <descricao>REPOSICAO DE MERCADORIA IMPORTADA C/ DEFEITO (DEVOLUCAO JA EFETUADA) - DEC 91030/85, ART 85,II - PORT. MF 150/82, ITEM 2</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>152</codigo>
+        <descricao>SAIDA DE EIZOF - IMUNIDADE</descricao>
+        <inicioVigencia>01/06/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>01</codigo>
+            <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>02</codigo>
+            <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>153</codigo>
+        <descricao>SAIDA DE EIZOF - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>17</codigo>
+            <descricao>AMAZONIA OCIDENTAL - DL 356/88. ART.2 - DL 1435/76, ART.3</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>154</codigo>
+        <descricao>SAIDA DE EIZOF - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>30</codigo>
+            <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>95</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - MP 1.100/95 - PORT/MICT 322/95 (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>155</codigo>
+        <descricao>SAIDA DE EIZOF - SUSPENSAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>55</codigo>
+            <descricao>REPOSICAO DE MERCAD. IMPORTADA COM DEFEITO (DEVOLUCAO A POSTERIORI) - DEC 91030/85, ART. 85, II - PORT. MF 150/92, ITEM 4</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>56</codigo>
+            <descricao>ADMISSAO NA ZONA FRANCA DE MANAUS - ZFM - CF/88, DISPOSICOES TRANSITORIAS, 40 - DL 288/67</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>161</codigo>
+        <descricao>NACIONALIZACAO - DIVERSOS TIPOS DE RECOF</descricao>
+        <inicioVigencia>25/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>51</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>54</codigo>
+            <descricao>ADMISSAO EM ENTREPOSTO INDUSTRIAL - DL 37/66, ART. 89</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>67</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>74</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>75</codigo>
+            <descricao></descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>163</codigo>
+        <descricao>SAIDA DE ENTREPOSTO INDUSTRIAL - ISENÇÃO</descricao>
+        <inicioVigencia>19/05/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>164</codigo>
+        <descricao>SAIDA DE ENTREPOSTO INDUSTRIAL - REDUCAO</descricao>
+        <inicioVigencia>04/07/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>36</codigo>
+            <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>97</codigo>
+            <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>165</codigo>
+        <descricao>SAÍDA DE ENTREPOSTO INDUSTRIAL - SUSPENSÃO</descricao>
+        <inicioVigencia>05/10/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>78</codigo>
+            <descricao>RECOF - DI PARA EFEITOS CAMBIAIS (DEL 37/66 - ART. 90, LEI 10833/03 - ART. 59, DEC 4543/02 ART. 376, IN 417/04 - ART.31)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>172</codigo>
+        <descricao>NACIONALIZAçãO DE DE - IMUNIDADE</descricao>
+        <inicioVigencia>01/06/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>173</codigo>
+        <descricao>NACIONALIZAÇÃO DE DEA - ISENÇÃO</descricao>
+        <inicioVigencia>18/09/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>06</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTS.REPARO,REVISAO E MANUT. D/EMBARCA-COES - LEI 8032/90, ART.2,II,J, PA.UN.- LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>15</codigo>
+            <descricao>TROFéUS,MEDALHAS,PLACAS,E OUTS.OBJETOS COMEMORS.RECEBS.EM EVENTO CULTURAL,CIENT.OU ESPORT.L.11488/07-ART.38.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>40</codigo>
+            <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL SIGILOSO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>41</codigo>
+            <descricao>LEI 4.731, DE 14 DE JULHO DE 1965 (MATERIAL NãO SIGILOSO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>174</codigo>
+        <descricao>NACIONALIZACAO DE DEA - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>36</codigo>
+            <descricao>REGRA GERAL DE TRIBUTACAO DA TEC (PARA PRODUTOS DO SETOR AERONAUTICO) - DEC. 2376/97-RES/CAMEX 55/2010-RES/CAMEX 78/2011</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>97</codigo>
+            <descricao>AUTOPEÇAS P/ PRODUÇÃO DE TRATORES,COLHEITADEIRAS,MÁQ.AGRÍC. E RODV.AUTOPROPULSADAS(38ºPROT.ADIC.AO ACE 14-ART.7º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>175</codigo>
+        <descricao>NACIONALIZAÇÃO DE DEA - SUSPENSÃO</descricao>
+        <inicioVigencia>05/10/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>77</codigo>
+            <descricao>DEPOSITO ESPECIAL - DI PARA EFEITOS CAMBIAIS (LEI 10833/03 -ART. 76, DEC 4543/02 - ART. 433, IN 386/04 - ART. 20)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>181</codigo>
+        <descricao>NACIONALIZACAO DE REGIME ADUANEIRO - RECOLHIMENTO INTEGRAL</descricao>
+        <inicioVigencia>03/05/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>45</codigo>
+            <descricao>NACIONALIZACAO - LOJA FRANCA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>183</codigo>
+        <descricao>DI CAMBIAL - LOJA FRANCA</descricao>
+        <inicioVigencia>13/08/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>22</codigo>
+            <descricao>EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 8032/90, ART. 2º, INC.II, ALINEA "E" - LEI Nº 8.402/1992, ART.1º, INC. IV)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>192</codigo>
+        <descricao>INTERNACAO DE ZFM-PI - IMUNIDADE</descricao>
+        <inicioVigencia>01/06/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>01</codigo>
+            <descricao>LIVROS, JORNAIS E PERIODICOS - CF/88, ART.150,VI,D - LEI 8032/90, ART.2,II,A - LEI 8402/92, ART 1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>02</codigo>
+            <descricao>PAPEL DEST. A IMPRESSAO D/LIVROS, JORNAIS E PERIODICOS - CF/88,ART.150,VI,D - L. 8032/90,ART.2,II,A - L. 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>03</codigo>
+            <descricao>UNIãO,ESTADOS,DF E MUNICíPIOS;AUTARQUIAS E FUNDS.INSTITUíDAS E MANTIDAS P/PODER PúBLICO - CF,ART.150,INC.VI,"A" C/C PAR.2º</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>29</codigo>
+            <descricao>INSTITUICOES DE ASSISTENCIA SOCIAL - IMUNIDADE DE II PREVISTA NA ALINEA C, INCISO VI DO ART. 150 DA CONSTITUICAO FEDERAL</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>193</codigo>
+        <descricao>INTERNACAO DE ZFM-PI - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>17</codigo>
+            <descricao>AMAZONIA OCIDENTAL - DL 356/88. ART.2 - DL 1435/76, ART.3</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>194</codigo>
+        <descricao>INTERNACAO DE ZFM-PI - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>20</codigo>
+            <descricao>PRODUTOS INDUSTRS.NA Z.F.M., C/INSUMOS ESTRANGEIROS EMPREGADOS(RED. MEDIANTE APLIC. DO COEF.)-LEI 8387/91,ART.7,PAR.1</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>32</codigo>
+            <descricao>PRODUTOS INDUSTRIALIZADOS NA Z.F.M., C/INSUMOS ESTRANGEIROS EMPREGADOS (REDUCAO DE 88%) - LEI 8387/91, ART. 7, PAR.4</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>33</codigo>
+            <descricao>PRODUTOS INDUSTRS.NA Z.F.M.,C/INSUMOS ESTRANGEIROS EMPREGADOS(RED.MEDIANTE APLIC.COEF.ACRES.D/5%)- LEI 8387/91,ART.7,PAR.9</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>203</codigo>
+        <descricao>INTERNACAO DE ZFM-PE - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>17</codigo>
+            <descricao>AMAZONIA OCIDENTAL - DL 356/88. ART.2 - DL 1435/76, ART.3</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>204</codigo>
+        <descricao>INTERNACAO DE ZFM-PE - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>30</codigo>
+            <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>205</codigo>
+        <descricao>INTERNACAO DE ZFM-PE - SUSPENSAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>213</codigo>
+        <descricao>INTERNACAO DE ALC - ISENCAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>07</codigo>
+            <descricao>CIENTISTAS,PESQUISADORES E ENTIDADES LIGADOS A PESQUISA E CREDENCIADOS PELO CNPQ - LEI 8010/90 (MP 191/2004)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>08</codigo>
+            <descricao>INSTITS. CIENTIFICAS E TECNOLOGICAS - COM PROJETO APROVADO PELO CNPQ-LEI 8032/90,ART.2,I,E,PAR.UNICO-LEI 8402/92,ART.1,IV.</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>05</codigo>
+            <descricao>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA-VES -LEI 8032/90,ART. 2,II,J,PAR.UN. - LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>10</codigo>
+            <descricao>PARTIDOS POLITICOS - LEI 8032/90, ART.2,I,B, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>11</codigo>
+            <descricao>INSTITUICOES DE EDUCACAO OU DE ASSISTENCIA SOCIAL - LEI 8032/90, ART.2,I,B, PAR. UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>12</codigo>
+            <descricao>UNIAO, ESTS., DF, TERRITS., MUNICS.E RESPECS. AUTARQUIAS - LEI 8032/90, ART.2,I,A, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>13</codigo>
+            <descricao>MISSOES DIPLS.E REPS. CONSULS.D/CARATER PERM.E SEUS RESPECS. INTEGS. -L.8032/90,ART.2,I,C, PAR.UNICO- LEI 8402/92,ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>14</codigo>
+            <descricao>REPRES.D/ORGANS.INTERNS.PERM., DOS QUAIS O BRASIL SEJA MEMBRO - LEI 8032/90, ART.2,I,D, PAR.UNICO - LEI 8402/92, ART.1,IV</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>17</codigo>
+            <descricao>AMAZONIA OCIDENTAL - DL 356/88. ART.2 - DL 1435/76, ART.3</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>18</codigo>
+            <descricao>OUTROS ACORDOS INTERNACIONAIS (EXCETO GATT, SGPC, ALADI E MERCOSUL) - LEI 8032/90, ART 6</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>80</codigo>
+            <descricao>INFORMATICA - LEI 7232/84, ART. 13 - DL 2434/88, ART. 1, II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>82</codigo>
+            <descricao>REGIME DE TRIBUTACAO UNIFICADA (RTU) LEI 11898/2009</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>83</codigo>
+            <descricao>INCENTIVO A EXPORTACAO DE PRODUTOS MANUFATURADOS - DL 2324/87 - DL 2434/88, ART. I, II, H (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>84</codigo>
+            <descricao>SUDENE - DL 1726/79, ART. II, IV, U (REVOGADO)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>214</codigo>
+        <descricao>INTERNACAO DE ALC - REDUCAO</descricao>
+        <inicioVigencia>25/06/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>30</codigo>
+            <descricao>CONTINGENCIAMENTO - DEC. 1989/96 - PORT/MF 269/96 - DEC. 2091/96 - PORT/MF 16/97 - DECISãO CMC Nº 38/05</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>34</codigo>
+            <descricao>MONTADORAS E FABRICANTES DE VEICULOS, TRATORES, CARROCERIAS, ETC. - DEC 2072/96 - LEI 9449/97</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>35</codigo>
+            <descricao>VEICULOS AUTOMOTORES - DEC 2770/98 (REDUZ EM 50% A ALIQUOTA)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>81</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, NÃO SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>91</codigo>
+            <descricao>TELEVISAO E RADIODIFUSAO - DL 2434/88, ART.2, III, ART 3, DL 2479/88, ART 1, ART 3 - LEI 7988/89, ART 4, IV (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>93</codigo>
+            <descricao>SUDENE - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>94</codigo>
+            <descricao>SUDAM - DL 2433/88, ART 3,II - LEI 7988/89, ART 4,II (REVOGADOS)</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>96</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS - BENS DE CAPITAL OU BENS DE INFORMÁTICA E TELECOMUNICAÇÃO (ART.2º RESOLUÇÃO CAMEX 116/14).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>92</codigo>
+            <descricao>AUTOPEÇAS NÃO PRODUZIDAS MERCOSUL P/ PRODUÇÃO (ART.1º RESOL. CAMEX 116/2014 / 38º PROT. ADIC. AO ACE 14 - ART.6º ANEXO).</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>99</codigo>
+            <descricao>OUTRAS ISENÇÕES, REDUÇÕES E SUSPENSÕES, SUJEITAS A EXAME DE SIMILARIDADE, NÃO CAPITULADAS NESTA TABELA</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+    <TipoDeclaracaoRegimeTributario>
+        <codigo>215</codigo>
+        <descricao>INTERNACAO DE ALC - SUSPENSAO</descricao>
+        <inicioVigencia>02/03/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <listaFundamentoLegal>
+            <codigo>16</codigo>
+            <descricao>DRAWBACK - DL 37/66, ART 78,I (ISENCAO) - DL 37/66, ART. 78,II (SUSPENSAO) - LEI 8402/92, ART. 1,I</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>85</codigo>
+            <descricao>REPENEC: ARTS 1º A 5º LEI 12.249/2010 E ART 18 DEC 7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+        <listaFundamentoLegal>
+            <codigo>89</codigo>
+            <descricao>RECOMPE: LEI 12.249/2010, ART.9º,III REGULAMENTADA PELO DECRETO 7.243/2010, ART.5º,III</descricao>
+            <fimVigencia>-</fimVigencia>
+        </listaFundamentoLegal>
+    </TipoDeclaracaoRegimeTributario>
+</TipoDeclaracaoRegimeTributarioList>

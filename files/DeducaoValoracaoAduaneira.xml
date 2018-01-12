@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DeducaoValoracaoAduaneiraList>
+    <DeducaoValoracaoAduaneira>
+        <codigo>01</codigo>
+        <descricao>FRETE INTERNO - PAIS DE IMPORTACAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+    <DeducaoValoracaoAduaneira>
+        <codigo>02</codigo>
+        <descricao>SEGURO INTERNO - PAIS DE IMPORTACAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+    <DeducaoValoracaoAduaneira>
+        <codigo>03</codigo>
+        <descricao>CARGA, DESCARGA E MANUSEIO - PAIS DE IMPORTACAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+    <DeducaoValoracaoAduaneira>
+        <codigo>04</codigo>
+        <descricao>DIREITOS E DEMAIS TRIBUTOS</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+    <DeducaoValoracaoAduaneira>
+        <codigo>05</codigo>
+        <descricao>JUROS DE FINANCIAMENTO</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+    <DeducaoValoracaoAduaneira>
+        <codigo>06</codigo>
+        <descricao>CONSTRUCAO, INSTALACAO, MONTAGEM</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+    <DeducaoValoracaoAduaneira>
+        <codigo>07</codigo>
+        <descricao>OUTRAS DEDUCOES AO VALOR ADUANEIRO</descricao>
+        <inicioVigencia>15/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DeducaoValoracaoAduaneira>
+</DeducaoValoracaoAduaneiraList>

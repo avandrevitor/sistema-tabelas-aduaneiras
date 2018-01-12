@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DocumentoInstrucaoDespachoImportacaoList>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>01</codigo>
+        <descricao>FATURA COMERCIAL</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>02</codigo>
+        <descricao>CERTIFICADO DE ORIGEM</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>03</codigo>
+        <descricao>CERTIDAO NEGATIVA DE DEBITO (CND), DO INSS</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>04</codigo>
+        <descricao>CERTIDAO DE QUITACAO DE TRIBUTOS FEDERAIS (CQTF), DA SRF</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>05</codigo>
+        <descricao>AUTORIZACAO DA COMISSAO NACIONAL DE ENERGIA NUCLEAR - CNEM</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>06</codigo>
+        <descricao>ADICIONAL DE FRETE PARA RENOVACAO DA MARINHA MERCANTE-AFRMM</descricao>
+        <inicioVigencia>20/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>07</codigo>
+        <descricao>AUTORIZACAO DE DESPACHO DO MINISTERIO DA AGRICULTURA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>08</codigo>
+        <descricao>CERTIFICADO DE CLASSIFICACAO DO MINISTERIO DA AGRICULTURA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>09</codigo>
+        <descricao>CARTA DE DOACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>10</codigo>
+        <descricao>TERMO DE RESPONSABILIDADE</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>11</codigo>
+        <descricao>ATO DECLARAT./CONCESSAO DESPACHO ADUANEIRO SIMPLIFICADO - DAS</descricao>
+        <inicioVigencia>20/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>12</codigo>
+        <descricao>TAXA DE ORGANIZACAO E REGULAMENT. MERCADO DA BORRACHA-(TORMB)</descricao>
+        <inicioVigencia>20/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>13</codigo>
+        <descricao>CERTIFICADO HOMOLOG. EMITIDO P/ DEPART. DE AVIACAO CIVIL-DAC</descricao>
+        <inicioVigencia>20/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>14</codigo>
+        <descricao>CERTIFICADO DE UTILIZACAO DE COTA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>15</codigo>
+        <descricao>CERTIFICADO DO INMETRO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>16</codigo>
+        <descricao>DEMONSTRATIVO DE APURACAO DO VALOR ADUANEIRO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>17</codigo>
+        <descricao>FATURA PROFORMA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>18</codigo>
+        <descricao>LAUDO EMITIDO PELO MINISTERIO DA SAUDE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>19</codigo>
+        <descricao>OFICIO DO MINISTERIO DA SAUDE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>20</codigo>
+        <descricao>OFICIO DO MINISTERIO DA EDUCACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>21</codigo>
+        <descricao>OFICIO DO CONSELHO NACIONAL DE PESQUISA - CNPQ</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>22</codigo>
+        <descricao>RELACAO DE NOTAS FISCAIS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>23</codigo>
+        <descricao>REQUISICAO DO MINISTERIO DAS RELACOES EXTERIORES - REDA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>24</codigo>
+        <descricao>TAXA ADICIONAL DE INDENIZ. DO TRABALHO PORTUARIO AVULSO-AITP</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>25</codigo>
+        <descricao>TERMO DE VISTORIA ADUANEIRA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>26</codigo>
+        <descricao>OUTROS DOCUMENTOS EXIGIDOS PELA LEGISLACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>27</codigo>
+        <descricao>AUTORIZACAO DE ENTREGA ANTECIPADA DA MERCADORIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>28</codigo>
+        <descricao>CONHECIMENTO DE CARGA</descricao>
+        <inicioVigencia>04/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>29</codigo>
+        <descricao>ROMANEIO DE CARGA</descricao>
+        <inicioVigencia>04/04/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+    <DocumentoInstrucaoDespachoImportacao>
+        <codigo>30</codigo>
+        <descricao>CERTIFICADO DE ORIGEM DIGITAL (COD)</descricao>
+        <inicioVigencia>06/10/2016</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </DocumentoInstrucaoDespachoImportacao>
+</DocumentoInstrucaoDespachoImportacaoList>

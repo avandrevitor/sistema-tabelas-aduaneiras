@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CodigoReceitaList>
+    <CodigoReceita>
+        <codigo>0086</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - OUTROS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0094</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - BAGAGEM ACOMPANHADA</descricao>
+        <inicioVigencia>05/02/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0107</codigo>
+        <descricao>IMPOSTO DE EXPORTACAO - OUTROS</descricao>
+        <inicioVigencia>05/02/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0148</codigo>
+        <descricao>CIDE - COMBUSTIVEIS - IMPORTACAO - LANCAMENTO DE OFICIO</descricao>
+        <inicioVigencia>23/11/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0150</codigo>
+        <descricao>MULTA DE OFICIO - CIDE - COMBUSTIVEIS -IMPORTACAO</descricao>
+        <inicioVigencia>23/11/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0158</codigo>
+        <descricao>JUROS LANCADOS DE OFICIO - CIDE - COMBUSTIVEIS - IMPORTACAO</descricao>
+        <inicioVigencia>23/11/2007</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0300</codigo>
+        <descricao>RECEITA DIREITOS ANTIDUMPING-LANÇAMENTO DE OFÍCIO</descricao>
+        <inicioVigencia>04/04/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0338</codigo>
+        <descricao>MULTA ISOLADA REC DIREITOS ANTIDUMP E COMPENS ART.7 LEI 9019/95</descricao>
+        <inicioVigencia>04/04/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0406</codigo>
+        <descricao>JUROS DE MORA - IMPOSTO DE IMPORTAÇÃO</descricao>
+        <inicioVigencia>03/02/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0679</codigo>
+        <descricao>PIS - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS</descricao>
+        <inicioVigencia>09/04/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0691</codigo>
+        <descricao>PIS - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS BEBIDAS</descricao>
+        <inicioVigencia>09/04/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0724</codigo>
+        <descricao>PIS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0753</codigo>
+        <descricao>PIS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS   BEBIDAS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0760</codigo>
+        <descricao>COFINS - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS</descricao>
+        <inicioVigencia>09/04/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0776</codigo>
+        <descricao>COFINS - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS BEBIDAS</descricao>
+        <inicioVigencia>09/04/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0782</codigo>
+        <descricao>COFINS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO -       CERVEJAS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0809</codigo>
+        <descricao>COFINS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO - DEMAISBEBIDAS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0821</codigo>
+        <descricao>IPI - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS</descricao>
+        <inicioVigencia>09/04/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0838</codigo>
+        <descricao>IPI - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS BEBIDAS</descricao>
+        <inicioVigencia>09/04/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0850</codigo>
+        <descricao>IPI - VINCULADO IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO -CERVEJAS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>0867</codigo>
+        <descricao>IPI - VINCULADO IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO -DEMAIS BEBIDAS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>1038</codigo>
+        <descricao>IPI VINCULADO A IMPORTACAO</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>1089</codigo>
+        <descricao>IMPOSTO DE EXPORTACAO - CACAU</descricao>
+        <inicioVigencia>05/02/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>1962</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - PETROLEO E DERIVADOS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>2185</codigo>
+        <descricao>MULTA APLICADA NO SETOR ADUANEIRO SEM REDUçãO</descricao>
+        <inicioVigencia>04/08/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>2866</codigo>
+        <descricao>JUROS DE MORA - IPI VINCULADO</descricao>
+        <inicioVigencia>03/02/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>2892</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - LANCAMENTO DE OFICIO</descricao>
+        <inicioVigencia>29/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>2933</codigo>
+        <descricao>TRIBUTOS FEDERAIS DEVIDOS EM IMPORTACAO REALIZADA AO AMPARO DO REGIME DE TRIBUTACAO UNIFICADA (RTU) - LEI 11898-2009</descricao>
+        <inicioVigencia>10/02/2012</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3005</codigo>
+        <descricao>MULTA DE OFíCIO DO IMPOSTO DE IMPORTAçãO</descricao>
+        <inicioVigencia>29/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3101</codigo>
+        <descricao>JUROS DE OFÍCIO - IMPOSTO DE IMPORTAÇÃO</descricao>
+        <inicioVigencia>03/02/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3228</codigo>
+        <descricao>MULTA IMPOSTO DE IMPORTAçãO</descricao>
+        <inicioVigencia>28/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3345</codigo>
+        <descricao>IPI VINCULADO IMPORTACAO - LANCAM. DE OFICIO</descricao>
+        <inicioVigencia>29/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3358</codigo>
+        <descricao>MULTA DE OFICIO - IPI VINC IMPORTACAO</descricao>
+        <inicioVigencia>29/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3890</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - CONVERSAO DEPOSITO JUDICIAL</descricao>
+        <inicioVigencia>19/02/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>3928</codigo>
+        <descricao>IPI VINCULADO - CONVERSAO DEPOSITO JUDICIAL</descricao>
+        <inicioVigencia>19/02/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>4562</codigo>
+        <descricao>PIS/IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO</descricao>
+        <inicioVigencia>09/08/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>4597</codigo>
+        <descricao>PIS/IMPORTAÇÃO - MULTA DE OFÍCIO</descricao>
+        <inicioVigencia>09/08/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>4669</codigo>
+        <descricao>PIS/IMPORTAÇÃO - JUROS DE OFÍCIO</descricao>
+        <inicioVigencia>09/08/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>4685</codigo>
+        <descricao>COFINS/IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO</descricao>
+        <inicioVigencia>09/08/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>4693</codigo>
+        <descricao>COFINS/IMPORTAÇÃO - MULTA DE OFÍCIO</descricao>
+        <inicioVigencia>09/08/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>4802</codigo>
+        <descricao>COFINS/IMPORTAÇÃO - JUROS DE OFÍCIO</descricao>
+        <inicioVigencia>09/08/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5149</codigo>
+        <descricao>MULTA APLICADA AO SETOR ADUANEIRO COM REDUçãO</descricao>
+        <inicioVigencia>04/08/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5503</codigo>
+        <descricao>IPI VINCULADO - IMPORTACAO VEICULOS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5516</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - VEICULOS</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5529</codigo>
+        <descricao>ANTIDUMPING</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5602</codigo>
+        <descricao>PISPASEP IMPORTACAO</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5629</codigo>
+        <descricao>COFINS IMPORTACAO</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5637</codigo>
+        <descricao>MULTA COFINS IMPORTACAO</descricao>
+        <inicioVigencia>02/06/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5645</codigo>
+        <descricao>JUROS COFINS IMPORTACAO</descricao>
+        <inicioVigencia>02/06/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5653</codigo>
+        <descricao>MULTA PIS IMPORTACAO</descricao>
+        <inicioVigencia>19/05/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>5661</codigo>
+        <descricao>JUROS PIS IMPORTACAO</descricao>
+        <inicioVigencia>19/05/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>6324</codigo>
+        <descricao>MULTA ISOLADA - PIS/PASEP (ART. 43 L.9430)</descricao>
+        <inicioVigencia>11/02/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>6337</codigo>
+        <descricao>MULTA ISOLADA - COFINS (ART. 43 L.9430)</descricao>
+        <inicioVigencia>11/02/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>6340</codigo>
+        <descricao>MULTA ISOLADA - IMPOSTO DE IMPORTAÇÃO (ART. 43 LEI 9430)</descricao>
+        <inicioVigencia>30/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>6393</codigo>
+        <descricao>MULTA ISOLADA - IPI VINCULADO (ART. 43 LEI 9430)</descricao>
+        <inicioVigencia>30/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>6542</codigo>
+        <descricao>JUROS DO IMPOSTO DE IMPORTAÇÃO (ART. 43 LEI 9430)</descricao>
+        <inicioVigencia>30/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>6608</codigo>
+        <descricao>JUROS DO IPI VINCULADO (ART. 43 LEI 9430)</descricao>
+        <inicioVigencia>30/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>7811</codigo>
+        <descricao>TAXA DE UTILIZAçãO DO SISCOMEX</descricao>
+        <inicioVigencia>31/12/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>9064</codigo>
+        <descricao>IMPOSTO DE IMPORTACAO - ADICIONAL</descricao>
+        <inicioVigencia>19/02/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>9438</codigo>
+        <descricao>CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO INCIDENTE  SOBRE A IMPORTAÇÃO - CIDE.</descricao>
+        <inicioVigencia>31/10/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+    <CodigoReceita>
+        <codigo>9806</codigo>
+        <descricao>MULTA IPI - VINCULADO A IMPORTACAO</descricao>
+        <inicioVigencia>28/01/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </CodigoReceita>
+</CodigoReceitaList>

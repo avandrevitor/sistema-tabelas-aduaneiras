@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EtapaDespachoList>
+    <EtapaDespacho>
+        <codigo>10</codigo>
+        <descricao>DECLARACAO COM MANDADO DE SEGURANCA</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>20</codigo>
+        <descricao>DECLARACAO COM COMPENSACAO DE TRIBUTOS</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>30</codigo>
+        <descricao>DECLARACAO COM EXAME DOCUMENTAL</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>41</codigo>
+        <descricao>DECLARACAO COM BENEFICIO FISCAL - 01</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>42</codigo>
+        <descricao>DECLARACAO COM BENEFICIO FISCAL - 02</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>43</codigo>
+        <descricao>DECLARACAO COM BENEFICIO FISCAL - 03</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>44</codigo>
+        <descricao>DECLARACAO COM BENEFICIO FISCAL - 04</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>45</codigo>
+        <descricao>DECLARACAO COM BENEFICIO FISCAL - 05</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>50</codigo>
+        <descricao>DECLARACAO COM CONFERENCIA FISICA</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>60</codigo>
+        <descricao>DECLARACAO COM CONFERENCIA FISICA E/OU EXAME DOCUMENTAL</descricao>
+        <inicioVigencia>05/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>70</codigo>
+        <descricao>PROCEDIMENTO ADUANEIRO ESPECIAL</descricao>
+        <inicioVigencia>28/11/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+    <EtapaDespacho>
+        <codigo>90</codigo>
+        <descricao>CONFERÊNCIA ADUANEIRA</descricao>
+        <inicioVigencia>18/07/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </EtapaDespacho>
+</EtapaDespachoList>

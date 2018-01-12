@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AgenciaSecexList>
+    <AgenciaSecex>
+        <codigo>0001</codigo>
+        <descricao>AG.RIO DE JANEIRO CENTRO</descricao>
+        <cnpj>00.000.000/0001-91</cnpj>
+        <inicioVigencia>02/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0002</codigo>
+        <descricao>AG.CENTRO MANAUS (AM)</descricao>
+        <cnpj>00.000.000/0002-72</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0003</codigo>
+        <descricao>AG.CENTRO BELEM (PA)</descricao>
+        <cnpj>00.000.000/0003-53</cnpj>
+        <inicioVigencia>17/03/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0004</codigo>
+        <descricao>AG.SANTOS (SP)</descricao>
+        <cnpj>00.000.000/0004-34</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0005</codigo>
+        <descricao>AG.CAMPOS DOS GOYTACAZES (RJ)</descricao>
+        <cnpj>00.000.000/0005-15</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0006</codigo>
+        <descricao>AG.CENTRO SALVADOR (BA)</descricao>
+        <cnpj>00.000.000/0006-04</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0007</codigo>
+        <descricao>AG.CENTRO RECIFE (PE)</descricao>
+        <cnpj>00.000.000/0007-87</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0008</codigo>
+        <descricao>AG.CENTRO FORTALEZA (CE)</descricao>
+        <cnpj>00.000.000/0008-68</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0009</codigo>
+        <descricao>AG.CENTRO CURITIBA (PR)</descricao>
+        <cnpj>00.000.000/0009-49</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0010</codigo>
+        <descricao>AG.CENTRO PORTO ALEGRE (RS)</descricao>
+        <cnpj>00.000.000/0010-82</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0011</codigo>
+        <descricao>AG.CENTRO JOAO PESSOA (PB)</descricao>
+        <cnpj>00.000.000/0011-63</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0013</codigo>
+        <descricao>AG.CENTRO MACEIO (AL)</descricao>
+        <cnpj>00.000.000/0013-25</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0014</codigo>
+        <descricao>AG.CORUMBA (MS)</descricao>
+        <cnpj>00.000.000/0014-06</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0015</codigo>
+        <descricao>AG.UBERABA (MG)</descricao>
+        <cnpj>00.000.000/0015-97</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0016</codigo>
+        <descricao>AG.FLORIANOPOLIS (SC)</descricao>
+        <cnpj>00.000.000/0016-78</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0017</codigo>
+        <descricao>AG.ARACAJU (SE)</descricao>
+        <cnpj>00.000.000/0017-59</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0018</codigo>
+        <descricao>AG.CENTRO SAO PAULO (SP)</descricao>
+        <cnpj>00.000.000/0018-30</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0019</codigo>
+        <descricao>AG. ILHEUS (BA)</descricao>
+        <cnpj>00.000.000/0019-10</cnpj>
+        <inicioVigencia>10/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0020</codigo>
+        <descricao>AG.CENTRO SAO LUIS (MA)</descricao>
+        <cnpj>00.000.000/0020-54</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0021</codigo>
+        <descricao>AG.CENTRO VITORIA (ES)</descricao>
+        <cnpj>00.000.000/0021-35</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0022</codigo>
+        <descricao>AG.CENTRO NATAL (RN)</descricao>
+        <cnpj>00.000.000/0022-16</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0023</codigo>
+        <descricao>AG.PARNAIBA (PI)</descricao>
+        <cnpj>00.000.000/0023-05</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0024</codigo>
+        <descricao>AG.JUIZ DE FORA (MG)</descricao>
+        <cnpj>00.000.000/0024-88</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0025</codigo>
+        <descricao>AG.CATAGUASES (MG)</descricao>
+        <cnpj>00.000.000/0025-69</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0028</codigo>
+        <descricao>AG.RIBEIRAO PRETO (SP)</descricao>
+        <cnpj>00.000.000/0028-01</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0029</codigo>
+        <descricao>AG.PELOTAS (RS)</descricao>
+        <cnpj>00.000.000/0029-92</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0030</codigo>
+        <descricao>AG.PONTA GROSSA (PR)</descricao>
+        <cnpj>00.000.000/0030-26</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0032</codigo>
+        <descricao>AG.VARGINHA (MG)</descricao>
+        <cnpj>00.000.000/0032-98</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0033</codigo>
+        <descricao>AG.CENTRO BELO HORIZONTE (MG)</descricao>
+        <cnpj>00.000.000/0033-79</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0034</codigo>
+        <descricao>AG.BAGE(RS)</descricao>
+        <cnpj>00.000.000/0034-50</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0035</codigo>
+        <descricao>AG.SANTANA DO LIVRAMENTO(RS)</descricao>
+        <cnpj>00.000.000/0035-30</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0036</codigo>
+        <descricao>AG.MOSSORO</descricao>
+        <cnpj>00.000.000/0036-11</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0037</codigo>
+        <descricao>AG.BAURU (SP)</descricao>
+        <cnpj>00.000.000/0037-00</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0038</codigo>
+        <descricao>AG.JOINVILLE (SC)</descricao>
+        <cnpj>00.000.000/0038-83</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0044</codigo>
+        <descricao>AG.CENTRO TERESINA (PI)</descricao>
+        <cnpj>00.000.000/0044-21</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0045</codigo>
+        <descricao>AG.URUGUAIANA (RS)</descricao>
+        <cnpj>00.000.000/0045-02</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0046</codigo>
+        <descricao>AG.CENTRO CUIABA (MT)</descricao>
+        <cnpj>00.000.000/0046-93</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0048</codigo>
+        <descricao>AG.CENTRO CAMPO GRANDE (MS)</descricao>
+        <cnpj>00.000.000/0048-55</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0052</codigo>
+        <descricao>AG.CAMPINAS (SP)</descricao>
+        <cnpj>00.000.000/0052-31</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0053</codigo>
+        <descricao>AG.FRANCA (SP)</descricao>
+        <cnpj>00.000.000/0053-12</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0056</codigo>
+        <descricao>AG.PIRACICABA (SP)</descricao>
+        <cnpj>00.000.000/0056-65</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0057</codigo>
+        <descricao>AG.SAO JOSE DO RIO PRETO (SP)</descricao>
+        <cnpj>00.000.000/0057-46</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0061</codigo>
+        <descricao>AG.TEOFILO OTONI (MG)</descricao>
+        <cnpj>00.000.000/0061-22</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0063</codigo>
+        <descricao>AG.CAMPINA GRANDE (PB)</descricao>
+        <cnpj>00.000.000/0063-94</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0070</codigo>
+        <descricao>AG.ITABUNA (BA)</descricao>
+        <cnpj>00.000.000/0070-13</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0071</codigo>
+        <descricao>AG.RIO BRANCO (AC)</descricao>
+        <cnpj>00.000.000/0071-02</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0072</codigo>
+        <descricao>AG.NITEROI (RJ)</descricao>
+        <cnpj>00.000.000/0072-85</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0076</codigo>
+        <descricao>AG.TAUBATE (SP)</descricao>
+        <cnpj>00.000.000/0076-09</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0078</codigo>
+        <descricao>AG.PONTA PORA (MS)</descricao>
+        <cnpj>00.000.000/0078-70</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0080</codigo>
+        <descricao>AG.PETROPOLIS (RJ)</descricao>
+        <cnpj>00.000.000/0080-95</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0081</codigo>
+        <descricao>AG.NOVA IGUACU (RJ)</descricao>
+        <cnpj>00.000.000/0081-76</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0082</codigo>
+        <descricao>AG.ARARAQUARA (SP)</descricao>
+        <cnpj>00.000.000/0082-57</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0084</codigo>
+        <descricao>AG.RIO GRANDE (RS)</descricao>
+        <cnpj>00.000.000/0084-19</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0086</codigo>
+        <descricao>AG.CENTRO GOIANIA (GO)</descricao>
+        <cnpj>00.000.000/0086-80</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0089</codigo>
+        <descricao>AG.CAXIAS DO SUL (RS)</descricao>
+        <cnpj>00.000.000/0089-23</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0092</codigo>
+        <descricao>AG.PASSO FUNDO (RS)</descricao>
+        <cnpj>00.000.000/0092-29</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0095</codigo>
+        <descricao>AG.BLUMENAU (SC)</descricao>
+        <cnpj>00.000.000/0095-71</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0097</codigo>
+        <descricao>AG.PRES.PRUDENTE (SP)</descricao>
+        <cnpj>00.000.000/0097-33</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0098</codigo>
+        <descricao>AG.UBERLANDIA (MG)</descricao>
+        <cnpj>00.000.000/0098-14</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0102</codigo>
+        <descricao>AG.PORTO VELHO (RO)</descricao>
+        <cnpj>00.000.000/0102-35</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0104</codigo>
+        <descricao>AG.MONTES CLAROS (MG)</descricao>
+        <cnpj>00.000.000/0104-05</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0108</codigo>
+        <descricao>AG.LONDRINA (PR)</descricao>
+        <cnpj>00.000.000/0108-20</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0130</codigo>
+        <descricao>AG.SANTAREM (PA)</descricao>
+        <cnpj>00.000.000/0130-99</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0131</codigo>
+        <descricao>AG.RESENDE (RJ)</descricao>
+        <cnpj>00.000.000/0131-70</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0134</codigo>
+        <descricao>AG.MATAO (SP)</descricao>
+        <cnpj>00.000.000/0134-12</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0137</codigo>
+        <descricao>AG.JOACABA (SC)</descricao>
+        <cnpj>00.000.000/0137-65</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0138</codigo>
+        <descricao>AG.SANTO ANGELO</descricao>
+        <cnpj>00.000.000/0138-46</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0139</codigo>
+        <descricao>AG.LAJEADO (RS)</descricao>
+        <cnpj>00.000.000/0139-27</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0140</codigo>
+        <descricao>AG.FOZ DO IGUACU (PR)</descricao>
+        <cnpj>00.000.000/0140-60</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0141</codigo>
+        <descricao>AG.MARILIA (SP)</descricao>
+        <cnpj>00.000.000/0141-41</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0147</codigo>
+        <descricao>JAGUARAO</descricao>
+        <cnpj>00.000.000/0147-37</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0166</codigo>
+        <descricao>AG.GOV.VALADARES (MG)</descricao>
+        <cnpj>00.000.000/0166-08</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0167</codigo>
+        <descricao>AG.BRAGANCA PAULISTA (SP)</descricao>
+        <cnpj>00.000.000/0167-80</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0169</codigo>
+        <descricao>AG.QUARAI(RS)</descricao>
+        <cnpj>00.000.000/0169-42</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0172</codigo>
+        <descricao>AG.RIO CLARO (SP)</descricao>
+        <cnpj>00.000.000/0172-48</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0175</codigo>
+        <descricao>AG.S.JOSE DOS CAMPOS (SP)</descricao>
+        <cnpj>00.000.000/0175-90</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0179</codigo>
+        <descricao>AG.ARACATUBA (SP)</descricao>
+        <cnpj>00.000.000/0179-14</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0180</codigo>
+        <descricao>AG.SANTA CRUZ DO SUL (RS)</descricao>
+        <cnpj>00.000.000/0180-58</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0181</codigo>
+        <descricao>AG.BENTO GONCALVES(RS)</descricao>
+        <cnpj>00.000.000/0181-39</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0184</codigo>
+        <descricao>AG.CACERES (MT)</descricao>
+        <cnpj>00.000.000/0184-81</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0185</codigo>
+        <descricao>AG.SAO LEOPOLDO</descricao>
+        <cnpj>00.000.000/0185-62</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0191</codigo>
+        <descricao>AG.SOROCABA (SP)</descricao>
+        <cnpj>00.000.000/0191-00</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0210</codigo>
+        <descricao>AG.ARAXA (MG)</descricao>
+        <cnpj>00.000.000/0210-08</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0216</codigo>
+        <descricao>AG.LIMEIRA (SP)</descricao>
+        <cnpj>00.000.000/0216-01</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0217</codigo>
+        <descricao>AG.UNIAO DA VITORIA (PR)</descricao>
+        <cnpj>00.000.000/0217-84</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0235</codigo>
+        <descricao>AG.SANTA VITORIA DO PALMAR(RS)</descricao>
+        <cnpj>00.000.000/0235-66</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0250</codigo>
+        <descricao>AG.BOA VISTA (RR)</descricao>
+        <cnpj>00.000.000/0250-03</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0259</codigo>
+        <descricao>AG.PARANAGUA (PR)</descricao>
+        <cnpj>00.000.000/0259-33</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0261</codigo>
+        <descricao>AG.MACAPA (AP)</descricao>
+        <cnpj>00.000.000/0261-58</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0264</codigo>
+        <descricao>AG.SANTO ANDRE (SP)</descricao>
+        <cnpj>00.000.000/0264-09</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0267</codigo>
+        <descricao>AG.BELA VISTA (MS)</descricao>
+        <cnpj>00.000.000/0267-43</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0276</codigo>
+        <descricao>AG.RIO DO SUL(SC)</descricao>
+        <cnpj>00.000.000/0276-34</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0287</codigo>
+        <descricao>AG.BOTAFOGO (RJ)</descricao>
+        <cnpj>00.000.000/0287-97</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0295</codigo>
+        <descricao>AG.SAO CARLOS (SP)</descricao>
+        <cnpj>00.000.000/0295-05</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0297</codigo>
+        <descricao>AG.N.SRA.DA LAPA</descricao>
+        <cnpj>00.000.000/0297-69</cnpj>
+        <inicioVigencia>02/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0299</codigo>
+        <descricao>AG.GUARAPUAVA (PR)</descricao>
+        <cnpj>00.000.000/0299-20</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0301</codigo>
+        <descricao>AG.IPIRANGA (SP)</descricao>
+        <cnpj>00.000.000/0301-80</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0305</codigo>
+        <descricao>AG.ITAJAI (SC)</descricao>
+        <cnpj>00.000.000/0305-03</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0307</codigo>
+        <descricao>AG.LAGES (SC)</descricao>
+        <cnpj>00.000.000/0307-75</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0308</codigo>
+        <descricao>AG.ITAJUBA (MG)</descricao>
+        <cnpj>00.000.000/0308-56</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0309</codigo>
+        <descricao>AG.POCOS DE CALDAS (MG)</descricao>
+        <cnpj>00.000.000/0309-37</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0314</codigo>
+        <descricao>AG.NOVO HAMBURGO (RS)</descricao>
+        <cnpj>00.000.000/0314-02</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0319</codigo>
+        <descricao>AG.AMERICANA (SP)</descricao>
+        <cnpj>00.000.000/0319-09</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0321</codigo>
+        <descricao>AG.CHAPECO(SC)</descricao>
+        <cnpj>00.000.000/0321-23</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0322</codigo>
+        <descricao>AG.SAO CAETANO DO SUL (SP)</descricao>
+        <cnpj>00.000.000/0322-04</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0329</codigo>
+        <descricao>AG.DUQUE DE CAXIAS (RJ)</descricao>
+        <cnpj>00.000.000/0329-80</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0335</codigo>
+        <descricao>AG.NOVA FRIBURGO (RJ)</descricao>
+        <cnpj>00.000.000/0335-29</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0339</codigo>
+        <descricao>AG.SANTA ROSA (RS)</descricao>
+        <cnpj>00.000.000/0339-52</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0340</codigo>
+        <descricao>AG.JUNDIAI (SP)</descricao>
+        <cnpj>00.000.000/0340-96</cnpj>
+        <inicioVigencia>20/03/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0341</codigo>
+        <descricao>AG.ARARAS (SP)</descricao>
+        <cnpj>00.000.000/0341-77</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0343</codigo>
+        <descricao>AG.CANOINHAS (SC)</descricao>
+        <cnpj>00.000.000/0343-39</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0348</codigo>
+        <descricao>AG.BIRIGUI (SP)</descricao>
+        <cnpj>00.000.000/0348-43</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0352</codigo>
+        <descricao>AG.MARINGA (PR)</descricao>
+        <cnpj>00.000.000/0352-20</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0355</codigo>
+        <descricao>AG.APUCARANA (PR)</descricao>
+        <cnpj>00.000.000/0355-72</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0359</codigo>
+        <descricao>AG.ARAPONGAS (PR)</descricao>
+        <cnpj>00.000.000/0359-04</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0367</codigo>
+        <descricao>AG.FARRAPOS-POA (RS)</descricao>
+        <cnpj>00.000.000/0367-06</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0372</codigo>
+        <descricao>AG.DIVINOPOLIS (MG)</descricao>
+        <cnpj>00.000.000/0372-73</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0387</codigo>
+        <descricao>AG.SANTO AMARO PAULISTA(SP)</descricao>
+        <cnpj>00.000.000/0387-50</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0390</codigo>
+        <descricao>AG.GUAJARA-MIRIM(RO)</descricao>
+        <cnpj>00.000.000/0390-55</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0391</codigo>
+        <descricao>AG.DOURADOS (MS)</descricao>
+        <cnpj>00.000.000/0391-36</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0392</codigo>
+        <descricao>AG.CINELANDIA (RJ)</descricao>
+        <cnpj>00.000.000/0392-17</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0395</codigo>
+        <descricao>AG.SETE LAGOAS (MG)</descricao>
+        <cnpj>00.000.000/0395-60</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0401</codigo>
+        <descricao>AG.BRUSQUE (SC)</descricao>
+        <cnpj>00.000.000/0401-42</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0405</codigo>
+        <descricao>AG.JARAGUA DO SUL(SC)</descricao>
+        <cnpj>00.000.000/0405-76</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0407</codigo>
+        <descricao>AG.CRICIUMA(SC)</descricao>
+        <cnpj>00.000.000/0407-38</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0416</codigo>
+        <descricao>AG.TAQUARA(RS)</descricao>
+        <cnpj>00.000.000/0416-29</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0427</codigo>
+        <descricao>AG.S.BERNARDO DO CAMPO (SP)</descricao>
+        <cnpj>00.000.000/0427-81</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0442</codigo>
+        <descricao>AG. LUZ-SAO PAULO (SP)</descricao>
+        <cnpj>00.000.000/0442-10</cnpj>
+        <inicioVigencia>09/06/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0452</codigo>
+        <descricao>AG.CENTRAL BRASILIA (DF)</descricao>
+        <cnpj>00.000.000/0452-92</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0465</codigo>
+        <descricao>AG.GARIBALDI(RS)</descricao>
+        <cnpj>00.000.000/0465-07</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0466</codigo>
+        <descricao>AG.SAO FRANCISCO DO SUL(SC)</descricao>
+        <cnpj>00.000.000/0466-98</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0479</codigo>
+        <descricao>AG.CANOAS(RS)</descricao>
+        <cnpj>00.000.000/0479-02</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0486</codigo>
+        <descricao>AG.FARROUPILHA(RS)</descricao>
+        <cnpj>00.000.000/0486-31</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0503</codigo>
+        <descricao>AG.CIDADE INDUSTRIAL (MG)</descricao>
+        <cnpj>00.000.000/0503-77</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0523</codigo>
+        <descricao>AG.SAO ROQUE (SP)</descricao>
+        <cnpj>00.000.000/0523-10</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0525</codigo>
+        <descricao>AG.IPANEMA (RJ)</descricao>
+        <cnpj>00.000.000/0525-82</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0531</codigo>
+        <descricao>AG.CASCAVEL (PR)</descricao>
+        <cnpj>00.000.000/0531-20</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0587</codigo>
+        <descricao>AG.TOLEDO (PR)</descricao>
+        <cnpj>00.000.000/0587-85</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0597</codigo>
+        <descricao>AG.FIGUEIREDO MAGALHAES (RJ)</descricao>
+        <cnpj>00.000.000/0597-57</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0611</codigo>
+        <descricao>AG.ESTANCIA VELHA(RS)</descricao>
+        <cnpj>00.000.000/0611-40</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0616</codigo>
+        <descricao>AG.FRANCISCO BELTRAO (PR)</descricao>
+        <cnpj>00.000.000/0616-54</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0629</codigo>
+        <descricao>AG.TIMBO(SC)</descricao>
+        <cnpj>00.000.000/0629-79</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0636</codigo>
+        <descricao>AG.GUARULHOS (SP)</descricao>
+        <cnpj>00.000.000/0636-06</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0637</codigo>
+        <descricao>AG.OSASCO (SP)</descricao>
+        <cnpj>00.000.000/0637-89</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0641</codigo>
+        <descricao>AG.GUAIRA (PR)</descricao>
+        <cnpj>00.000.000/0641-65</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0645</codigo>
+        <descricao>AG.UMUARAMA (PR)</descricao>
+        <cnpj>00.000.000/0645-99</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0653</codigo>
+        <descricao>AG.SAPIRANGA(RS)</descricao>
+        <cnpj>00.000.000/0653-07</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0661</codigo>
+        <descricao>AG.PASSO DA AREIA-POA (RS)</descricao>
+        <cnpj>00.000.000/0661-09</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0674</codigo>
+        <descricao>AG.SAO BENTO DO SUL(SC)</descricao>
+        <cnpj>00.000.000/0674-23</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0683</codigo>
+        <descricao>AG.JACAREI (SP)</descricao>
+        <cnpj>00.000.000/0683-14</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0712</codigo>
+        <descricao>AG.AV.PAULISTA (SP)</descricao>
+        <cnpj>00.000.000/0712-93</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0735</codigo>
+        <descricao>AG.MEDIANEIRA (PR)</descricao>
+        <cnpj>00.000.000/0735-80</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0755</codigo>
+        <descricao>AG.CAMPO BOM(RS)</descricao>
+        <cnpj>00.000.000/0755-23</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0756</codigo>
+        <descricao>AG.PORTAO-CURITIBA (PR)</descricao>
+        <cnpj>00.000.000/0756-04</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0774</codigo>
+        <descricao>AG.TABATINGA(AM)</descricao>
+        <cnpj>00.000.000/0774-96</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0858</codigo>
+        <descricao>AG.BARRASHOPPING (RJ)</descricao>
+        <cnpj>00.000.000/0858-39</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0883</codigo>
+        <descricao>AG. GRAVATAI(RS)</descricao>
+        <cnpj>00.000.000/0883-40</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0904</codigo>
+        <descricao>AG.FERNANDES DA CUNHA (BA)</descricao>
+        <cnpj>00.000.000/0904-09</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0921</codigo>
+        <descricao>AG.GASPAR(SC)</descricao>
+        <cnpj>00.000.000/0921-00</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0952</codigo>
+        <descricao>AG.BONFIM-CAMPINAS (SP)</descricao>
+        <cnpj>00.000.000/0952-06</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0963</codigo>
+        <descricao>AG.PETROLINA (PE)</descricao>
+        <cnpj>00.000.000/0963-69</cnpj>
+        <inicioVigencia>17/03/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0966</codigo>
+        <descricao>AG.SAO JOSE DOS PINHAIS (PR)</descricao>
+        <cnpj>00.000.000/0966-01</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>0994</codigo>
+        <descricao>AG.VINHEDO (SP)</descricao>
+        <cnpj>00.000.000/0994-65</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1008</codigo>
+        <descricao>AG.CARAPICUIBA (SP)</descricao>
+        <cnpj>00.000.000/1008-11</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1055</codigo>
+        <descricao>AG. DIONISIO CERQUEIRA (SC)</descricao>
+        <cnpj>00.000.000/1055-38</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1194</codigo>
+        <descricao>AG. ALPHAVILLE SP</descricao>
+        <cnpj>00.000.000/1194-07</cnpj>
+        <inicioVigencia>02/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1227</codigo>
+        <descricao>AG.BOMFIM-CAMPINAS (SP)</descricao>
+        <cnpj>00.000.000/1227-00</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1229</codigo>
+        <descricao>AG.PRACA DA LIBERDADE (MG)</descricao>
+        <cnpj>00.000.000/1229-71</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1235</codigo>
+        <descricao>AG.PETROLINA (PE)</descricao>
+        <cnpj>00.000.000/1235-10</cnpj>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1240</codigo>
+        <descricao>AG.VILA VELHA (ES)</descricao>
+        <cnpj>00.000.000/1240-87</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1248</codigo>
+        <descricao>AG.AZENHA PORTO ALEGRE(RS)</descricao>
+        <cnpj>00.000.000/1248-34</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1408</codigo>
+        <descricao>AG.IMBITUBA(SC)</descricao>
+        <cnpj>00.000.000/1408-72</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1543</codigo>
+        <descricao>NURIN SUL-SP</descricao>
+        <cnpj>00.000.000/4592-67</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1560</codigo>
+        <descricao>NURIN CAMPINAS - SP</descricao>
+        <cnpj>00.000.000/4578-09</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1604</codigo>
+        <descricao>AG. DUQUE DE CAXIAS-RJ</descricao>
+        <cnpj>00.000.000/4289-73</cnpj>
+        <inicioVigencia>08/10/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1608</codigo>
+        <descricao>NURIN BRASILIA - DF</descricao>
+        <cnpj>00.000.000/4250-10</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1616</codigo>
+        <descricao>NURIN BELO HORIZONTE - MG</descricao>
+        <cnpj>00.000.000/4081-90</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1622</codigo>
+        <descricao>AG. CURITIBA-PR</descricao>
+        <cnpj>00.000.000/4413-09</cnpj>
+        <inicioVigencia>08/10/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1628</codigo>
+        <descricao>NURIN CURITIBA - PR</descricao>
+        <cnpj>00.000.000/4412-10</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1686</codigo>
+        <descricao>AG. MARAJOARA-BELEM</descricao>
+        <cnpj>00.000.000/4446-69</cnpj>
+        <inicioVigencia>27/11/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1690</codigo>
+        <descricao>NURIN PORTO ALEGRE - RS</descricao>
+        <cnpj>00.000.000/4070-38</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1755</codigo>
+        <descricao>AG. LELIO GAMA-RJ</descricao>
+        <cnpj>00.000.000/4369-92</cnpj>
+        <inicioVigencia>08/10/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1769</codigo>
+        <descricao>AG. SENADOR DANTAS-RJ</descricao>
+        <cnpj>00.000.000/0047-74</cnpj>
+        <inicioVigencia>08/10/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1778</codigo>
+        <descricao>NURIN RIO DE JANEIRO - RJ</descricao>
+        <cnpj>00.000.000/4367-20</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1802</codigo>
+        <descricao>AG.PRAIA DO CANTO (ES)</descricao>
+        <cnpj>00.000.000/1802-38</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1821</codigo>
+        <descricao>AG.ALPHAVILLE(SP)</descricao>
+        <cnpj>00.000.000/1821-09</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1856</codigo>
+        <descricao>AG.RIO SOLIMOES</descricao>
+        <cnpj>00.000.000/4566-75</cnpj>
+        <inicioVigencia>09/07/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>1901</codigo>
+        <descricao>AG.CESEC INFRA-ANDARAI(NUTEX) (RJ)</descricao>
+        <cnpj>00.000.000/1901-10</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2000</codigo>
+        <descricao>NURIN CENTRO - SP</descricao>
+        <cnpj>00.000.000/4013-40</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2072</codigo>
+        <descricao>AG.FRANCO DA ROCHA (SP)</descricao>
+        <cnpj>00.000.000/2072-92</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2309</codigo>
+        <descricao>NURIN BLUMENAU - SC</descricao>
+        <cnpj>00.000.000/4667-19</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2474</codigo>
+        <descricao>AG.POMERODE(SC)</descricao>
+        <cnpj>00.000.000/2474-05</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2491</codigo>
+        <descricao>AG.PORTO XAVIER(RS)</descricao>
+        <cnpj>00.000.000/2491-06</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2503</codigo>
+        <descricao>NURIN RIBEIRAO PRETO - SP</descricao>
+        <cnpj>00.000.000/4752-03</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2609</codigo>
+        <descricao>XARAES - CAMPO GRANDE-MS</descricao>
+        <cnpj>00.000.000/4817-85</cnpj>
+        <inicioVigencia>17/01/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2682</codigo>
+        <descricao>NURIN CAXIAS DO SUL - RS</descricao>
+        <cnpj>00.000.000/4794-54</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2690</codigo>
+        <descricao>NURIN NOVO HAMBURGO - RS</descricao>
+        <cnpj>00.000.000/4793-73</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2700</codigo>
+        <descricao>AG.TABOAO DA SERRA (SP)</descricao>
+        <cnpj>00.000.000/2700-67</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2794</codigo>
+        <descricao>AG.BAIRRO ANCHIETA(RS)</descricao>
+        <cnpj>00.000.000/2794-47</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2803</codigo>
+        <descricao>AG.INDUSTRIAL CURITIBA (PR)</descricao>
+        <cnpj>00.000.000/2803-72</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2813</codigo>
+        <descricao>AG.NAVEGANTES-PORTO ALEGRE(RS)</descricao>
+        <cnpj>00.000.000/2813-44</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2816</codigo>
+        <descricao>AG.PITUBA (BA)</descricao>
+        <cnpj>00.000.000/2816-97</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2841</codigo>
+        <descricao>NURIN ABC PAULISTA - SP</descricao>
+        <cnpj>00.000.000/4740-61</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2862</codigo>
+        <descricao>AG.AEROPORTO INTERNACIONAL DO RIO DE JANEIRO (RJ)</descricao>
+        <cnpj>00.000.000/2862-22</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2865</codigo>
+        <descricao>AG.PRIMEIRO MARCO (RJ)</descricao>
+        <cnpj>00.000.000/2865-75</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2869</codigo>
+        <descricao>AG.ITOUPAVA NORTE-BLUMENAU(SC)</descricao>
+        <cnpj>00.000.000/2869-07</cnpj>
+        <inicioVigencia>12/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2909</codigo>
+        <descricao>AG.BARRASHOPPING (RJ)</descricao>
+        <cnpj>00.000.000/2909-20</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2914</codigo>
+        <descricao>AG. MERCADO SAO SEBASTIAO-RJ</descricao>
+        <cnpj>00.000.000/0852-43</cnpj>
+        <inicioVigencia>30/07/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2924</codigo>
+        <descricao>AG. ALFANDEGA-RJ</descricao>
+        <cnpj>00.000.000/0833-80</cnpj>
+        <inicioVigencia>30/07/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>2978</codigo>
+        <descricao>NURIN NORDESTE - BA</descricao>
+        <cnpj>00.000.000/3948-90</cnpj>
+        <inicioVigencia>18/03/2004</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3149</codigo>
+        <descricao>AG COM. PIRACICABA-SP</descricao>
+        <cnpj>00.000.000/4758-90</cnpj>
+        <inicioVigencia>16/08/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3180</codigo>
+        <descricao>AG.PETROBRAS (RJ)</descricao>
+        <cnpj>00.000.000/3180-19</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3270</codigo>
+        <descricao>AG.PONTE DA AMIZADE-FOZ DO IGUACU (PR)</descricao>
+        <cnpj>00.000.000/3270-00</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3274</codigo>
+        <descricao>AG.PORTO TROMBETAS-ORIXIMINA (PA)</descricao>
+        <cnpj>00.000.000/3274-33</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3324</codigo>
+        <descricao>AG. SAO BENTO-SP</descricao>
+        <cnpj>00.000.000/3200-05</cnpj>
+        <inicioVigencia>08/10/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3374</codigo>
+        <descricao>AG.SERRA DOS CARAJAS-PARAUAPEBAS (PA)</descricao>
+        <cnpj>00.000.000/3374-04</cnpj>
+        <inicioVigencia>17/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3796</codigo>
+        <descricao>CESEC TATUAPE</descricao>
+        <cnpj>00.000.000/3796-62</cnpj>
+        <inicioVigencia>02/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>3799</codigo>
+        <descricao>CESEC LIBERO BADARO</descricao>
+        <cnpj>00.000.000/3799-05</cnpj>
+        <inicioVigencia>02/04/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>4070</codigo>
+        <descricao>NUCIN PA</descricao>
+        <cnpj>00.000.000/4070-38</cnpj>
+        <inicioVigencia>02/09/1998</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>4620</codigo>
+        <descricao>GECEX RECIFE (PE)</descricao>
+        <cnpj>00.000.000/5759-25</cnpj>
+        <inicioVigencia>11/02/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>4759</codigo>
+        <descricao>GECEX-BELEM</descricao>
+        <cnpj>00.000.000/5775-45</cnpj>
+        <inicioVigencia>30/03/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>4760</codigo>
+        <descricao>GECEX FORTALEZA</descricao>
+        <cnpj>00.000.000/5789-40</cnpj>
+        <inicioVigencia>24/02/2006</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>4761</codigo>
+        <descricao>GECEX VITORIA</descricao>
+        <cnpj>00.000.000/5773-83</cnpj>
+        <inicioVigencia>04/10/2005</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+    <AgenciaSecex>
+        <codigo>9999</codigo>
+        <descricao>TESTE</descricao>
+        <cnpj>00.394.478/0121-50</cnpj>
+        <inicioVigencia>21/11/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AgenciaSecex>
+</AgenciaSecexList>

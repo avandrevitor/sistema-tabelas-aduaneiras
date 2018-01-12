@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MotivoDivergenciaRecepacaoDeclaracaoList>
+    <MotivoDivergenciaRecepacaoDeclaracao>
+        <codigo>01</codigo>
+        <descricao>DOCUMENTOS DECLARADOS E NAO APRESENTADOS</descricao>
+        <inicioVigencia>22/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoDivergenciaRecepacaoDeclaracao>
+    <MotivoDivergenciaRecepacaoDeclaracao>
+        <codigo>02</codigo>
+        <descricao>DOCUMENTOS APRESENTADOS E NAO DECLARADOS</descricao>
+        <inicioVigencia>22/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoDivergenciaRecepacaoDeclaracao>
+    <MotivoDivergenciaRecepacaoDeclaracao>
+        <codigo>03</codigo>
+        <descricao>CHEGADA DE CARGA APOS REGISTRO</descricao>
+        <inicioVigencia>22/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoDivergenciaRecepacaoDeclaracao>
+    <MotivoDivergenciaRecepacaoDeclaracao>
+        <codigo>04</codigo>
+        <descricao>DIVERGENCIA EM VALOR DE TRIBUTO</descricao>
+        <inicioVigencia>22/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoDivergenciaRecepacaoDeclaracao>
+    <MotivoDivergenciaRecepacaoDeclaracao>
+        <codigo>05</codigo>
+        <descricao>NAO EXISTEM DOCUMENTOS DECLARADOS</descricao>
+        <inicioVigencia>22/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoDivergenciaRecepacaoDeclaracao>
+    <MotivoDivergenciaRecepacaoDeclaracao>
+        <codigo>20</codigo>
+        <descricao>OUTROS MOTIVOS</descricao>
+        <inicioVigencia>22/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoDivergenciaRecepacaoDeclaracao>
+</MotivoDivergenciaRecepacaoDeclaracaoList>

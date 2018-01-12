@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MetodoValoracaoAduaneiraList>
+    <MetodoValoracaoAduaneira>
+        <codigo>01</codigo>
+        <descricao>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</descricao>
+        <inicioVigencia>13/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MetodoValoracaoAduaneira>
+    <MetodoValoracaoAduaneira>
+        <codigo>02</codigo>
+        <descricao>METODO 2 - ART. 2 DO ACORDO (DECRETO 92930/86)</descricao>
+        <inicioVigencia>13/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MetodoValoracaoAduaneira>
+    <MetodoValoracaoAduaneira>
+        <codigo>03</codigo>
+        <descricao>METODO 3 - ART. 3 DO ACORDO (DECRETO 92930/86)</descricao>
+        <inicioVigencia>13/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MetodoValoracaoAduaneira>
+    <MetodoValoracaoAduaneira>
+        <codigo>04</codigo>
+        <descricao>METODO 4 - ART. 5 DO ACORDO (DECRETO 92930/86)</descricao>
+        <inicioVigencia>13/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MetodoValoracaoAduaneira>
+    <MetodoValoracaoAduaneira>
+        <codigo>05</codigo>
+        <descricao>METODO 5 - ART. 6 DO ACORDO (DECRETO 92930/86)</descricao>
+        <inicioVigencia>13/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MetodoValoracaoAduaneira>
+    <MetodoValoracaoAduaneira>
+        <codigo>06</codigo>
+        <descricao>METODO 6 - ART. 7 DO ACORDO (DECRETO 92930/86)</descricao>
+        <inicioVigencia>13/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MetodoValoracaoAduaneira>
+</MetodoValoracaoAduaneiraList>

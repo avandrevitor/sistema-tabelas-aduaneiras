@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<IncotermCondicaoVendaList>
+    <IncotermCondicaoVenda>
+        <codigo>C+F</codigo>
+        <descricao>COST PLUS FREIGHT</descricao>
+        <inicioVigencia>16/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>C+I</codigo>
+        <descricao>COST PLUS INSURANCE</descricao>
+        <inicioVigencia>16/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>CFR</codigo>
+        <descricao>COST AND FREIGHT</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>CIF</codigo>
+        <descricao>COST, INSURANCE AND FREIGHT</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>CIP</codigo>
+        <descricao>CARRIAGE AND INSURANCE PAID TO</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>CPT</codigo>
+        <descricao>CARRIAGE PAID TO</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>DAP</codigo>
+        <descricao>DELIVERED AT PLACE</descricao>
+        <inicioVigencia>16/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>DAT</codigo>
+        <descricao>DELIVERED AT TERMINAL</descricao>
+        <inicioVigencia>16/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>DDP</codigo>
+        <descricao>DELIVERED DUTY PAID</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>EXW</codigo>
+        <descricao>EX WORKS</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>FAS</codigo>
+        <descricao>FREE ALONGSIDE SHIP</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>FCA</codigo>
+        <descricao>FREE CARRIER</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>FOB</codigo>
+        <descricao>FREE ON BOARD</descricao>
+        <inicioVigencia>22/10/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+    <IncotermCondicaoVenda>
+        <codigo>OCV</codigo>
+        <descricao>OUTRA CONDICAO DE VENDA</descricao>
+        <inicioVigencia>22/12/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </IncotermCondicaoVenda>
+</IncotermCondicaoVendaList>

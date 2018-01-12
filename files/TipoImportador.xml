@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoImportadorList>
+    <TipoImportador>
+        <codigo>1</codigo>
+        <descricao>PESSOA JURIDICA</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoImportador>
+    <TipoImportador>
+        <codigo>2</codigo>
+        <descricao>PESSOA FISICA RESIDENTE NO PAIS</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoImportador>
+    <TipoImportador>
+        <codigo>3</codigo>
+        <descricao>PESSOA FISICA RESIDENTE NO EXTERIOR</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoImportador>
+    <TipoImportador>
+        <codigo>4</codigo>
+        <descricao>MISSAO DIPLOMATICA/REPRESENTACAO ORGANISMOS INTERNACION.</descricao>
+        <inicioVigencia>21/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoImportador>
+    <TipoImportador>
+        <codigo>5</codigo>
+        <descricao>PESSOA FISICA RESIDENTE NO PAIS SEM INSCRICAO NO CPF</descricao>
+        <inicioVigencia>05/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoImportador>
+</TipoImportadorList>

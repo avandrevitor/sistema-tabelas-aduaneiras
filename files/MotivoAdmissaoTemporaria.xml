@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MotivoAdmissaoTemporariaList>
+    <MotivoAdmissaoTemporaria>
+        <codigo>01</codigo>
+        <descricao>BENS DESTINADOS A PESQ. CULT./CIENT. EFETUADAS P/ EXPED. AUTORIZADAS P/ SPHAN/CNPQ ART. 292 RA E ITEM 2-I IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>02</codigo>
+        <descricao>BENS DESTINADOS A REALIZACAO DE PROJETOS DE PESQUISA APROVADOS PELO CNPQ ART. 292 RA E ITEM 2-II IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>03</codigo>
+        <descricao>BENS DESTINADOS A EXPOSICOES ARTISTICAS,CULTURAIS E CIENTIF. ART.292 RA E ITEM 2-III IN/SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>04</codigo>
+        <descricao>BENS DESTINADOS A EXPOSICOES, FEIRAS COMERCIAIS OU INDUSTR. AUTORIZADAS PELO MICT ART.292 RA, ART. 2 IN-SRF 55/94</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>05</codigo>
+        <descricao>BENS DESTINADOS A ESPETACULOS MUSICAIS, TEATRAIS, CIRCENSES E SEMELHANTES - ART.292 RA E ITEM 2-V IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>06</codigo>
+        <descricao>BENS DESTINADOS A EXPOSICOES AGROPECUARIAS AUTORIZADAS PELO MINIST. AGRIC. ART. 292 RA E ITEM 2-VI IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>07</codigo>
+        <descricao>BENS DESTINADOS A DESFILES DE MODAS OU EMPREENDIMENTOS CONGE NERES ART. 292 RA E ITEM 2-VII IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>08</codigo>
+        <descricao>BENS DESTINADOS A COMPETICOES OU EXIBICOES DESPORTIVAS - ART.292 RA E ITEM 2-VIII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>09</codigo>
+        <descricao>BENS DESTINADOS A SERVIR DE MODELO INDUSTRIAL - ART.292 RA E ITEM 2-IX IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>10</codigo>
+        <descricao>BENS DESTINADOS A TESTES, CONSERTOS, REPAROS OU RESTAURACOES ART. 292 RA E IN 150/99, ART.5°, §1°, II.</descricao>
+        <inicioVigencia>10/04/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>11</codigo>
+        <descricao>VEICULOS DE TURISTAS ESTRANGEIROS ART. 293 RA E ITEM 3-I IN- SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>12</codigo>
+        <descricao>VEICULOS DE BRASIL. RESID. NO EXTERIOR QUE INGRESSAREM NO PAIS EM CARATER TEMPORARIO ART.293 RA E ITEM 3-II IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>13</codigo>
+        <descricao>EQUIP. DE JORNALISTAS, FOTOGR. E CINEGRAF. VINDOS AO BRASIL EM MISSãO PROFIS. ART. 293 RA E ITEM 3-III IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>14</codigo>
+        <descricao>RECIPIENTES, ENVOLTORIOS E EMBALAGENS - ART. 293 RA E ITEM 3-IV IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>15</codigo>
+        <descricao>APARELHOS PARA TESTE OU CONTROLE - ART. 293 RA E ITEM 3-V IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>16</codigo>
+        <descricao>ANIMAIS REPR. P/ COBERT. EM ESTACAO DE MONTA COM RETORNO CHEIA OU COM CRIA AO PE - ART.293 RA E ITEM 3-VI IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>17</codigo>
+        <descricao>ANIMAIS PARA SEREM MEDICADOS, FERRADOS OU CASTRADOS - ART. 293 RA E ITEM 3-VII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>18</codigo>
+        <descricao>ANIMAIS PARA PASTAR OU TRABALHAR- ART. 293 RA E ITEM 3.VIII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>19</codigo>
+        <descricao>ANIMAIS PARA PARTICIPAR DE CONCURSOS OU EXPOSICOES - ART. 293 RA E ITEM 3-IX IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>20</codigo>
+        <descricao>MOSTRUARIOS DE REPRESENTANTES COMERCIAIS - ART. 293 RA E ITEM 3-X IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>21</codigo>
+        <descricao>AMOSTRAS COM VALOR COMERCIAL- ART. 293 RA E ITEM 3-XI IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>22</codigo>
+        <descricao>MATERIAL DIDATICO OU PEDAGOGICO - ART. 293 RA E ITEM 3-XII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>23</codigo>
+        <descricao>INSTR. APAR. FERRAM. TRAZIDAS P/ TECN. P/ TRAB. MONTAGEM TES TES/REPAR. MAQ./QUIP. ART. 293 RA ITEM 3-III IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>24</codigo>
+        <descricao>MOLDES, MATRIZES E CHAPAS- ART. 293 RA E ITEM 3-XIV IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>25</codigo>
+        <descricao>MAQ/QUIP/VEICULOS COD.8705, APAR.ETC..,IMPORTADOS P/EXECUCAO CONTR/EMPR NAC/ESTR COM PETROBRAS- ART 1 IN-SRF 40/96</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>26</codigo>
+        <descricao>EMBARCACOES ESTR. E RESPECTIVOS EQUIP. BEM COMO MAQUINAS ETC. P/ UTILIZACAO NAS MESMAS ITEM 4-II IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>27</codigo>
+        <descricao>AERONAVES, INCLUSIVE HELICOPTEROS E RESPECTIVOS EQUIPAMENTOS ITEM 4-III IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>28</codigo>
+        <descricao>MAQ. EQUIP. VEIC. APAR. INSTR. SEM SIMILAR NAC. IMPORT. P/ EMPRESA ENG. P/ EXEC. OBRAS NO EXTERIOR ITEM 4-V IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>29</codigo>
+        <descricao>ETIQ. ROTULOS, PLACAS, SELOS ETC.. IMPORT. P/ APLICACAO MERC ADORIA DEST. A EXPORTACAO ITEM 4-VI IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>30</codigo>
+        <descricao>MODELOS INDUSTRIAIS OU AMOSTRAS COMERCIAIS PARA PRODUCAO DE BENS DESTINADOS A EXPORTACAO ITEM 4-VII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>31</codigo>
+        <descricao>GASOLINA DE AVIACAO, PETROLEO BRUTO E SEUS DERIVADOS IMP. P/ PETROBRAS, DESTINADOS EXPORTACAO ITEM 4-VIII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>32</codigo>
+        <descricao>BENS DE USO PROFIS. OU DOMESTICO, EXCL. VEICULOS TRAZIDOS P/ ESTRANGEIROS C/ VISTO TEMP/OFICIAL ITEM 4-IX IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>33</codigo>
+        <descricao>PECAS E OUTROS MATERIAIS TRAZIDOS POR TECNICOS P/MONTA GEM/TESTES/REPAROS MAQ/EQUIP. ITEM 4-X IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>34</codigo>
+        <descricao>MAQUINAS, APARELHOS, EQUIPAMENTOS, FERRAMENTAS IMPORTADOS PELA ITAIPU BINACIONAL ITEM 4-XI IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>35</codigo>
+        <descricao>MATER. REPOS./CONSERTO P/ USO EM EMBARC./AER./OUTROS VEICU LOS EM TRANSITO/ADMIS. TEMPORARIA ITEM 4-XII IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>36</codigo>
+        <descricao>MATERIAIS DE REPOS./CONSERTO DE CONTEINERES EM TRANSITO OU ADMISSAO TEMPORARIA ITEM 4-XIII IN-SRF 136/87</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>37</codigo>
+        <descricao>FILMES CINEMATOGRAFICOS E FITAS DE VIDEOS DESTINADOS A SEREM COPIADOS NO PAIS ITEM 4-XIV IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>38</codigo>
+        <descricao>FOTOLITOS A SEREM UTILIZADOS NA IMPRESSAO DE OBRAS GRAFICAS DESTINADAS A EXPORTACAO ITEM 4-XV IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>39</codigo>
+        <descricao>FITAS GRAVADAS PARA VIDEOCASSETE, DESTINADAS A EXIBICAO EM EMBARCACOES ESTRANGEIRAS ITEM 4-XVI IN-SRF 136/87</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>40</codigo>
+        <descricao>MAQ. EQUIP. APAR. E INSTRUM. P/ DEMOSTR. EM CONGRESSO/CONFER.E ESTAB. ENSINO OU DO BENEFICIARIO ART 1 ITEM I IN-SRF 38/94</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>41</codigo>
+        <descricao>MAQUINAS, EQUIP. APARELHOS,INSTRUMENTOS P/ AVALIACAO DO SEU DESEMPENHO E FUNCIONAMENTO ART. 1 ITEM II IN-SRF 38/94</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>42</codigo>
+        <descricao>MAQ/EQUIP/VEIC...IMPORT. P/EMPRESA EST/NAC. P/ EXECUCAO OBRASDECORRENTES CONCORRENCIA INTERNACIONAL ART 2 IN-SRF 13/96</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>43</codigo>
+        <descricao>SUPORTES P/ VESTUARIO DEST. EXPORT...P/ SEREM AGREGADOS AS EMBAL. DE EXP./EXPOSICAO P/ VENDA ART 1 ITEM IV IN-SRF 38/94</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>44</codigo>
+        <descricao>MAQ/EQUIP/APAR/INSTR. TRAZIDOS P/ TEC. BRASILEIRO QUE RETOR NE EM CARATER TEMPOR. P/TRAB.TEC. ART 1 ITEM V IN-SRF 38/94</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>45</codigo>
+        <descricao>MAQ/APAR/INSTRUM. QUE ..., SAO POSTOS A DISPOSICAO DO CLI ENTE PELO FORNECEDOR/REPARADOR ART 1 ITEM VI IN-SRF 38/94</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>46</codigo>
+        <descricao>VEIC/MAQ/APAR/EQUIP. USO ESPECíF., IMPORT. PARA COBERT. JOR NALISTICA OU PRODUCAO OBRA AUDIOVISUAL ART 1 IN-SRF 13/96</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>47</codigo>
+        <descricao>VEICULOS ESPECIAIS P/ AVALIACAO DE DESEMPENHO/FUNCIONAMENTO/ DEMONSTRACAO COM FIM PUBLICITARIO ART 1 IN-SRF 13/96</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>48</codigo>
+        <descricao>UNID. DE MEDICAO/AMOSTRA DE COMBUST./PADROES DE ENSAIO PROCEDENTE MERCOSUL P/COMPATIBILIZ. COM OS NAC. ART 1 IN-SRF 17/94</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>49</codigo>
+        <descricao>EMBARCACOES ESTRANG. EM SERVICO DE TRANSP. AQUAVIARIO DE PASSAG./CARGA/VEIC. AUTORIZ. P/ PODER PUBLICO ART 1 IN-SRF 7/96</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>50</codigo>
+        <descricao>ACUCAR DE PROPRIEDADE DE EMPRESA ESTRANGEIRA PARA SER BENEFICIADO ATRAVES DE PRESTACAO DE SERVICOS ITEM 1 IN-SRF 30/90</descricao>
+        <inicioVigencia>19/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>51</codigo>
+        <descricao>MATER. DE REPOSICAO/CONSERTO DE MOTORES E ACESSORIOS AERONAUTICOS IMPORT. PARA TESTE/CONSERTO/REPAR./REST. ADN CST 3/90</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>52</codigo>
+        <descricao>APAR./MOTORES/REATORES...IMPORT. POSTER. P/ UTILIZ. EXCL. AERON. EM ADM. TEMPOR. ITEM 4-III IN-SRF 136/87 ADN/COSIT 46/94</descricao>
+        <inicioVigencia>20/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>60</codigo>
+        <descricao>BENS DESTINADOS AO REPETRO - ART.458 DO DECRETO Nº6.759/2009</descricao>
+        <inicioVigencia>02/01/2018</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>61</codigo>
+        <descricao>BENS IMPORTADOS PELA ITAIPU BINACIONAL, PARA UTILIZACAO EXCLUSIVA NA CENTRAL ELETRICA DE ITAIPU.</descricao>
+        <inicioVigencia>24/11/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>62</codigo>
+        <descricao>BENS DESTINADOS AS ATIVID. DE TRANSPORTE,MOVIMENT.,TRANSFERENCIA, ARMAZENAM. OU REGASEIFICACAO DE GAS NATURAL LIQUEFEITO</descricao>
+        <inicioVigencia>07/04/2008</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>70</codigo>
+        <descricao>BENS DESTINADOS A PRODUCAO DE OUTROS BENS (IN/RFB 1.361/2013)</descricao>
+        <inicioVigencia>02/12/2013</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>71</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLIMPICOS E PARALIMPICOS 2016 - EQUIPAMENTO TÉCNICO-ESPORTIVO</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>72</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 EQUIPAMENTO TÉCNICO DE GRAVAÇÃO E TRANSMISSÃO DE SONS/IMAGENS</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>73</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 EQUIPAMENTO MÉDICO</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>74</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 EQUIPAMENTO TÉCNICO DE ESCRITÓRIO</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+    <MotivoAdmissaoTemporaria>
+        <codigo>75</codigo>
+        <descricao>EVENTOS COPA DO MUNDO / JOGOS OLÍMPICOS E PARALÍMPICOS 2016 OUTROS BENS DURÁVEIS PREVISTOS EM REGULAMENTO</descricao>
+        <inicioVigencia>08/06/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoAdmissaoTemporaria>
+</MotivoAdmissaoTemporariaList>

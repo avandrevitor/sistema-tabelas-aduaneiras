@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipoRecipienteList>
+    <TipoRecipiente>
+        <codigo>01</codigo>
+        <descricao>GARRAFA DE VIDRO RETORNAVEL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>02</codigo>
+        <descricao>GARRAFA DE VIDRO NAO RETORNAVEL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>03</codigo>
+        <descricao>GARRAFA DE PLASTICO RETORNAVEL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>04</codigo>
+        <descricao>GARRAFA DE PLASTICO NAO RETORNAVEL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>05</codigo>
+        <descricao>EMBALAGENS PLASTICAS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>06</codigo>
+        <descricao>LATA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>07</codigo>
+        <descricao>BARRIL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>08</codigo>
+        <descricao>CILINDROS (PRE-MIX)</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>09</codigo>
+        <descricao>RECIPIENTE ESPECIAL NAO RETORNAVEL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>10</codigo>
+        <descricao>EMBALAGENS "TETRA PAK"</descricao>
+        <inicioVigencia>05/02/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>11</codigo>
+        <descricao>GARRAFA PET</descricao>
+        <inicioVigencia>28/02/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>12</codigo>
+        <descricao>SACO PLASTICO</descricao>
+        <inicioVigencia>28/02/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>13</codigo>
+        <descricao>EMBALAGEM</descricao>
+        <inicioVigencia>28/11/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>14</codigo>
+        <descricao>EMBALAGEM CARTONADA</descricao>
+        <inicioVigencia>24/04/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>20</codigo>
+        <descricao>QUALQUER RECIPIENTE</descricao>
+        <inicioVigencia>12/07/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>21</codigo>
+        <descricao>QUALQUER EMBALAGEM</descricao>
+        <inicioVigencia>28/11/2002</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>22</codigo>
+        <descricao>POST MIX</descricao>
+        <inicioVigencia>22/01/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>23</codigo>
+        <descricao>LATA E VIDRO</descricao>
+        <inicioVigencia>22/01/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+    <TipoRecipiente>
+        <codigo>24</codigo>
+        <descricao>VIDRO DESCARTáVEL</descricao>
+        <inicioVigencia>22/01/2009</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </TipoRecipiente>
+</TipoRecipienteList>

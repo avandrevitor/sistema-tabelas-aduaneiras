@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OrgaoEmissorAtoLegalList>
+    <OrgaoEmissorAtoLegal>
+        <codigo>ALADI</codigo>
+        <descricao>ASSOCIACAO LATINO-AMERICANA DE INTEGRACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>BCB</codigo>
+        <descricao>BANCO CENTRAL DO BRASIL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>CAMEX</codigo>
+        <descricao>CâMARA DE COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>08/03/2001</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>CBN</codigo>
+        <descricao>COMITE BRASILEIRO DE NOMENCLATURA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>CDI</codigo>
+        <descricao>CONSELHO DE DESENVOLVIMENTO INDUSTRIAL</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>COANA</codigo>
+        <descricao>COORDENACAO GERAL DO SISTEMA DE CONTROLE ADUANEIRO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>COEST</codigo>
+        <descricao>COORDENACAO DE ESTATISTICAS ECONOMICO-TRIBUTARIAS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>COFIS</codigo>
+        <descricao>COORDENACAO GERAL DO SISTEMA DE FISCALIZACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>COGET</codigo>
+        <descricao>COORDENACAO GERAL DE ESTUDOS ECONOMICO-TRIBUTARIOS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>CONAMA</codigo>
+        <descricao>CONSELHO NACIONAL DO MEIO AMBIENTE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>CONCEX</codigo>
+        <descricao>CONSELHO DE COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>COSIT</codigo>
+        <descricao>COORDENACAO GERAL DO SISTEMA DE TRIBUTACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>COTEC</codigo>
+        <descricao>COORDENACAO GERAL DE TECNOLOGIA E DE SISTEMAS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>DECAM</codigo>
+        <descricao>DEPARTAMENTO DE CAMBIO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>DECEX</codigo>
+        <descricao>DEPARTAMENTO DE COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>DIMED</codigo>
+        <descricao>DIVISAO DE MEDICAMENTOS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>DIPOA</codigo>
+        <descricao>DIVISAO DE PRODUTOS AGROPECUARIOS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>DMM</codigo>
+        <descricao>DEPARTAMENTO DE MARINHA MERCANTE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>EXEC</codigo>
+        <descricao>PODER EXECUTIVO</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>FIRCE</codigo>
+        <descricao>DEPARTAMENTO DE CAPITAIS ESTRANGEIROS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>IBAMA</codigo>
+        <descricao>INSTITUTO BRAS. DO MEIO AMB. E RECURSOS NATURAIS RENOVAVEIS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>INTERM</codigo>
+        <descricao>INTERMINISTERIAL (VARIOS MINISTERIOS)</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>LEGIS</codigo>
+        <descricao>PODER LEGISLATIVO</descricao>
+        <inicioVigencia>06/01/2000</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MAARA</codigo>
+        <descricao>MINISTERIO DA AGRICULTURA, DO ABASTEC. E DA REFORMA AGRARIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MC</codigo>
+        <descricao>MINISTERIO DA CULTURA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MCT</codigo>
+        <descricao>MINISTERIO DE CIENCIA E TECNOLOGIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MDIC</codigo>
+        <descricao>MINISTERIO DO DESENVOLVIMENTO, INDUSTRIA E COMERCIO</descricao>
+        <inicioVigencia>26/07/1999</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>ME</codigo>
+        <descricao>MINISTERIO DO EXERCITO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MED</codigo>
+        <descricao>MINISTERIO DA EDUCACAO E DO DESPORTO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MEFP</codigo>
+        <descricao>MINISTERIO DA ECONOMIA, FAZENDA E PLANEJAMENTO</descricao>
+        <inicioVigencia>11/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MF</codigo>
+        <descricao>MINISTERIO DA FAZENDA</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MICT</codigo>
+        <descricao>MINISTERIO DA INDUSTRIA, DO COMERCIO E DO TRANSPORTE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MMA</codigo>
+        <descricao>MINISTERIO DO MEIO AMBIENTE E DOS RECURSOS HIDRICOS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MME</codigo>
+        <descricao>MINISTERIO DE MINAS E ENERGIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MPO</codigo>
+        <descricao>MINISTERIO DO PLANEJAMENTO E ORCAMENTO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MS</codigo>
+        <descricao>MINISTERIO DA SAUDE</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>MT</codigo>
+        <descricao>MINISTERIO DO TRABALHO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>ONU</codigo>
+        <descricao>ORGANIZACAO DAS NACOES UNIDAS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>SDA</codigo>
+        <descricao>SECRETARIA DE DEFESA AGROPECUARIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>SECEX</codigo>
+        <descricao>SECRETARIA DO COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>SNE</codigo>
+        <descricao>SECRETARIA NACIONAL DE ECONOMIA</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>SRF</codigo>
+        <descricao>SECRETARIA DA RECEITA FEDERAL</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>SUFR</codigo>
+        <descricao>SUPERINTENDENCIA DA ZONA FRANCA DE MANAUS</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>SVS</codigo>
+        <descricao>SECRETARIA DE VIGILANCIA SANITARIA</descricao>
+        <inicioVigencia>12/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+    <OrgaoEmissorAtoLegal>
+        <codigo>TSNVEB</codigo>
+        <descricao>TESTE NVE 2</descricao>
+        <inicioVigencia>19/08/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </OrgaoEmissorAtoLegal>
+</OrgaoEmissorAtoLegalList>

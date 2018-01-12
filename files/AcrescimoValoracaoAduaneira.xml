@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AcrescimoValoracaoAduaneiraList>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>01</codigo>
+        <descricao>COMISSOES E CORRETAGENS</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>02</codigo>
+        <descricao>EMBALAGENS E RECIPIENTES</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>03</codigo>
+        <descricao>CUSTOS DE EMBALAR</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>04</codigo>
+        <descricao>MATERIAIS E COMPONENTES</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>05</codigo>
+        <descricao>FERRAMENTAS, MATRIZES, MOLDES</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>06</codigo>
+        <descricao>MATERIAIS CONSUMIDOS NA PRODUCAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>07</codigo>
+        <descricao>PROJETOS DE ENGENHARIA</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>08</codigo>
+        <descricao>'ROYALTIES' E DIREITOS DE LICENCA</descricao>
+        <inicioVigencia>03/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>09</codigo>
+        <descricao>VALOR DE QUALQUER PARCELA</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>10</codigo>
+        <descricao>FRETE INTERNO - PAIS DE EXPORTACAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>11</codigo>
+        <descricao>SEGURO INTERNO - PAIS DE EXPORTACAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>12</codigo>
+        <descricao>CARGA, DESCARGA E MANUSEIO - PAIS DE EXPORTACAO</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>13</codigo>
+        <descricao>FRETE INTERNACIONAL</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>14</codigo>
+        <descricao>SEGURO INTERNACIONAL</descricao>
+        <inicioVigencia>29/04/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>15</codigo>
+        <descricao>CARGA, DESCARGA E MANUSEIO INTERNACIONAIS</descricao>
+        <inicioVigencia>09/05/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>16</codigo>
+        <descricao>CARGA, DESCARGA E MANUSEIO NA ENTRADA - PAIS DE IMPORTACAO</descricao>
+        <inicioVigencia>15/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+    <AcrescimoValoracaoAduaneira>
+        <codigo>17</codigo>
+        <descricao>OUTROS ACRESCIMOS AO VALOR ADUANEIRO</descricao>
+        <inicioVigencia>15/09/2011</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </AcrescimoValoracaoAduaneira>
+</AcrescimoValoracaoAduaneiraList>

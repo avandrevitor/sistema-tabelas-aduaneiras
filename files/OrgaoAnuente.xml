@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OrgaoAnuenteList>
+    <OrgaoAnuente>
+        <codigo>ANCINE</codigo>
+        <descricao>ANCINE - AGENCIA NACIONAL DO CINEMA</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>04.884.574/0001-20</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>ANEEL</codigo>
+        <descricao>ANEEL - AGENCIA NACIONAL DE ENERGIA ELETRICA</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>02.270.669/0001-29</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>ANP</codigo>
+        <descricao>ANP - AGENCIA NACIONAL DO PETROLEO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>37.115.383/0034-11</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>ANVISA</codigo>
+        <descricao>ANVISA - AGENCIA NACIONAL DE VIGILANCIA SANITARIA</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.530.493/0001-71</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>BB</codigo>
+        <descricao>BB - BANCO DO BRASIL</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.000.000/0001-91</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>BEFIEX</codigo>
+        <descricao>PROGRAMAS BEFIEX</descricao>
+        <inicioVigencia>02/12/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.478/0124-00</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>BNDES</codigo>
+        <descricao>BANCO NACIONAL DO DESENVOLVIMENTO ECONOMICO E SOCIAL</descricao>
+        <inicioVigencia>28/12/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>33.657.248/0001-89</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>CNEN</codigo>
+        <descricao>CNEN - COMISSAO NACIONAL DE ENERGIA NUCLEAR</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.402.552/0001-26</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>CNPQ</codigo>
+        <descricao>CNPQ - CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>33.654.831/0001-36</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>CONFAZ</codigo>
+        <descricao>CONFAZ - CONSELHO NACIONAL DE POLITICA FAZENDARIA/SECRETARIAS DE FAZENDA ESTADUAIS</descricao>
+        <inicioVigencia>06/03/2015</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>-</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>COTAC</codigo>
+        <descricao>MIN.AERON. - COMISSAO COORDENADORA DO TRANSPORTE AEREO CIVIL</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.429/0043-60</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>DEAEX</codigo>
+        <descricao>DEAEX - DEPARTAMENTO DE ESTATISTICA E APOIO A EXPORTACAO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>-</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>DECEX</codigo>
+        <descricao>DECEX - DEPARTAMENTO DE OPERACOES DE COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.478/0121-50</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>DEPLA</codigo>
+        <descricao>DEPARTAMENTO DE PLANEJAMENTO E DESENVOLVIMENTO DO COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>17/11/2010</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>-</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>DFPC</codigo>
+        <descricao>DFPC - DIRETORIA DE FISCALIZACAO DE PRODUTOS CONTROLADOS-COMANDO DO EXERCITO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.452/0273-03</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>DNPM</codigo>
+        <descricao>DNPM - DEPARTAMENTO NACIONAL DE PRODUCAO MINERAL</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.381.056/0010-24</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>DPF</codigo>
+        <descricao>DPF - DEPARTAMENTO DE POLICIA FEDERAL</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.494/0014-50</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>ECT</codigo>
+        <descricao>ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>34.028.316/0001-03</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>GESTOR</codigo>
+        <descricao>MICT/DECEX/GESTOR</descricao>
+        <inicioVigencia>03/01/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.478/0001-43</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>IBAMA</codigo>
+        <descricao>IBAMA - INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>03.659.166/0001-02</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>INMETRO</codigo>
+        <descricao>INMETRO - INSTITUTO NACIONAL DE METROLOGIA</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.662.270/0003-20</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>MAPA</codigo>
+        <descricao>MAPA - MINISTERIO DA AGRICULTURA,PECUARIA E ABASTECIMENTO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.396.895/0042-01</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>MCT</codigo>
+        <descricao>MCTI - MINISTERIO DA CIENCIA, TECNOLOGIA E INOVACAO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>03.132.745/0001-00</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>MIN.DEFESA</codigo>
+        <descricao>MD - MINISTERIO DA DEFESA</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>-</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>MRE</codigo>
+        <descricao>MINISTERIO DAS RELACOES EXTERIORES</descricao>
+        <inicioVigencia>28/12/2017</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.536/0006-43</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>RECEITA</codigo>
+        <descricao>RFB - RECEITA FEDERAL DO BRASIL</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>-</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>SDAVO</codigo>
+        <descricao>AUDIOVISUAL</descricao>
+        <inicioVigencia>17/11/2003</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>01.264.142/0021-72</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>SECEX</codigo>
+        <descricao>SECEX - SECRETARIA DE COMERCIO EXTERIOR</descricao>
+        <inicioVigencia>15/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.394.478/0002-24</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>SEPIN</codigo>
+        <descricao>MIN.DA CIENCIA E TECNOLOGIA-SEC.DE POLIT. INFORM.E AUTOMACAO</descricao>
+        <inicioVigencia>25/11/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>01.263.896/0001-64</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>SPC-MA</codigo>
+        <descricao>MA - SECRETARIA DE PRODUCAO E COMERCIALIZACAO</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>00.396.895/0069-13</cgc>
+    </OrgaoAnuente>
+    <OrgaoAnuente>
+        <codigo>SUFRAMA</codigo>
+        <descricao>SUFRAMA - SUPERINTENDENCIA DA ZONA FRANCA DE MANAUS</descricao>
+        <inicioVigencia>16/12/2014</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+        <cgc>04.407.029/0001-43</cgc>
+    </OrgaoAnuente>
+</OrgaoAnuenteList>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MotivoImportacaoSemCoberturaCambialList>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>30</codigo>
+        <descricao>INVESTIMENTO DE CAPITAL ESTRANGEIRO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>31</codigo>
+        <descricao>OPERACOES DE DOMICILIADOS NO EXTERIOR</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>39</codigo>
+        <descricao>AMOSTRAS DE VALOR ATE US$1000,00 (HUM MIL DOLARES DOS ESTADOSUNIDOS)</descricao>
+        <inicioVigencia>28/05/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>40</codigo>
+        <descricao>ENCOMENDAS POSTAIS NAO CLASSIFICADAS ESPECIFICAMENTE</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>41</codigo>
+        <descricao>AMOSTRAS DE VALOR SUPERIOR A US$1000,00 (HUM MIL DOLARES DOS ESTADOS UNIDOS)</descricao>
+        <inicioVigencia>28/05/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>42</codigo>
+        <descricao>BAGAGEM - AUTOMOVEIS PARA PASSAGEIROS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>43</codigo>
+        <descricao>BAGAGEM - OUTRAS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>44</codigo>
+        <descricao>FEIRAS E EXPOSICOES</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>45</codigo>
+        <descricao>MERCADORIAS EM RETORNO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>46</codigo>
+        <descricao>MERCADORIAS EM DEVOLUCAO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>47</codigo>
+        <descricao>MERCADORIAS IMPORTADAS TEMPORARIAMENTE (EXCETO ARRENDAMENTO SIMPLES, ALUGUEL E AFRETAMENTO)</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>48</codigo>
+        <descricao>DONATIVOS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>49</codigo>
+        <descricao>SOFTWARE</descricao>
+        <inicioVigencia>13/06/1997</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>50</codigo>
+        <descricao>REGIME DE DRAWBACK</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>51</codigo>
+        <descricao>NACIONALIZACAO DE MERCADORIA ADMITIDA ANTERIORMENTE EM REGIME ADUANEIRO ESPECIAL OU ATIPICO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>52</codigo>
+        <descricao>ADMISSAO EM REGIME ADUANEIRO ESPECIAL OU ATIPICO</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>54</codigo>
+        <descricao>TRANSFERENCIA ENTRE REGIMES ADUANEIROS ESPECIAIS OU ATIPICOS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>55</codigo>
+        <descricao>REPAROS NAVAIS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>56</codigo>
+        <descricao>OUTROS REPAROS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>57</codigo>
+        <descricao>ARRENDAMENTO FINANCEIRO COM PRAZO SUPERIOR A 360 DIAS E COM AMORTIZACAO IGUAL OU SUPERIOR A 75% DO VALOR DO BEM</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>58</codigo>
+        <descricao>ARRENDAMENTO FINANCEIRO COM PRAZO DE ATE' 360 DIAS E COM AMORTIZACAO IGUAL OU SUPERIOR A 75% DO VALOR DO BEM</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>66</codigo>
+        <descricao>ARRENDAMENTO OPERACIONAL COM PRAZO SUPERIOR A 360 DIAS E COM AMORTIZACAO INFERIOR A 75% DO VALOR DO BEM</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>67</codigo>
+        <descricao>ARRENDAMENTO OPERACIONAL COM PRAZO DE ATE' 360 DIAS E COM AMORTIZACAO INFERIOR A 75% DO VALOR DO BEM</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>70</codigo>
+        <descricao>ARRENDAMENTO SIMPLES - SEM OPCAO DE COMPRA - ALUGUEL OU AFRETAMENTO - PRAZO SUPERIOR A 360 DIAS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>71</codigo>
+        <descricao>ARRENDAMENTO SIMPLES - SEM OPCAO DE COMPRA - ALUGUEL OU AFRETAMENTO - PRAZO DE ATE' 360 DIAS</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+    <MotivoImportacaoSemCoberturaCambial>
+        <codigo>99</codigo>
+        <descricao>OUTRAS IMPORTACOES SEM COBERTURA CAMBIAL</descricao>
+        <inicioVigencia>15/03/1996</inicioVigencia>
+        <fimVigencia>-</fimVigencia>
+    </MotivoImportacaoSemCoberturaCambial>
+</MotivoImportacaoSemCoberturaCambialList>
