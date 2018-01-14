@@ -1,102 +1,102 @@
 12/01/2018 03:40,,,,
-CÛdigo,DescriÁ„o,InÌcio de VigÍncia,Fim de VigÍncia,Mercadorias
-01,"RETORNO DE BENS EXPORTADOS - EXPORTACAO EM CONSIGNACAO (LEI 10865/2004 - ARTIGO 1∫, PAR. 2∫, INC. I, AL. A)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-02,"RETORNO DE BENS EXPORTADOS - DEVOLUCAO PARA REPARO OU SUBSTITUICAO (LEI 10865/04 - ART. 1∫, PAR. 2∫, INC.I, AL. B)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-03,"RETORNO DE BENS EXPORTADOS - MODIFICACOES NO PAIS IMPORTADOR (LEI 10865/04 - ART. 1∫, PAR. 2∫, INC. I, AL. C)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-04,"RETORNO DE BENS EXPORTADOS - GUERRA OU CALAMIDADE PUBLICA (LEI 10865/04 - ART. 1∫, PAR. 2∫, INC. I, AL. D)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-05,"RETORNO DE BENS EXPORTADOS - FATORES ALHEIOS AO EXPORTADOR (LEI 10865/04 - ART. 1∫, PAR. 2∫, INC. I, AL. E)",11/04/2006,-,6 - NAO INCIDENCIA                                              
-06,"BENS IDENTICOS DESTINADOS A REPOSICAO DE OUTROS ANTERIORMENTE IMPORTADOS (LEI 10865/04, ART. 2∫, INC. II)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-07,"BENS AOS QUAIS TENHA SIDO APLICADO O REGIME DE EXPORTACAO TEMPORARIA (LEI 10865/04 - ART. 2∫, INC. VI)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-08,"BENS IMPORTADOS PELAS ENTIDADES BENEFICENTES DE ASSISTENCIA SOCIAL (LEI 10865/04, ART. 2∫, INC. VII)",12/04/2006,-,6 - NAO INCIDENCIA                                              
-09,"PRODUTOS QUIMICOS E FARMACEUTICOS - CAPITULOS 29/30 NCM (LEI 10865/04 - ART 8∫, PAR 11, INC I, C/C DEC 5127/04)",12/04/2006,-,4 - REDUCAO                                                     
-10,"PRODUTOS C/USO DEFINIDO P/LEI 10865/04 -ART 8∫,PAR 11,INC II,C/C L.11196/05 -ART 44, C/C DEC 5127/04",14/01/2010,-,4 - REDUCAO                                                     
-11,"PARTES, PECAS E COMPONENTES PARA EMBARCACOES COM REGISTRO NO REB (LEI 10865/04 - ART 8∫, PAR 12, INC I, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
-12,"RETORNO AO REG. BRASILEIRO DE EMBARCACOES CONSTRUIDAS NO BRASIL (LEI 10865/04 - ART 8∫, PAR 12, INC II, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
-13,"PAPEL DESTINADO A IMPRESSAO DE JORNAIS (LEI 10865/04 - ART. 8∫, PAR. 12, INC. III, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
+C√≥digo,Descri√ß√£o,In√≠cio de Vig√™ncia,Fim de Vig√™ncia,Mercadorias
+01,"RETORNO DE BENS EXPORTADOS - EXPORTACAO EM CONSIGNACAO (LEI 10865/2004 - ARTIGO 1¬∫, PAR. 2¬∫, INC. I, AL. A)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+02,"RETORNO DE BENS EXPORTADOS - DEVOLUCAO PARA REPARO OU SUBSTITUICAO (LEI 10865/04 - ART. 1¬∫, PAR. 2¬∫, INC.I, AL. B)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+03,"RETORNO DE BENS EXPORTADOS - MODIFICACOES NO PAIS IMPORTADOR (LEI 10865/04 - ART. 1¬∫, PAR. 2¬∫, INC. I, AL. C)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+04,"RETORNO DE BENS EXPORTADOS - GUERRA OU CALAMIDADE PUBLICA (LEI 10865/04 - ART. 1¬∫, PAR. 2¬∫, INC. I, AL. D)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+05,"RETORNO DE BENS EXPORTADOS - FATORES ALHEIOS AO EXPORTADOR (LEI 10865/04 - ART. 1¬∫, PAR. 2¬∫, INC. I, AL. E)",11/04/2006,-,6 - NAO INCIDENCIA                                              
+06,"BENS IDENTICOS DESTINADOS A REPOSICAO DE OUTROS ANTERIORMENTE IMPORTADOS (LEI 10865/04, ART. 2¬∫, INC. II)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+07,"BENS AOS QUAIS TENHA SIDO APLICADO O REGIME DE EXPORTACAO TEMPORARIA (LEI 10865/04 - ART. 2¬∫, INC. VI)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+08,"BENS IMPORTADOS PELAS ENTIDADES BENEFICENTES DE ASSISTENCIA SOCIAL (LEI 10865/04, ART. 2¬∫, INC. VII)",12/04/2006,-,6 - NAO INCIDENCIA                                              
+09,"PRODUTOS QUIMICOS E FARMACEUTICOS - CAPITULOS 29/30 NCM (LEI 10865/04 - ART 8¬∫, PAR 11, INC I, C/C DEC 5127/04)",12/04/2006,-,4 - REDUCAO                                                     
+10,"PRODUTOS C/USO DEFINIDO P/LEI 10865/04 -ART 8¬∫,PAR 11,INC II,C/C L.11196/05 -ART 44, C/C DEC 5127/04",14/01/2010,-,4 - REDUCAO                                                     
+11,"PARTES, PECAS E COMPONENTES PARA EMBARCACOES COM REGISTRO NO REB (LEI 10865/04 - ART 8¬∫, PAR 12, INC I, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
+12,"RETORNO AO REG. BRASILEIRO DE EMBARCACOES CONSTRUIDAS NO BRASIL (LEI 10865/04 - ART 8¬∫, PAR 12, INC II, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
+13,"PAPEL DESTINADO A IMPRESSAO DE JORNAIS (LEI 10865/04 - ART. 8¬∫, PAR. 12, INC. III, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
 14,"GAS NATURAL LIQUEFEITO - GNL ( LEI 10865/04 - ART.8, PAR.12, INC. XVI - LEI 11727/08 - ART. 26)",11/03/2014,-,4 - REDUCAO                                                     
-15,"BENS DESTINADOS A INDUSTRIA CINEMATOGRAFICA E AUDIOVISUAL (LEI 10865/04 - ART 8∫, PAR 12, INC V, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
-16,"AERONAVES DA POSICAO 8802 DA NCM (LEI 10865/04 - ART 8∫, PAR 12, INC VI, C/C LEI 10925/04 - ART 6∫, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
-17,"BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8∫,PAR 12, INC VII, C/C LEI 10925/04 - ART 6∫, C/C DEC 5171/04)",11/04/2006,-,4 - REDUCAO                                                     
+15,"BENS DESTINADOS A INDUSTRIA CINEMATOGRAFICA E AUDIOVISUAL (LEI 10865/04 - ART 8¬∫, PAR 12, INC V, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
+16,"AERONAVES DA POSICAO 8802 DA NCM (LEI 10865/04 - ART 8¬∫, PAR 12, INC VI, C/C LEI 10925/04 - ART 6¬∫, C/C DEC 5171/04)",12/04/2006,-,4 - REDUCAO                                                     
+17,"BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8¬∫,PAR 12, INC VII, C/C LEI 10925/04 - ART 6¬∫, C/C DEC 5171/04)",11/04/2006,-,4 - REDUCAO                                                     
 18,"RECINE-REGIME ESP TRIB P/DESENV ATIV EXIB CINEMATOGRAFICA (LEI 12599/12, ART.12 E DEC. 7729/12, ART.7)",04/02/2013,-,5 - SUSPENSAO                                                   
-19,"GAS NATURAL DESTINADO AS UNIDADES TERMELETRICAS INTEGRANTES DO PPT (LEI 10865/04 - ART. 8∫, PAR. 12, INC. IX)",12/04/2006,-,4 - REDUCAO                                                     
-20,"PRODUTOS HORTICULAS E FRUTAS - CAPITULOS 7 E 8 DA TIPI - E OVOS - POSICAO 0407 (LEI 10865/04 - ART. 8∫, PAR. 12, INC. X)",12/04/2006,-,4 - REDUCAO                                                     
-21,"SEMENS E EMBRIOES DA POSICAO 0511 DA NCM (LEI 10865/04 - ART. 8∫, PAR. 12, INC. XI)",12/04/2006,-,4 - REDUCAO                                                     
-22,"LIVROS, CFE DEFINIDO NO ART. 2∫ DA LEI 10753/03 (LEI 10865/04 - ART 8∫, PAR 12, INC XII, C/C LEI 11033/04 - ART 6∫)",11/04/2006,-,4 - REDUCAO                                                     
-23,"ADUBOS OU FERTILIZANTES - CAPITULO 31 DA NCM - E SUAS MAT. PRIMAS (LEI 10925/04 - ART 1∫, INC I, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-24,"DEFENSIVOS AGROPECUARIOS - POSICAO 3808 DA NCM - E SUAS MAT. PRIMAS (LEI 10925/04 - ART 1∫, INC II, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-25,"SEMENTES/MUDAS E PRODUTOS DE NATUREZA BIOLOGICA PARA SUA PRODUCAO (LEI 10925/04 - ART 1∫, INC III, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-26,"CORRETIVO DE SOLO DE ORIGEM MINERAL - CAPITULO 25 DA NCM (LEI 10925/04 - ART 1∫, INC IV, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-27,"FEIJOES COMUNS, ARROZ E FARINHAS, COM CODIGOS NCM DEFINIDOS PELA LEI 10925/04 - ART 1∫, INC V, C/C DEC 5630/05.",12/04/2006,-,4 - REDUCAO                                                     
-28,"INOCULANTES AGRICOLAS DO CODIGO 3002.90.99 DA NCM (LEI 10925/04 - ART 1∫, INC VI, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-29,"VACINAS PARA MEDICINA VETERINARIA - CÛDIGO 3002.30 DA NCM (LEI 10925/04 - ART 1∫, INC VII, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-30,"PRODUTOS DEFINIDOS PELA LEI 10925/04 - ART 1∫, INC IX, C/C LEI 11051/04 - ART 29, C/C DEC 5630/05)",11/04/2006,-,4 - REDUCAO                                                     
-31,"PINTOS DE UM DIA - CODIGO 0105.11 DA TIPI (LEI 10925/04 - ART 1∫, INC X, C/C LEI 11051/04 - ART 29, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
-32,"LEITE FLUIDO, CFE DEFINICıES DA LEI 10925/04 - ART 1∫, INC, XI, C/C LEI 11488/08 - ART 32, C/C DECS 5630/05E 6461/08",26/05/2008,-,4 - REDUCAO                                                     
-33,"UNIAO, ESTADOS, DISTRITO FEDERAL E MUNICIPIOS, SUAS AUTARQUIAS E FUNDACOES (LEI 10865/04 - ART. 9∫, INC. I, AL. A)",12/04/2006,-,3 - ISENCAO                                                     
-34,"MISSOES DIPLOMATICAS, REPARTICOES CONSULARES E RESPECTIVOS INTEGRANTES_(LEI 10865/04 - ART. 9∫, INC. I, AL. B)",12/04/2006,-,3 - ISENCAO                                                     
-35,"REPRESENTACOES DE ORGANISMOS INTERNACIONAIS E RESPECTIVOS INTEGRANTES (LEI 10865/04 - ART. 9∫, INC. I, AL. C)",12/04/2006,-,3 - ISENCAO                                                     
-36,"AMOSTRAS E REMESSAS POSTAIS INTERNACIONAIS, SEM VALOR COMERCIAL (LEI 10865/04 - ART. 9∫, INC. II, AL. A)",11/04/2006,-,3 - ISENCAO                                                     
-37,"REMESSAS POSTAIS E ENCOMENDAS AEREAS INTERNACIONAIS DESTINADAS A PESSOA FISICA (LEI 10865/04 - ART. 1∫, INC. II, AL. B)",12/04/2006,-,3 - ISENCAO                                                     
-38,"BAGAGEM E BENS A QUE SE APLIQUEM OS REGIMES DE TRIBUTACAO SIMPLIFICADA/ESPECIAL (LEI 10865/04 - ART 9∫, INC II, AL. C)",12/04/2006,-,3 - ISENCAO                                                     
-39,"BENS IMPORTADOS SOB O REGIME ADUANEIRO ESPECIAL DE DRAWBACK/ISENCAO (LEI 10865/04 - ART. 9∫, INC. II, AL. F)",12/04/2006,-,3 - ISENCAO                                                     
-40,"OBJETOS DE ARTE - CODIGOS 9701, 9702, 9703 E 9706 DA NCM - RECEBIDOS EM DOACAO (LEI 10865/04 - ART. 9∫, INC. II, AL. G)",12/04/2006,-,3 - ISENCAO                                                     
-41,"BENS IMPORTADOS POR INST. CIENTIFICAS E TECNOLOGICAS,CIENTISTAS E PESQUISADORES (LEI 10865/04 - ART 9∫, INC II, AL H)",12/04/2006,-,3 - ISENCAO                                                     
+19,"GAS NATURAL DESTINADO AS UNIDADES TERMELETRICAS INTEGRANTES DO PPT (LEI 10865/04 - ART. 8¬∫, PAR. 12, INC. IX)",12/04/2006,-,4 - REDUCAO                                                     
+20,"PRODUTOS HORTICULAS E FRUTAS - CAPITULOS 7 E 8 DA TIPI - E OVOS - POSICAO 0407 (LEI 10865/04 - ART. 8¬∫, PAR. 12, INC. X)",12/04/2006,-,4 - REDUCAO                                                     
+21,"SEMENS E EMBRIOES DA POSICAO 0511 DA NCM (LEI 10865/04 - ART. 8¬∫, PAR. 12, INC. XI)",12/04/2006,-,4 - REDUCAO                                                     
+22,"LIVROS, CFE DEFINIDO NO ART. 2¬∫ DA LEI 10753/03 (LEI 10865/04 - ART 8¬∫, PAR 12, INC XII, C/C LEI 11033/04 - ART 6¬∫)",11/04/2006,-,4 - REDUCAO                                                     
+23,"ADUBOS OU FERTILIZANTES - CAPITULO 31 DA NCM - E SUAS MAT. PRIMAS (LEI 10925/04 - ART 1¬∫, INC I, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+24,"DEFENSIVOS AGROPECUARIOS - POSICAO 3808 DA NCM - E SUAS MAT. PRIMAS (LEI 10925/04 - ART 1¬∫, INC II, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+25,"SEMENTES/MUDAS E PRODUTOS DE NATUREZA BIOLOGICA PARA SUA PRODUCAO (LEI 10925/04 - ART 1¬∫, INC III, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+26,"CORRETIVO DE SOLO DE ORIGEM MINERAL - CAPITULO 25 DA NCM (LEI 10925/04 - ART 1¬∫, INC IV, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+27,"FEIJOES COMUNS, ARROZ E FARINHAS, COM CODIGOS NCM DEFINIDOS PELA LEI 10925/04 - ART 1¬∫, INC V, C/C DEC 5630/05.",12/04/2006,-,4 - REDUCAO                                                     
+28,"INOCULANTES AGRICOLAS DO CODIGO 3002.90.99 DA NCM (LEI 10925/04 - ART 1¬∫, INC VI, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+29,"VACINAS PARA MEDICINA VETERINARIA - C√≥DIGO 3002.30 DA NCM (LEI 10925/04 - ART 1¬∫, INC VII, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+30,"PRODUTOS DEFINIDOS PELA LEI 10925/04 - ART 1¬∫, INC IX, C/C LEI 11051/04 - ART 29, C/C DEC 5630/05)",11/04/2006,-,4 - REDUCAO                                                     
+31,"PINTOS DE UM DIA - CODIGO 0105.11 DA TIPI (LEI 10925/04 - ART 1¬∫, INC X, C/C LEI 11051/04 - ART 29, C/C DEC 5630/05)",12/04/2006,-,4 - REDUCAO                                                     
+32,"LEITE FLUIDO, CFE DEFINIC√µES DA LEI 10925/04 - ART 1¬∫, INC, XI, C/C LEI 11488/08 - ART 32, C/C DECS 5630/05E 6461/08",26/05/2008,-,4 - REDUCAO                                                     
+33,"UNIAO, ESTADOS, DISTRITO FEDERAL E MUNICIPIOS, SUAS AUTARQUIAS E FUNDACOES (LEI 10865/04 - ART. 9¬∫, INC. I, AL. A)",12/04/2006,-,3 - ISENCAO                                                     
+34,"MISSOES DIPLOMATICAS, REPARTICOES CONSULARES E RESPECTIVOS INTEGRANTES_(LEI 10865/04 - ART. 9¬∫, INC. I, AL. B)",12/04/2006,-,3 - ISENCAO                                                     
+35,"REPRESENTACOES DE ORGANISMOS INTERNACIONAIS E RESPECTIVOS INTEGRANTES (LEI 10865/04 - ART. 9¬∫, INC. I, AL. C)",12/04/2006,-,3 - ISENCAO                                                     
+36,"AMOSTRAS E REMESSAS POSTAIS INTERNACIONAIS, SEM VALOR COMERCIAL (LEI 10865/04 - ART. 9¬∫, INC. II, AL. A)",11/04/2006,-,3 - ISENCAO                                                     
+37,"REMESSAS POSTAIS E ENCOMENDAS AEREAS INTERNACIONAIS DESTINADAS A PESSOA FISICA (LEI 10865/04 - ART. 1¬∫, INC. II, AL. B)",12/04/2006,-,3 - ISENCAO                                                     
+38,"BAGAGEM E BENS A QUE SE APLIQUEM OS REGIMES DE TRIBUTACAO SIMPLIFICADA/ESPECIAL (LEI 10865/04 - ART 9¬∫, INC II, AL. C)",12/04/2006,-,3 - ISENCAO                                                     
+39,"BENS IMPORTADOS SOB O REGIME ADUANEIRO ESPECIAL DE DRAWBACK/ISENCAO (LEI 10865/04 - ART. 9¬∫, INC. II, AL. F)",12/04/2006,-,3 - ISENCAO                                                     
+40,"OBJETOS DE ARTE - CODIGOS 9701, 9702, 9703 E 9706 DA NCM - RECEBIDOS EM DOACAO (LEI 10865/04 - ART. 9¬∫, INC. II, AL. G)",12/04/2006,-,3 - ISENCAO                                                     
+41,"BENS IMPORTADOS POR INST. CIENTIFICAS E TECNOLOGICAS,CIENTISTAS E PESQUISADORES (LEI 10865/04 - ART 9¬∫, INC II, AL H)",12/04/2006,-,3 - ISENCAO                                                     
 42,"BENS SUBMETIDOS AOS REGIMES ADUANEIROS ESPECIAIS (LEI 10865/04 - ART. 14, CAPUT)",11/04/2006,-,5 - SUSPENSAO                                                   
-43,"MAT. PRIMAS, PROD. INTERM. E MAT. DE EMBALAGEM - EMPRESAS DA ZFM (LEI 10865/04 - ART 14-A, C/C LEI 10925/04 - ART 6∫)",11/04/2006,-,5 - SUSPENSAO                                                   
-44,"BENS PARA ELABORACAO DE MAT. PRIMAS, PROD. INTERM. E MAT. DE EMBALAGEM - EMPRESAS DA ZFM (LEI 10865/04 - ART 14, PAR 1∫)",12/04/2006,-,5 - SUSPENSAO                                                   
-45,"PREP. COMPOSTAS N/ ALCOOLICAS P/ ELAB. DE BEBIDAS (LEI 10865/04 - ART 8∫, PAR 12, INC XIII, C/C LEI 11196/05 - ART 44)",12/04/2006,-,4 - REDUCAO                                                     
+43,"MAT. PRIMAS, PROD. INTERM. E MAT. DE EMBALAGEM - EMPRESAS DA ZFM (LEI 10865/04 - ART 14-A, C/C LEI 10925/04 - ART 6¬∫)",11/04/2006,-,5 - SUSPENSAO                                                   
+44,"BENS PARA ELABORACAO DE MAT. PRIMAS, PROD. INTERM. E MAT. DE EMBALAGEM - EMPRESAS DA ZFM (LEI 10865/04 - ART 14, PAR 1¬∫)",12/04/2006,-,5 - SUSPENSAO                                                   
+45,"PREP. COMPOSTAS N/ ALCOOLICAS P/ ELAB. DE BEBIDAS (LEI 10865/04 - ART 8¬∫, PAR 12, INC XIII, C/C LEI 11196/05 - ART 44)",12/04/2006,-,4 - REDUCAO                                                     
 46,"BENS SUBMETIDOS AO REPORTO (LEI 11033/04 - ART. 14, C/C DEC 6582/08)",30/09/2008,-,5 - SUSPENSAO                                                   
-47,"BENS SUBMETIDOS AO REPES (LEI 11196/05 - ART. 4∫, INC. II, C/C DEC 5713/06)",11/04/2006,-,5 - SUSPENSAO                                                   
+47,"BENS SUBMETIDOS AO REPES (LEI 11196/05 - ART. 4¬∫, INC. II, C/C DEC 5713/06)",11/04/2006,-,5 - SUSPENSAO                                                   
 48,"BENS SUBMETIDOS AO RECAP (LEI 11196/05 - ART. 14, INC. II, C/C DEC 6581/08)",30/09/2008,-,5 - SUSPENSAO                                                   
 49,"BENS A SEREM INCORPORADOS AO ATIVO IMOBILIZADO DE EMPRESAS DA ZFM (LEI 11196/05 - ART 50, C/C DEC 5691/06)",12/04/2006,-,5 - SUSPENSAO                                                   
-50,"QUEIJOS DE TIPOS DEFINIDOS PELA LEI 10925/04 - ART 1∫, INC XII, C/C LEI 11488/07 - ART 32, C/C DECS 5630/05 E 6461/08",26/05/2008,-,4 - REDUCAO                                                     
+50,"QUEIJOS DE TIPOS DEFINIDOS PELA LEI 10925/04 - ART 1¬∫, INC XII, C/C LEI 11488/07 - ART 32, C/C DECS 5630/05 E 6461/08",26/05/2008,-,4 - REDUCAO                                                     
 51,"MAQUINAS E EQUIPAMENTOS - POSICAO 8439 DA TIPI - P/ FABRICACAO DE PAPEIS (LEI 11196/05 - ART 55, INC II, C/C DEC 5653/05",12/04/2006,-,5 - SUSPENSAO                                                   
-52,"LEITE EM PÛ, CFE DEFINIÁıES DA LEI 10925/04 - ART 1∫, INC XI,C/C LEI 11488/07 - ART 32, C/C DECS 5630/05 E 6461/08",26/05/2008,-,4 - REDUCAO                                                     
+52,"LEITE EM P√≥, CFE DEFINI√ß√µES DA LEI 10925/04 - ART 1¬∫, INC XI,C/C LEI 11488/07 - ART 32, C/C DECS 5630/05 E 6461/08",26/05/2008,-,4 - REDUCAO                                                     
 53,"CUSTOS DE ENERGIA ELETRICA - EFEITOS CAMBIAIS (IN SRF 649, DE 2006).",14/06/2006,-,6 - NAO INCIDENCIA                                              
-54,"PROD QUIMICOS, CAP 29 - DEC 5821/06, ART 1∫, INC I.",21/07/2006,-,4 - REDUCAO                                                     
-55,"PROD QUIMICOS SINTESE,CAP 29-DEC 5821/06,ART 1∫,INC II,AL B.",21/07/2006,-,4 - REDUCAO                                                     
-56,"POS. 3002,3006,3926,4015,9018-DEC 5821/06, ART 1∫, INC III.",21/07/2006,-,4 - REDUCAO                                                     
-57,"POS. 3002,3006,3926,4015,9018-DEC 5821/06,ART 1∫,PAR UNICO.",21/07/2006,-,4 - REDUCAO                                                     
-58,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC I.",21/07/2006,-,4 - REDUCAO                                                     
-59,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC II.",21/07/2006,-,4 - REDUCAO                                                     
-60,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC III.",21/07/2006,-,4 - REDUCAO                                                     
-61,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC IV.",21/07/2006,-,4 - REDUCAO                                                     
-62,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC V.",21/07/2006,-,4 - REDUCAO                                                     
-63,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC VI.",21/07/2006,-,4 - REDUCAO                                                     
-64,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2∫, INC VII.",21/07/2006,-,4 - REDUCAO                                                     
-65,"PRODUTOS FARMACEUTICOS - DEC 5821/06 ART 2∫, INC VIII.",21/07/2006,-,4 - REDUCAO                                                     
+54,"PROD QUIMICOS, CAP 29 - DEC 5821/06, ART 1¬∫, INC I.",21/07/2006,-,4 - REDUCAO                                                     
+55,"PROD QUIMICOS SINTESE,CAP 29-DEC 5821/06,ART 1¬∫,INC II,AL B.",21/07/2006,-,4 - REDUCAO                                                     
+56,"POS. 3002,3006,3926,4015,9018-DEC 5821/06, ART 1¬∫, INC III.",21/07/2006,-,4 - REDUCAO                                                     
+57,"POS. 3002,3006,3926,4015,9018-DEC 5821/06,ART 1¬∫,PAR UNICO.",21/07/2006,-,4 - REDUCAO                                                     
+58,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC I.",21/07/2006,-,4 - REDUCAO                                                     
+59,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC II.",21/07/2006,-,4 - REDUCAO                                                     
+60,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC III.",21/07/2006,-,4 - REDUCAO                                                     
+61,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC IV.",21/07/2006,-,4 - REDUCAO                                                     
+62,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC V.",21/07/2006,-,4 - REDUCAO                                                     
+63,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC VI.",21/07/2006,-,4 - REDUCAO                                                     
+64,"PRODUTOS FARMACEUTICOS - DEC 5821/06, ART 2¬∫, INC VII.",21/07/2006,-,4 - REDUCAO                                                     
+65,"PRODUTOS FARMACEUTICOS - DEC 5821/06 ART 2¬∫, INC VIII.",21/07/2006,-,4 - REDUCAO                                                     
 66,"EXCLUSIVO LOJA FRANCA - DI CAMBIAL (LEI N. 10865/04, ART. 9, INCISO II, ALINEA D)",15/02/2007,-,3 - ISENCAO                                                     
 67,"BENS C/USO RELAT.EVENTO CULTURAL,CIENT.OU ESPORTIVO OFICIAL REALIZADO NO EXTERIOR OU BRASIL-L.11.488/07,ART.38.",17/12/2012,-,3 - ISENCAO                                                     
-68,"MAT.PRIMAS, PROD.INTERM. E MAT.DE EMB.- EMPR.EXPORTADORA(LEI10.865/2004-ART.40-PARAGRAFO 6∫ C/C LEIS10925/04 E 11482/07)",15/01/2008,-,5 - SUSPENSAO                                                   
-69,"PROD QUIMICOS, CAP 29 - DEC 6426/08, ART 1∫, INC I",08/04/2008,-,4 - REDUCAO                                                     
-70,"PROD QUIMICOS SINTESE,CAP 29-DEC 6426/08,ART 1∫,INC II,AL B.",08/04/2008,-,4 - REDUCAO                                                     
-71,"POS. 3002,3006,3926,4015,9018-DEC 6426/08, ART 1∫, INC III",08/04/2008,-,4 - REDUCAO                                                     
-72,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC I.",08/04/2008,-,4 - REDUCAO                                                     
-73,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC II.",08/04/2008,-,4 - REDUCAO                                                     
-74,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC III.",08/04/2008,-,4 - REDUCAO                                                     
-75,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC IV.",08/04/2008,-,4 - REDUCAO                                                     
-76,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC V.",08/04/2008,-,4 - REDUCAO                                                     
-77,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC VI.",08/04/2008,-,4 - REDUCAO                                                     
-78,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC VII.",08/04/2008,-,4 - REDUCAO                                                     
-79,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2∫, INC VIII.",08/04/2008,-,4 - REDUCAO                                                     
-80,"”LEOS COMBS.TIPO BUNKER, CÛDS. 2710.19.21 E 2710.19.22,DESTS.‡ NAVEGAÁ„O D/CAB.E D/APOIO PORT.E MARÌT.-LEI 11774/08 ART.2∫",23/10/2008,-,5 - SUSPENSAO                                                   
-81,"PRODUTOS DEFINIDOS PELA LEI 10925/04 - ART 1∫, INC,XI, C/C  LEI 11488/08 - ART 32, C/C DEC 6461/08",26/05/2008,-,4 - REDUCAO                                                     
-82,"SORO DE LEITE FLUIDO, CFE DEFINIÁıES DA LEI 10925/04 - ART 1∫, INC XIV, C/C LEI 11488/07 - ART 32, C/C DEC 6461/08",26/05/2008,-,4 - REDUCAO                                                     
-83,"LEI 10925/04 - ART. 1∫, INC, XIV, C/C MP 433/08, C/C MP 552/11,INC. XVIII",29/12/2011,-,4 - REDUCAO                                                     
-84,"TRIGO, LEI 10925/04 - ART 1∫, INC XV, C/C MP 433/08 E LEI 12096/09",14/01/2011,-,4 - REDUCAO                                                     
-85,"PR…-MISTURAS PR”PRIAS P/FABRICAÁ√O DE P√O COMUM E P√O COMUM,LEI 10925/04 - ART 1∫, INC XVI, C/C MP 433/08 E LEI 12096/09",14/01/2011,-,4 - REDUCAO                                                     
-86,"ACETONA DESTINADA A PRODUÁ„O DE MONOISOPROPILAMINA (MIPA), CÛDIGO TIPI 2914.11.00,LEI 11727/08 - ART. 25∫, PAR·GRS.1∫ E 2∫",14/07/2008,-,5 - SUSPENSAO                                                   
+68,"MAT.PRIMAS, PROD.INTERM. E MAT.DE EMB.- EMPR.EXPORTADORA(LEI10.865/2004-ART.40-PARAGRAFO 6¬∫ C/C LEIS10925/04 E 11482/07)",15/01/2008,-,5 - SUSPENSAO                                                   
+69,"PROD QUIMICOS, CAP 29 - DEC 6426/08, ART 1¬∫, INC I",08/04/2008,-,4 - REDUCAO                                                     
+70,"PROD QUIMICOS SINTESE,CAP 29-DEC 6426/08,ART 1¬∫,INC II,AL B.",08/04/2008,-,4 - REDUCAO                                                     
+71,"POS. 3002,3006,3926,4015,9018-DEC 6426/08, ART 1¬∫, INC III",08/04/2008,-,4 - REDUCAO                                                     
+72,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC I.",08/04/2008,-,4 - REDUCAO                                                     
+73,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC II.",08/04/2008,-,4 - REDUCAO                                                     
+74,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC III.",08/04/2008,-,4 - REDUCAO                                                     
+75,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC IV.",08/04/2008,-,4 - REDUCAO                                                     
+76,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC V.",08/04/2008,-,4 - REDUCAO                                                     
+77,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC VI.",08/04/2008,-,4 - REDUCAO                                                     
+78,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC VII.",08/04/2008,-,4 - REDUCAO                                                     
+79,"PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2¬∫, INC VIII.",08/04/2008,-,4 - REDUCAO                                                     
+80,"√ìLEOS COMBS.TIPO BUNKER, C√≥DS. 2710.19.21 E 2710.19.22,DESTS.√† NAVEGA√ß√£O D/CAB.E D/APOIO PORT.E MAR√≠T.-LEI 11774/08 ART.2¬∫",23/10/2008,-,5 - SUSPENSAO                                                   
+81,"PRODUTOS DEFINIDOS PELA LEI 10925/04 - ART 1¬∫, INC,XI, C/C  LEI 11488/08 - ART 32, C/C DEC 6461/08",26/05/2008,-,4 - REDUCAO                                                     
+82,"SORO DE LEITE FLUIDO, CFE DEFINI√ß√µES DA LEI 10925/04 - ART 1¬∫, INC XIV, C/C LEI 11488/07 - ART 32, C/C DEC 6461/08",26/05/2008,-,4 - REDUCAO                                                     
+83,"LEI 10925/04 - ART. 1¬∫, INC, XIV, C/C MP 433/08, C/C MP 552/11,INC. XVIII",29/12/2011,-,4 - REDUCAO                                                     
+84,"TRIGO, LEI 10925/04 - ART 1¬∫, INC XV, C/C MP 433/08 E LEI 12096/09",14/01/2011,-,4 - REDUCAO                                                     
+85,"PR√â-MISTURAS PR√ìPRIAS P/FABRICA√ß√ÉO DE P√ÉO COMUM E P√ÉO COMUM,LEI 10925/04 - ART 1¬∫, INC XVI, C/C MP 433/08 E LEI 12096/09",14/01/2011,-,4 - REDUCAO                                                     
+86,"ACETONA DESTINADA A PRODU√ß√£O DE MONOISOPROPILAMINA (MIPA), C√≥DIGO TIPI 2914.11.00,LEI 11727/08 - ART. 25¬∫, PAR√°GRS.1¬∫ E 2¬∫",14/07/2008,-,5 - SUSPENSAO                                                   
 87,"MATERIAIS,EQUIPAMENTO E DADOS TECNICOS IMPORTADOS P/ENT.BINACIONAL ALCANTARA CYCLONE SPACE - ART. 9 DO DECRETO 5436/2005",03/10/2008,-,3 - ISENCAO                                                     
-88,ISENÁ√O PIS/COFINS LEI 11488/2007 ART.38,26/10/2010,-,3 - ISENCAO                                                     
-89,REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRA-ESTRUTUTA - REIDI (LEI N∫ 11.488/2007 ART. 3∫),10/09/2009,-,"5 - SUSPENSAO                                                   
+88,ISEN√ß√ÉO PIS/COFINS LEI 11488/2007 ART.38,26/10/2010,-,3 - ISENCAO                                                     
+89,REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRA-ESTRUTUTA - REIDI (LEI N¬∫ 11.488/2007 ART. 3¬∫),10/09/2009,-,"5 - SUSPENSAO                                                   
 "
-90,"PRODUTOS COM USO DEFINIDO PELA LEI 10865 ART. 8∫ - PAR 12,INCXVIII,XIX,XX E XXI - LEI 12058/09 ART 28∫ -INC XV,XVI E XVII",14/01/2010,-,4 - REDUCAO                                                     
-91,"G¡S NATURAL IMPORTADO DA BOLÕVIA - DECRETO N∫ 681/1992, ART.3∫ - ATO DECLARAT”RIO INTERPRETATIVO N∫ 21/2004",05/01/2011,-,3 - ISENCAO                                                     
-92,"REPENEC: ARTS 1∫ A 5∫ LEI 12.249/2010 E ART 18 DEC          7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010",07/01/2011,-,5 - SUSPENSAO                                                   
-93,"RECOMPE: LEI 12.249/2010, ART.9∫,III REGULAMENTADA PELO     DECRETO 7.243/2010, ART.5∫,III",02/03/2011,-,5 - SUSPENSAO                                                   
+90,"PRODUTOS COM USO DEFINIDO PELA LEI 10865 ART. 8¬∫ - PAR 12,INCXVIII,XIX,XX E XXI - LEI 12058/09 ART 28¬∫ -INC XV,XVI E XVII",14/01/2010,-,4 - REDUCAO                                                     
+91,"G√ÅS NATURAL IMPORTADO DA BOL√çVIA - DECRETO N¬∫ 681/1992, ART.3¬∫ - ATO DECLARAT√ìRIO INTERPRETATIVO N¬∫ 21/2004",05/01/2011,-,3 - ISENCAO                                                     
+92,"REPENEC: ARTS 1¬∫ A 5¬∫ LEI 12.249/2010 E ART 18 DEC          7.320/2010, CONFORME IN RFB 1.074/2010 E 1.084/2010",07/01/2011,-,5 - SUSPENSAO                                                   
+93,"RECOMPE: LEI 12.249/2010, ART.9¬∫,III REGULAMENTADA PELO     DECRETO 7.243/2010, ART.5¬∫,III",02/03/2011,-,5 - SUSPENSAO                                                   
 94,"PADIS E PATVD - LEI 11484/07, DECRETOS 6233/2007, 6234/2007 E7600/2011, E IN RFB 853/08 E 852/08",25/06/2012,-,4 - REDUCAO                                                     
 95,RECOPA - LEI 12350/2010; DECRETOS 7319/2010 E 7525/2011; IN RFB 1176/2011 E 1237/2012,15/06/2012,-,5 - SUSPENSAO                                                   
-96,EVENTOS COPA DO MUNDO / JOGOS OLÕMPICOS E PARALÕMPICOS 2016,08/06/2015,-,3 - ISENCAO                                                     
-97,EVENTOS COPA DO MUNDO / JOGOS OLÕMPICOS E PARALÕMPICOS 2016 BENS ADMITIDOS SOB O REGIME DE ADMISS„O TEMPOR·RIA,08/06/2015,-,5 - SUSPENSAO                                                   
-98,"OUTRAS ISEN«’ES, REDU«’ES E SUSPENS’ES N√O CAPITULADAS NESTA TABELA",11/01/2013,-,"3 - ISENCAO                                                     
+96,EVENTOS COPA DO MUNDO / JOGOS OL√çMPICOS E PARAL√çMPICOS 2016,08/06/2015,-,3 - ISENCAO                                                     
+97,EVENTOS COPA DO MUNDO / JOGOS OL√çMPICOS E PARAL√çMPICOS 2016 BENS ADMITIDOS SOB O REGIME DE ADMISS√£O TEMPOR√°RIA,08/06/2015,-,5 - SUSPENSAO                                                   
+98,"OUTRAS ISEN√á√ïES, REDU√á√ïES E SUSPENS√ïES N√ÉO CAPITULADAS NESTA TABELA",11/01/2013,-,"3 - ISENCAO                                                     
 "
