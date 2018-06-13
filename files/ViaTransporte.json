@@ -1,0 +1,106 @@
+[
+    {
+        "codigo": "01",
+        "descricao": "MARITIMA",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "02",
+        "descricao": "FLUVIAL",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "03",
+        "descricao": "LACUSTRE",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "04",
+        "descricao": "AEREA",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "05",
+        "descricao": "POSTAL",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "06",
+        "descricao": "FERROVIARIA",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "07",
+        "descricao": "RODOVIARIA",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/12/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "08",
+        "descricao": "CONDUTO / REDE TRANSMISSÃO",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "02/08/2000",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "09",
+        "descricao": "MEIOS PROPRIOS",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "01/02/1995",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "10",
+        "descricao": "ENTRADA/SAIDA FICTA",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "09/06/2000",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "11",
+        "descricao": "COURIER",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "31/05/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "12",
+        "descricao": "EM MÃOS",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "17/11/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "descricao": "POR REBOQUE",
+        "descricaoIngles": "-",
+        "descricaoEspanhol": "-",
+        "inicioVigencia": "17/11/2017",
+        "fimVigencia": "-"
+    }
+]

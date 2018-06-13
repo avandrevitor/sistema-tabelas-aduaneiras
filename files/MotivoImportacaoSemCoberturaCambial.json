@@ -1,0 +1,158 @@
+[
+    {
+        "codigo": "30",
+        "descricao": "INVESTIMENTO DE CAPITAL ESTRANGEIRO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "31",
+        "descricao": "OPERACOES DE DOMICILIADOS NO EXTERIOR",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "39",
+        "descricao": "AMOSTRAS DE VALOR ATE US$1000,00 (HUM MIL DOLARES DOS ESTADOSUNIDOS)",
+        "inicioVigencia": "28/05/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "40",
+        "descricao": "ENCOMENDAS POSTAIS NAO CLASSIFICADAS ESPECIFICAMENTE",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "41",
+        "descricao": "AMOSTRAS DE VALOR SUPERIOR A US$1000,00 (HUM MIL DOLARES DOS ESTADOS UNIDOS)",
+        "inicioVigencia": "28/05/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "42",
+        "descricao": "BAGAGEM - AUTOMOVEIS PARA PASSAGEIROS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "43",
+        "descricao": "BAGAGEM - OUTRAS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "44",
+        "descricao": "FEIRAS E EXPOSICOES",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "45",
+        "descricao": "MERCADORIAS EM RETORNO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "46",
+        "descricao": "MERCADORIAS EM DEVOLUCAO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "47",
+        "descricao": "MERCADORIAS IMPORTADAS TEMPORARIAMENTE (EXCETO ARRENDAMENTO SIMPLES, ALUGUEL E AFRETAMENTO)",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "48",
+        "descricao": "DONATIVOS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "49",
+        "descricao": "SOFTWARE",
+        "inicioVigencia": "13/06/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "50",
+        "descricao": "REGIME DE DRAWBACK",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "51",
+        "descricao": "NACIONALIZACAO DE MERCADORIA ADMITIDA ANTERIORMENTE EM REGIME ADUANEIRO ESPECIAL OU ATIPICO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "52",
+        "descricao": "ADMISSAO EM REGIME ADUANEIRO ESPECIAL OU ATIPICO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "54",
+        "descricao": "TRANSFERENCIA ENTRE REGIMES ADUANEIROS ESPECIAIS OU ATIPICOS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "55",
+        "descricao": "REPAROS NAVAIS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "56",
+        "descricao": "OUTROS REPAROS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "57",
+        "descricao": "ARRENDAMENTO FINANCEIRO COM PRAZO SUPERIOR A 360 DIAS E COM AMORTIZACAO IGUAL OU SUPERIOR A 75% DO VALOR DO BEM",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "58",
+        "descricao": "ARRENDAMENTO FINANCEIRO COM PRAZO DE ATE' 360 DIAS E COM AMORTIZACAO IGUAL OU SUPERIOR A 75% DO VALOR DO BEM",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "66",
+        "descricao": "ARRENDAMENTO OPERACIONAL COM PRAZO SUPERIOR A 360 DIAS E COM AMORTIZACAO INFERIOR A 75% DO VALOR DO BEM",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "67",
+        "descricao": "ARRENDAMENTO OPERACIONAL COM PRAZO DE ATE' 360 DIAS E COM AMORTIZACAO INFERIOR A 75% DO VALOR DO BEM",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "70",
+        "descricao": "ARRENDAMENTO SIMPLES - SEM OPCAO DE COMPRA - ALUGUEL OU AFRETAMENTO - PRAZO SUPERIOR A 360 DIAS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "71",
+        "descricao": "ARRENDAMENTO SIMPLES - SEM OPCAO DE COMPRA - ALUGUEL OU AFRETAMENTO - PRAZO DE ATE' 360 DIAS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "99",
+        "descricao": "OUTRAS IMPORTACOES SEM COBERTURA CAMBIAL",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    }
+]

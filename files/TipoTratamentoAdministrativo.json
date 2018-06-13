@@ -1,0 +1,140 @@
+[
+    {
+        "codigo": "01",
+        "descricao": "MERCADORIA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "02",
+        "descricao": "MERCADORIA COM CONTROLE DE COTA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "03",
+        "descricao": "MERCADORIA NEGOCIACAO",
+        "inicioVigencia": "21/01/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "04",
+        "descricao": "MERCADORIA COMERCIALIZACAO",
+        "inicioVigencia": "21/01/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "05",
+        "descricao": "MERCADORIA COM RESTRICAO DE LOCAL DE ENTRADA NO PAIS",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "06",
+        "descricao": "MERCADORIA POR PAIS",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "07",
+        "descricao": "PAIS",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "08",
+        "descricao": "PAIS POR MERCADORIA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "09",
+        "descricao": "PAIS E MERCADORIA COM CONTROLE DE COTA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "10",
+        "descricao": "MERCADORIA DE PAIS ALADI COM CONTROLE DE COTA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "12",
+        "descricao": "MERCADORIA DE PAIS ALADI COM RESTRICAO DE LOCAL DE ENTRADA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "14",
+        "descricao": "IMPORTADOR",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "15",
+        "descricao": "MOTIVO DA IMPORTACAO SEM COBERTURA CAMBIAL",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "16",
+        "descricao": "REGIME TRIBUTARIO / FUNDAMENTO LEGAL DO REGIME",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "17",
+        "descricao": "INCOTERM",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "18",
+        "descricao": "MATERIAL USADO",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "19",
+        "descricao": "BENS SOB ENCOMENDA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "20",
+        "descricao": "COMMODITIE",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "21",
+        "descricao": "DESTAQUE DE MERCADORIA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "22",
+        "descricao": "REGIME TRIBUTARIO/FUNDAMENTO LEGAL DO REGIME E MERCADORIA",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "23",
+        "descricao": "REGIME TRIBUTARIO/FUNDAMENTO LEGAL DO REGIME E IMPORTADOR",
+        "inicioVigencia": "25/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "24",
+        "descricao": "TSP",
+        "inicioVigencia": "17/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "25",
+        "descricao": "MERCADORIA/IMPORTADOR",
+        "inicioVigencia": "23/10/2001",
+        "fimVigencia": "-"
+    }
+]
