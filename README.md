@@ -100,7 +100,7 @@ Fonte: https://www35.receita.fazenda.gov.br/tabaduaneiras-web
 ### U
 - [x] UNIDADE DA FEDERAÇÃO [csv](files/UnidadeFederacao.csv) | [xml](files/UnidadeFederacao.xml) | [json](files/UnidadeFederacao.json)
 - [x] UNIDADE DE MEDIDA DO MERCOSUL [csv](files/UnidadeMedidaMercosul.csv) | [xml](files/UnidadeMedidaMercosul.xml) | [json](files/UnidadeMedidaMercosul.json)
-- [x] UNIDADE LOCAL RFB  [csv](files/UnidadeLocalRfb.csv) | [xml](files/UnidadeLocalRfb.xml)
+- [x] UNIDADE LOCAL RFB  [csv](files/UnidadeLocalRfb.csv) | [xml](files/UnidadeLocalRfb.xml)  | [json](files/UnidadeLocalRfb.json)
 
 ### V
 - [x] VIA DE TRANSPORTE  [csv](files/ViaTransporte.csv) | [xml](files/ViaTransporte.xml) | [json](files/ViaTransporte.json)
