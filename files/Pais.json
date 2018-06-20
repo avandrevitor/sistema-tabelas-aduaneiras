@@ -1,0 +1,1514 @@
+[
+    {
+        "codigo": "994",
+        "nome": "A DESIGNAR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "nome": "AFEGANISTAO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "756",
+        "nome": "AFRICA DO SUL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "15",
+        "nome": "ALAND, ILHAS",
+        "inicioVigencia": "07/12/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "17",
+        "nome": "ALBANIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "23",
+        "nome": "ALEMANHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "37",
+        "nome": "ANDORRA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "40",
+        "nome": "ANGOLA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "41",
+        "nome": "ANGUILLA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "43",
+        "nome": "ANTIGUA E BARBUDA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "47",
+        "nome": "ANTILHAS HOLANDESAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "53",
+        "nome": "ARABIA SAUDITA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "59",
+        "nome": "ARGELIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "63",
+        "nome": "ARGENTINA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "64",
+        "nome": "ARMENIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "65",
+        "nome": "ARUBA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "69",
+        "nome": "AUSTRALIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "72",
+        "nome": "AUSTRIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "73",
+        "nome": "AZERBAIJAO, REPUBLICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "77",
+        "nome": "BAHAMAS, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "80",
+        "nome": "BAHREIN, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "995",
+        "nome": "BANCOS CENTRAIS",
+        "inicioVigencia": "05/11/2001",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "81",
+        "nome": "BANGLADESH",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "83",
+        "nome": "BARBADOS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "85",
+        "nome": "BELARUS, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "87",
+        "nome": "BELGICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "88",
+        "nome": "BELIZE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "229",
+        "nome": "BENIN",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "90",
+        "nome": "BERMUDAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "97",
+        "nome": "BOLIVIA, ESTADO PLURINACIONAL DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "99",
+        "nome": "BONAIRE, SAINT EUSTATIUS E SABA",
+        "inicioVigencia": "07/12/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "98",
+        "nome": "BOSNIA-HERZEGOVINA (REPUBLICA DA)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "101",
+        "nome": "BOTSUANA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "102",
+        "nome": "BOUVET, ILHA",
+        "inicioVigencia": "07/12/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "105",
+        "nome": "BRASIL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "108",
+        "nome": "BRUNEI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "111",
+        "nome": "BULGARIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "31",
+        "nome": "BURKINA FASO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "115",
+        "nome": "BURUNDI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "119",
+        "nome": "BUTAO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "127",
+        "nome": "CABO VERDE, REPUBLICA DE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "145",
+        "nome": "CAMAROES",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "141",
+        "nome": "CAMBOJA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "149",
+        "nome": "CANADA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "151",
+        "nome": "CANARIAS, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "154",
+        "nome": "CATAR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "137",
+        "nome": "CAYMAN, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "153",
+        "nome": "CAZAQUISTAO, REPUBLICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "788",
+        "nome": "CHADE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "158",
+        "nome": "CHILE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "160",
+        "nome": "CHINA, REPUBLICA POPULAR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "163",
+        "nome": "CHIPRE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "511",
+        "nome": "CHRISTMAS,ILHA (NAVIDAD)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "741",
+        "nome": "CINGAPURA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "165",
+        "nome": "COCOS(KEELING),ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "169",
+        "nome": "COLOMBIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "173",
+        "nome": "COMORES, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "177",
+        "nome": "CONGO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "888",
+        "nome": "CONGO, REPUBLICA DEMOCRATICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "183",
+        "nome": "COOK, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "187",
+        "nome": "COREIA (DO NORTE), REP.POP.DEMOCRATICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "190",
+        "nome": "COREIA (DO SUL), REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "193",
+        "nome": "COSTA DO MARFIM",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "196",
+        "nome": "COSTA RICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "198",
+        "nome": "COVEITE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "195",
+        "nome": "CROACIA (REPUBLICA DA)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "199",
+        "nome": "CUBA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "200",
+        "nome": "CURACAO",
+        "inicioVigencia": "07/12/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "232",
+        "nome": "DINAMARCA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "783",
+        "nome": "DJIBUTI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "235",
+        "nome": "DOMINICA,ILHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "240",
+        "nome": "EGITO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "687",
+        "nome": "EL SALVADOR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "244",
+        "nome": "EMIRADOS ARABES UNIDOS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "239",
+        "nome": "EQUADOR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "243",
+        "nome": "ERITREIA",
+        "inicioVigencia": "17/07/2006",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "247",
+        "nome": "ESLOVACA, REPUBLICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "246",
+        "nome": "ESLOVENIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "245",
+        "nome": "ESPANHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "249",
+        "nome": "ESTADOS UNIDOS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "251",
+        "nome": "ESTONIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "253",
+        "nome": "ETIOPIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "255",
+        "nome": "FALKLAND (ILHAS MALVINAS)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "259",
+        "nome": "FEROE, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "870",
+        "nome": "FIJI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "267",
+        "nome": "FILIPINAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "271",
+        "nome": "FINLANDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "161",
+        "nome": "FORMOSA (TAIWAN)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "275",
+        "nome": "FRANCA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "281",
+        "nome": "GABAO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "285",
+        "nome": "GAMBIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "289",
+        "nome": "GANA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "291",
+        "nome": "GEORGIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "293",
+        "nome": "GIBRALTAR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "297",
+        "nome": "GRANADA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "301",
+        "nome": "GRECIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "305",
+        "nome": "GROENLANDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "309",
+        "nome": "GUADALUPE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "313",
+        "nome": "GUAM",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "317",
+        "nome": "GUATEMALA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "337",
+        "nome": "GUIANA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "325",
+        "nome": "GUIANA FRANCESA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "329",
+        "nome": "GUINE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "334",
+        "nome": "GUINE-BISSAU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "331",
+        "nome": "GUINE-EQUATORIAL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "341",
+        "nome": "HAITI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "345",
+        "nome": "HONDURAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "351",
+        "nome": "HONG KONG",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "355",
+        "nome": "HUNGRIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "357",
+        "nome": "IEMEN",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "452",
+        "nome": "ILHA DA MADEIRA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "150",
+        "nome": "ILHAS DO CANAL (JERSEY E GUERNSEY)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "361",
+        "nome": "INDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "365",
+        "nome": "INDONESIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "372",
+        "nome": "IRA, REPUBLICA ISLAMICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "369",
+        "nome": "IRAQUE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "375",
+        "nome": "IRLANDA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "379",
+        "nome": "ISLANDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "383",
+        "nome": "ISRAEL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "386",
+        "nome": "ITALIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "391",
+        "nome": "JAMAICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "399",
+        "nome": "JAPAO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "396",
+        "nome": "JOHNSTON, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "403",
+        "nome": "JORDANIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "411",
+        "nome": "KIRIBATI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "420",
+        "nome": "LAOS, REP.POP.DEMOCR.DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "423",
+        "nome": "LEBUAN,ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "426",
+        "nome": "LESOTO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "427",
+        "nome": "LETONIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "431",
+        "nome": "LIBANO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "434",
+        "nome": "LIBERIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "438",
+        "nome": "LIBIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "440",
+        "nome": "LIECHTENSTEIN",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "442",
+        "nome": "LITUANIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "445",
+        "nome": "LUXEMBURGO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "447",
+        "nome": "MACAU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "449",
+        "nome": "MACEDONIA, ANT.REP.IUGOSLAVA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "450",
+        "nome": "MADAGASCAR",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "455",
+        "nome": "MALASIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "458",
+        "nome": "MALAVI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "461",
+        "nome": "MALDIVAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "464",
+        "nome": "MALI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "467",
+        "nome": "MALTA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "359",
+        "nome": "MAN, ILHA DE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "472",
+        "nome": "MARIANAS DO NORTE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "474",
+        "nome": "MARROCOS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "476",
+        "nome": "MARSHALL,ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "477",
+        "nome": "MARTINICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "485",
+        "nome": "MAURICIO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "488",
+        "nome": "MAURITANIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "493",
+        "nome": "MEXICO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "93",
+        "nome": "MIANMAR (BIRMANIA)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "499",
+        "nome": "MICRONESIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "490",
+        "nome": "MIDWAY, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "505",
+        "nome": "MOCAMBIQUE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "494",
+        "nome": "MOLDAVIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "495",
+        "nome": "MONACO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "497",
+        "nome": "MONGOLIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "498",
+        "nome": "MONTENEGRO",
+        "inicioVigencia": "03/06/2006",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "501",
+        "nome": "MONTSERRAT,ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "507",
+        "nome": "NAMIBIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "508",
+        "nome": "NAURU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "517",
+        "nome": "NEPAL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "521",
+        "nome": "NICARAGUA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "525",
+        "nome": "NIGER",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "528",
+        "nome": "NIGERIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "531",
+        "nome": "NIUE,ILHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "535",
+        "nome": "NORFOLK,ILHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "538",
+        "nome": "NORUEGA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "542",
+        "nome": "NOVA CALEDONIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "548",
+        "nome": "NOVA ZELANDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "556",
+        "nome": "OMA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "997",
+        "nome": "ORGANIZACOES INTERNACIONAIS",
+        "inicioVigencia": "05/11/2001",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "566",
+        "nome": "PACIFICO,ILHAS DO (POSSESSAO DOS EUA)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "573",
+        "nome": "PAISES BAIXOS (HOLANDA)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "575",
+        "nome": "PALAU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "578",
+        "nome": "PALESTINA",
+        "inicioVigencia": "25/01/2011",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "580",
+        "nome": "PANAMA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "545",
+        "nome": "PAPUA NOVA GUINE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "576",
+        "nome": "PAQUISTAO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "586",
+        "nome": "PARAGUAI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "589",
+        "nome": "PERU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "593",
+        "nome": "PITCAIRN,ILHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "599",
+        "nome": "POLINESIA FRANCESA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "603",
+        "nome": "POLONIA, REPUBLICA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "611",
+        "nome": "PORTO RICO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "607",
+        "nome": "PORTUGAL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "990",
+        "nome": "PROVISAO DE NAVIOS E AERONAVES",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "623",
+        "nome": "QUENIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "625",
+        "nome": "QUIRGUIZ, REPUBLICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "628",
+        "nome": "REINO UNIDO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "640",
+        "nome": "REPUBLICA CENTRO-AFRICANA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "647",
+        "nome": "REPUBLICA DOMINICANA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "660",
+        "nome": "REUNIAO, ILHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "670",
+        "nome": "ROMENIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "675",
+        "nome": "RUANDA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "676",
+        "nome": "RUSSIA, FEDERACAO DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "685",
+        "nome": "SAARA OCIDENTAL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "677",
+        "nome": "SALOMAO, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "690",
+        "nome": "SAMOA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "691",
+        "nome": "SAMOA AMERICANA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "697",
+        "nome": "SAN MARINO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "710",
+        "nome": "SANTA HELENA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "715",
+        "nome": "SANTA LUCIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "693",
+        "nome": "SAO BARTOLOMEU",
+        "inicioVigencia": "07/12/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "695",
+        "nome": "SAO CRISTOVAO E NEVES,ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "700",
+        "nome": "SAO PEDRO E MIQUELON",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "720",
+        "nome": "SAO TOME E PRINCIPE, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "705",
+        "nome": "SAO VICENTE E GRANADINAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "728",
+        "nome": "SENEGAL",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "735",
+        "nome": "SERRA LEOA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "737",
+        "nome": "SERVIA",
+        "inicioVigencia": "03/06/2006",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "731",
+        "nome": "SEYCHELLES",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "699",
+        "nome": "SINT MAARTEN",
+        "inicioVigencia": "07/12/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "744",
+        "nome": "SIRIA, REPUBLICA ARABE DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "748",
+        "nome": "SOMALIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "750",
+        "nome": "SRI LANKA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "754",
+        "nome": "SUAZILANDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "759",
+        "nome": "SUDAO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "760",
+        "nome": "SUDAO DO SUL",
+        "inicioVigencia": "27/05/2013",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "764",
+        "nome": "SUECIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "767",
+        "nome": "SUICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "770",
+        "nome": "SURINAME",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "772",
+        "nome": "TADJIQUISTAO, REPUBLICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "776",
+        "nome": "TAILANDIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "780",
+        "nome": "TANZANIA, REP.UNIDA DA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "791",
+        "nome": "TCHECA, REPUBLICA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "782",
+        "nome": "TERRITORIO BRIT.OC.INDICO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "795",
+        "nome": "TIMOR LESTE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "800",
+        "nome": "TOGO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "810",
+        "nome": "TONGA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "805",
+        "nome": "TOQUELAU,ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "815",
+        "nome": "TRINIDAD E TOBAGO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "820",
+        "nome": "TUNISIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "823",
+        "nome": "TURCAS E CAICOS,ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "824",
+        "nome": "TURCOMENISTAO, REPUBLICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "827",
+        "nome": "TURQUIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "828",
+        "nome": "TUVALU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "831",
+        "nome": "UCRANIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "833",
+        "nome": "UGANDA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "845",
+        "nome": "URUGUAI",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "847",
+        "nome": "UZBEQUISTAO, REPUBLICA DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "551",
+        "nome": "VANUATU",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "848",
+        "nome": "VATICANO, EST.DA CIDADE DO",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "850",
+        "nome": "VENEZUELA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "858",
+        "nome": "VIETNA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "863",
+        "nome": "VIRGENS,ILHAS (BRITANICAS)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "866",
+        "nome": "VIRGENS,ILHAS (E.U.A.)",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "873",
+        "nome": "WAKE, ILHA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "875",
+        "nome": "WALLIS E FUTUNA, ILHAS",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "890",
+        "nome": "ZAMBIA",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "665",
+        "nome": "ZIMBABUE",
+        "inicioVigencia": "01/01/1901",
+        "fimVigencia": "-"
+    }
+]

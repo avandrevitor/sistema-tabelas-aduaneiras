@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": "10",
+        "descricao": "PAGAMENTO ANTECIPADO TOTAL OU PREPONDERANTE",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "20",
+        "descricao": "PAGAMENTO 'A VISTA TOTAL OU PREPONDERANTE - CARTA DE CREDITO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "21",
+        "descricao": "PAGAMENTO 'A VISTA TOTAL OU PREPONDERANTE - OUTROS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "30",
+        "descricao": "FINANCIAMENTO DO FORNECEDOR (SUPPLIER'S CREDIT) - CARTA DE CREDITO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "31",
+        "descricao": "FINANCIAMENTO DO FORNECEDOR (SUPPLIER'S CREDIT) - OUTROS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "40",
+        "descricao": "FINANCIAMENTO DE BANCO ESTRANGEIRO AO IMPORTADOR (BUYER'S CREDIT) - CARTA DE CREDITO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "41",
+        "descricao": "FINANCIAMENTO DE BANCO ESTRANGEIRO AO IMPORTADOR (BUYER'S CREDIT) - OUTROS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "50",
+        "descricao": "LINHA DE CREDITO DE BANCO ESTRANGEIRO A BANCO BRASILEIRO - CARTA DE CREDITO",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "51",
+        "descricao": "LINHA DE CREDITO DE BANCO ESTRANGEIRO A BANCO BRASILEIRO - OUTROS",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "52",
+        "descricao": "FINANCIAMENTO DE INSTITUICAO NAO FINANCEIRA AO IMPORTADOR",
+        "inicioVigencia": "15/03/1996",
+        "fimVigencia": "-"
+    }
+]

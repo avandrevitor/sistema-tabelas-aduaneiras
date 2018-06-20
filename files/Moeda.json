@@ -1,0 +1,980 @@
+[
+    {
+        "codigo": "005",
+        "descricao": "AFEGANE/AFEGANIST",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "009",
+        "descricao": "BIRR/ETIOPIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "015",
+        "descricao": "BATH",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "020",
+        "descricao": "BALBOA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "026",
+        "descricao": "BOLIVAR FORTE/VEN",
+        "inicioVigencia": "02/01/2008",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "030",
+        "descricao": "BOLIVIANO/BOLIVIA",
+        "inicioVigencia": "20/09/1993",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "035",
+        "descricao": "CEDI",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "040",
+        "descricao": "COLON COSTARRIQUENHO",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "045",
+        "descricao": "COLON SALVADORENHO",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "051",
+        "descricao": "CORDOBA OURO",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "055",
+        "descricao": "COROA DINAM/DINAM",
+        "inicioVigencia": "01/07/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "060",
+        "descricao": "COROA ISLANDESA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "065",
+        "descricao": "COROA NORUE/NORUE",
+        "inicioVigencia": "01/07/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "070",
+        "descricao": "COROA SUECA/SUECI",
+        "inicioVigencia": "16/04/2002",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "075",
+        "descricao": "COROA TCHECA",
+        "inicioVigencia": "29/03/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "090",
+        "descricao": "DALASI",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "095",
+        "descricao": "DINAR ARGELINO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "100",
+        "descricao": "DINAR COVEITEANO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "105",
+        "descricao": "DINAR DE BAHREIN",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "115",
+        "descricao": "DINAR/IRAQUE",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "125",
+        "descricao": "DINAR JORDANIANO",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "130",
+        "descricao": "DINAR LIBIO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "132",
+        "descricao": "DINAR/MACEDONIA",
+        "inicioVigencia": "31/05/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "133",
+        "descricao": "DINAR SERVIO/SERV",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "134",
+        "descricao": "DINAR/SUDAO",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "135",
+        "descricao": "DINAR TUNISIANO",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "136",
+        "descricao": "LIBRA SUL SUDANESA",
+        "inicioVigencia": "17/02/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "138",
+        "descricao": "DIREITO ESPECIAL",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "139",
+        "descricao": "DIRHAM DE MARROCOS",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "145",
+        "descricao": "DIRHAM EMIR.ARABES",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "148",
+        "descricao": "DOBRA/S.TOME PRIN",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "150",
+        "descricao": "DOLAR AUSTRALIANO",
+        "inicioVigencia": "01/07/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "155",
+        "descricao": "DOLAR/BAHAMAS",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "160",
+        "descricao": "DOLAR/BERMUDAS",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "165",
+        "descricao": "DOLAR CANADENSE",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "170",
+        "descricao": "DOLAR DA GUIANA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "173",
+        "descricao": "DÓLAR DA NAMÍBIA",
+        "inicioVigencia": "08/04/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "175",
+        "descricao": "DOLAR DE BARBADOS",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "180",
+        "descricao": "DOLAR/BELIZE",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "185",
+        "descricao": "DOLAR BRUNEI",
+        "inicioVigencia": "09/11/2010",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "190",
+        "descricao": "DOLAR/CAYMAN",
+        "inicioVigencia": "31/08/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "195",
+        "descricao": "DOLAR DE CINGAPURA",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "197",
+        "descricao": "UNIDADE DE FOMENTO DO CHILE",
+        "inicioVigencia": "17/02/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "200",
+        "descricao": "DOLAR/FIJI",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "205",
+        "descricao": "DOLAR DE HONG-KONG",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "210",
+        "descricao": "DOLAR DE TRINIDADE",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "215",
+        "descricao": "DOLAR DO CARIBE O",
+        "inicioVigencia": "24/04/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "217",
+        "descricao": "DOLAR DE ZIMBABUE",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "220",
+        "descricao": "DOLAR DOS EUA",
+        "inicioVigencia": "03/04/2002",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "230",
+        "descricao": "DOLAR JAMAICANO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "235",
+        "descricao": "DOLAR/LIBERIA",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "245",
+        "descricao": "DOLAR/NOVA ZELAND",
+        "inicioVigencia": "01/07/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "250",
+        "descricao": "DOLAR IL SALOMAO",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "255",
+        "descricao": "DOLAR/SURINAME",
+        "inicioVigencia": "06/09/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "260",
+        "descricao": "DONGUE/VIETNAN",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "275",
+        "descricao": "DRAM/ARMENIA REP",
+        "inicioVigencia": "05/03/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "295",
+        "descricao": "ESCUDO CABO VERDE",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "325",
+        "descricao": "FLORIM/ANT. HOLAN",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "328",
+        "descricao": "FLORIM/ARUBA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "345",
+        "descricao": "FORINT",
+        "inicioVigencia": "23/12/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "363",
+        "descricao": "FRANCO CONGOLES",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "365",
+        "descricao": "FRANCO DE BURUNDI",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "368",
+        "descricao": "FRANCO/COMORES",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "370",
+        "descricao": "FRANCO/COM.FIN.AF",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "372",
+        "descricao": "FRANCO/CFA OESTE",
+        "inicioVigencia": "07/01/2010",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "380",
+        "descricao": "FRANCO COL FRANC",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "390",
+        "descricao": "FRANCO/DJIBUTI",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "398",
+        "descricao": "FRANCO GUINÉ",
+        "inicioVigencia": "21/01/2013",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "406",
+        "descricao": "ARIARY MADAGASCAR",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "420",
+        "descricao": "FRANCO DE RUANDA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "425",
+        "descricao": "FRANCO SUICO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "440",
+        "descricao": "GOURDE",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "450",
+        "descricao": "GUARANI",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "460",
+        "descricao": "HRYVNIA UCRANIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "470",
+        "descricao": "IENE",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "482",
+        "descricao": "LARI GEORGIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "490",
+        "descricao": "LEK ALBANIA REP",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "495",
+        "descricao": "LEMPIRA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "500",
+        "descricao": "LEONE",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "503",
+        "descricao": "LEU/MOLDAVIA, REP",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "506",
+        "descricao": "NOVO LEU/ROMENIA",
+        "inicioVigencia": "28/04/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "510",
+        "descricao": "LEV/BULGARIA, REP",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "530",
+        "descricao": "LIBRA/GIBRALTAR",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "535",
+        "descricao": "LIBRA EGIPCIA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "540",
+        "descricao": "LIBRA ESTERLINA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "545",
+        "descricao": "LIBRA/FALKLAND",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "560",
+        "descricao": "LIBRA LIBANESA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "570",
+        "descricao": "LIBRA/STA HELENA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "575",
+        "descricao": "LIBRA SIRIA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "585",
+        "descricao": "LILANGENI/SUAZIL",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "603",
+        "descricao": "LOTI/LESOTO",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "607",
+        "descricao": "MANAT",
+        "inicioVigencia": "03/08/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "608",
+        "descricao": "NOVO MANAT TURCOM",
+        "inicioVigencia": "29/01/2010",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "612",
+        "descricao": "MARCO CONV BOSNIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "622",
+        "descricao": "NOVA METICAL/MOCA",
+        "inicioVigencia": "18/07/2006",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "625",
+        "descricao": "NAKFA/ERITREIA",
+        "inicioVigencia": "27/09/2002",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "630",
+        "descricao": "NAIRA/NIGERIA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "635",
+        "descricao": "CUANZA/ANGOLA",
+        "inicioVigencia": "04/08/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "640",
+        "descricao": "NOVO DOLAR TAIWAN",
+        "inicioVigencia": "04/09/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "642",
+        "descricao": "NOVA LIRA/TURQUIA",
+        "inicioVigencia": "18/07/2006",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "660",
+        "descricao": "NOVO SOL/PERU",
+        "inicioVigencia": "01/02/1991",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "665",
+        "descricao": "NGULTRUM/BUTAO",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "670",
+        "descricao": "UGUIA MAURITANIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "680",
+        "descricao": "PAANGA",
+        "inicioVigencia": "24/07/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "685",
+        "descricao": "PATACA/MACAU",
+        "inicioVigencia": "16/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "706",
+        "descricao": "PESO ARGENTINO",
+        "inicioVigencia": "13/03/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "715",
+        "descricao": "PESO CHILENO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "720",
+        "descricao": "PESO COLOMBIANO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "725",
+        "descricao": "PESO CUBANO",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "730",
+        "descricao": "PESO DOMINICANO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "735",
+        "descricao": "PESO FILIPINO",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "738",
+        "descricao": "PESO/GUINE BISSAU",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "741",
+        "descricao": "PESO/MEXICO",
+        "inicioVigencia": "06/08/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "745",
+        "descricao": "PESO/URUGUAIO",
+        "inicioVigencia": "14/08/2002",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "755",
+        "descricao": "PULA/BOTSWANA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "760",
+        "descricao": "QUACHA DE MALAVI",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "766",
+        "descricao": "QUACHA ZAMBIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "770",
+        "descricao": "QUETZAL",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "775",
+        "descricao": "QUIATE/BIRMANIA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "776",
+        "descricao": "KARBOVANETS",
+        "inicioVigencia": "03/08/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "778",
+        "descricao": "KINA/PAPUA N GUIN",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "779",
+        "descricao": "KUNA/CROACIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "780",
+        "descricao": "QUIPE/LAOS, REP",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "785",
+        "descricao": "RANDE",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "790",
+        "descricao": "REAL/BRASIL",
+        "inicioVigencia": "15/04/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "795",
+        "descricao": "IUAN RENMIMBI",
+        "inicioVigencia": "02/06/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "796",
+        "descricao": "RENMINBI HONG KONG",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "800",
+        "descricao": "RIAL DE CATAR",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "805",
+        "descricao": "RIAL/OMA",
+        "inicioVigencia": "06/01/2000",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "810",
+        "descricao": "RIAL IEMENITA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "815",
+        "descricao": "RIAL/IRAN, REP",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "820",
+        "descricao": "RIAL SAUDITA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "825",
+        "descricao": "RIEL/CAMBOJA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "828",
+        "descricao": "RINGGIT (MALASIA)",
+        "inicioVigencia": "25/07/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "830",
+        "descricao": "RUBLO/RÚSSIA",
+        "inicioVigencia": "17/11/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "831",
+        "descricao": "RUBRO BELARUS",
+        "inicioVigencia": "17/02/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "835",
+        "descricao": "SOMONI TADJIQUIST",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "840",
+        "descricao": "RUPIA DE MAURICIO",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "845",
+        "descricao": "RUPIA DE NEPAL",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "850",
+        "descricao": "RUPIA/SEYCHELES",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "855",
+        "descricao": "RUPIA DE SRILANKA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "860",
+        "descricao": "RUPIA INDIANA",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "865",
+        "descricao": "RUPIA DA INDONESIA",
+        "inicioVigencia": "30/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "870",
+        "descricao": "RUFIA/MALDIVAS",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "875",
+        "descricao": "RUPIA PAQUISTANES",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "880",
+        "descricao": "SHEKEL",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "892",
+        "descricao": "SOM QUIRGUISTAO",
+        "inicioVigencia": "29/01/2010",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "893",
+        "descricao": "SOM/UZBEQUISTAO",
+        "inicioVigencia": "30/09/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "905",
+        "descricao": "TACA/BANGLADESH",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "912",
+        "descricao": "TALA SAMOA",
+        "inicioVigencia": "17/02/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "913",
+        "descricao": "TENGE/CASAQISTAO",
+        "inicioVigencia": "01/06/2005",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "915",
+        "descricao": "TUGRIK/MONGOLIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "918",
+        "descricao": "UNID.MONET.EUROP.",
+        "inicioVigencia": "26/12/1983",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "920",
+        "descricao": "VATU VANUATU",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "925",
+        "descricao": "WON/COREIA NORTE",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "930",
+        "descricao": "WON",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "946",
+        "descricao": "XELIM/TANZANIA",
+        "inicioVigencia": "01/08/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "950",
+        "descricao": "XELIM DE QUENIA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "955",
+        "descricao": "XELIM DE UGANDA",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "960",
+        "descricao": "XELIM SOMALIANO",
+        "inicioVigencia": "07/12/1984",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "975",
+        "descricao": "ZLOTY/POLONIA",
+        "inicioVigencia": "15/10/2010",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "978",
+        "descricao": "EURO/COM.EUROPEIA",
+        "inicioVigencia": "09/08/2001",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "998",
+        "descricao": "DOLAR OURO",
+        "inicioVigencia": "31/03/1997",
+        "fimVigencia": "-"
+    }
+]

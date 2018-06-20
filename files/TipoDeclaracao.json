@@ -1,0 +1,170 @@
+[
+    {
+        "codigo": "01",
+        "descricao": "CONSUMO",
+        "inicioVigencia": "30/01/1997",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "02",
+        "descricao": "ADMISSAO EM ENTREPOSTO ADUANEIRO",
+        "inicioVigencia": "29/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "03",
+        "descricao": "ADMISSAO EM EIZOF - ENTREPOSTO INTERNACIONAL DA ZFM",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "04",
+        "descricao": "ADMISSAO EM ENTREPOSTO INDUSTRIAL",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "05",
+        "descricao": "ADMISSAO TEMPORARIA",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "06",
+        "descricao": "ADMISSAO NA ZFM - ZONA FRANCA DE MANAUS",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "07",
+        "descricao": "ADMISSAO EM LOJA FRANCA",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "08",
+        "descricao": "ADMISSAO EM ALC - AREA DE LIVRE COMERCIO",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "09",
+        "descricao": "ADMISSAO EM DAD - DEPOSITO ADUANEIRO DE DISTRIBUICAO",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "10",
+        "descricao": "ADMISSAO EM DE/DAF",
+        "inicioVigencia": "26/03/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "11",
+        "descricao": "ADMISSAO EM ZPE - ZONA DE PROCESSAMENTO DE EXPORTACAO",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "12",
+        "descricao": "CONSUMO E ADMISSAO TEMPORARIA",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "descricao": "NACIONALIZACAO DE ADMISSAO TEMPORARIA",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "14",
+        "descricao": "NACIONALIZACAO DE ENTREPOSTO ADUANEIRO",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "15",
+        "descricao": "SAIDA DE EIZOF - ENTREPOSTO INTERNACIONAL DA ZFM",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "16",
+        "descricao": "SAIDA DE ENTREPOSTO INDUSTRIAL",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "17",
+        "descricao": "NACIONALIZACAO DE DEA - DEPOSITO ESPECIAL ALFANDEGADO",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "18",
+        "descricao": "NACIONALIZACAO DE REGIME ADUANEIRO - GERAL",
+        "inicioVigencia": "03/05/2007",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "19",
+        "descricao": "INTERNACAO DA ZFM - PI (PRODUTO INDUSTRIALIZADO)",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "20",
+        "descricao": "INTERNACAO DA ZFM - PE (PRODUTO ESTRANGEIRO)",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "21",
+        "descricao": "INTERNACAO DE ALC - AREA DE LIVRE COMERCIO",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "22",
+        "descricao": "INTERNACAO DA ZPE - ZONA DE PROCESSAMENTO DE EXPORTACAO",
+        "inicioVigencia": "19/11/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "23",
+        "descricao": "TRANSFERENCIA DA ZFM (PRODUTO INDUSTRIAL.) PARA ALC",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "24",
+        "descricao": "TRANSFERENCIA DA ZFM (PRODUTO ESTRANGEIRO) PARA ALC",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "25",
+        "descricao": "TRANSFERENCIA DA ZFM (PRODUTO INDUSTRIAL.) PARA ZPE",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "26",
+        "descricao": "TRANSFERENCIA DA ZFM (PRODUTO ESTRANGEIRO) PARA ZPE",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "27",
+        "descricao": "TRANSFERENCIA DA ALC (PRODUTO ESTRANGEIRO) PARA ZFM",
+        "inicioVigencia": "30/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "28",
+        "descricao": "NACIONALIZACAO DE DE - DEPOSITO ESPECIAL",
+        "inicioVigencia": "24/03/2006",
+        "fimVigencia": "-"
+    }
+]

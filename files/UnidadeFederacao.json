@@ -1,0 +1,176 @@
+[
+    {
+        "codigo": "11",
+        "descricao": "RONDONIA-RO",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "12",
+        "descricao": "ACRE-AC",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "descricao": "AMAZONAS-AM",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "14",
+        "descricao": "RORAIMA-RR",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "15",
+        "descricao": "PARA-PA",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "16",
+        "descricao": "AMAPA-AP",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "17",
+        "descricao": "TOCANTINS-TO",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "21",
+        "descricao": "MARANHAO-MA",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "22",
+        "descricao": "PIAUI-PI",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "23",
+        "descricao": "CEARA-CE",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "24",
+        "descricao": "RIO GRANDE DO NORTE-RN",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "25",
+        "descricao": "PARAIBA-PB",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "26",
+        "descricao": "PERNAMBUCO-PE",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "27",
+        "descricao": "ALAGOAS-AL",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "31",
+        "descricao": "SERGIPE-SE",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "32",
+        "descricao": "BAHIA-BA",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "33",
+        "descricao": "MINAS GERAIS-MG",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "34",
+        "descricao": "ESPIRITO SANTO-ES",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "36",
+        "descricao": "RIO DE JANEIRO-RJ",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "41",
+        "descricao": "SAO PAULO-SP",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "42",
+        "descricao": "PARANA-PR",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "44",
+        "descricao": "SANTA CATARINA-SC",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "45",
+        "descricao": "RIO GRANDE DO SUL-RS",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "52",
+        "descricao": "MATO GROSSO-MT",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "53",
+        "descricao": "GOIAS-GO",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "54",
+        "descricao": "DISTRITO FEDERAL-DF",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "55",
+        "descricao": "MATO GROSSO DO SUL-MS",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "95",
+        "descricao": "NAO DECLARADO-ND",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "97",
+        "descricao": "REEXPORTACAO-RE",
+        "inicioVigencia": "01/03/1994",
+        "fimVigencia": "-"
+    }
+]
