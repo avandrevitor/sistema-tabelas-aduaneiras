@@ -1,0 +1,68 @@
+[
+    {
+        "codigo": "01",
+        "descricao": "IMPORTACAO DEFINITIVA - PESSOA FISICA COM COBERTURA CAMBIAL",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "02",
+        "descricao": "IMPORTACAO DEFINITIVA - PESSOA FISICA SEM COBERTURA CAMBIAL",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "03",
+        "descricao": "IMPORTACAO DEFINITIVA - PESSOA JURID. COM COBERTURA CAMBIAL",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "04",
+        "descricao": "IMPORTACAO DEFINITIVA - PESSOA JURID. SEM COBERTURA CAMBIAL",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "05",
+        "descricao": "IMPORTACAO DEFINITIVA - DOACAO A ORGAO,AUTARQUIA OU FUNDACAO PUBLICA",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "06",
+        "descricao": "IMPORTACAO DEFINITIVA - DOACAO A INSTITUICAO DE ASSISTENCIA SOCIAL",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "09",
+        "descricao": "ADMISSAO TEMPORARIA",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "10",
+        "descricao": "BAGAGEM DESACOMPANHADA",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "11",
+        "descricao": "REIMPORTACAO / RETORNO AO PAIS",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "descricao": "INTERNACAO DE ZFM-PE (PRODUTO ESTRANGEIRO)",
+        "inicioVigencia": "05/01/2000",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "14",
+        "descricao": "INTERNACAO DE ZFM-PI (PRODUTO INDUSTRIALIZADO)",
+        "inicioVigencia": "05/01/2000",
+        "fimVigencia": "-"
+    }
+]

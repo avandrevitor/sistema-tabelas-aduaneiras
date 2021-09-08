@@ -1,0 +1,368 @@
+[
+    {
+        "codigo": "01",
+        "descricao": "AMARRADO/ATADO/FEIXE",
+        "inicioVigencia": "05/07/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "02",
+        "descricao": "BARRICA DE FERRO",
+        "inicioVigencia": "02/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "03",
+        "descricao": "BARRICA DE FIBRA DE VIDRO",
+        "inicioVigencia": "02/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "04",
+        "descricao": "BARRICA DE PAPELAO",
+        "inicioVigencia": "02/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "05",
+        "descricao": "BARRICA DE PLASTICO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "06",
+        "descricao": "BARRICA DE OUTROS MATERIAIS",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "07",
+        "descricao": "BAU DE MADEIRA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "08",
+        "descricao": "BAU DE METAL",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "09",
+        "descricao": "BAU DE OUTROS MATERIAIS",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "10",
+        "descricao": "BIG BAG",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "11",
+        "descricao": "BLOCO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "12",
+        "descricao": "BOBINA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "descricao": "BOMBONA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "14",
+        "descricao": "BOTIJAO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "15",
+        "descricao": "CAIXA CORRUGADA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "16",
+        "descricao": "CAIXA DE ISOPOR",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "17",
+        "descricao": "CAIXA DE MADEIRA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "18",
+        "descricao": "CAIXA DE METAL",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "19",
+        "descricao": "CAIXA DE PAPELAO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "20",
+        "descricao": "CAIXA DE PLASTICO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "21",
+        "descricao": "CAIXA DE OUTROS MATERIAIS",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "22",
+        "descricao": "CANUDO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "23",
+        "descricao": "CARRETEL",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "24",
+        "descricao": "CILINDRO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "25",
+        "descricao": "CINTADO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "26",
+        "descricao": "ENGRADADO DE MADEIRA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "27",
+        "descricao": "ENGRADADO DE PLASTICO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "28",
+        "descricao": "ENGRADADO DE OUTROS MATERIAIS",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "29",
+        "descricao": "ENVELOPE",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "30",
+        "descricao": "ESTOJO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "31",
+        "descricao": "ESTRADO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "32",
+        "descricao": "FARDO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "33",
+        "descricao": "FRASCO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "34",
+        "descricao": "GALAO DE METAL",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "35",
+        "descricao": "GALAO DE PLASTICO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "36",
+        "descricao": "GALAO DE OUTROS MATERIAIS",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "37",
+        "descricao": "GRANEL",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "38",
+        "descricao": "LATA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "39",
+        "descricao": "MALA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "40",
+        "descricao": "MALETA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "41",
+        "descricao": "PACOTE",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "42",
+        "descricao": "PECA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "43",
+        "descricao": "QUARTOLA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "44",
+        "descricao": "ROLO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "45",
+        "descricao": "SACA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "46",
+        "descricao": "SACO DE ANIAGEM",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "47",
+        "descricao": "SACO DE COURO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "48",
+        "descricao": "SACO DE LONA",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "49",
+        "descricao": "SACO DE NYLON",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "50",
+        "descricao": "SACO DE PAPEL",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "51",
+        "descricao": "SACO DE PAPELAO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "52",
+        "descricao": "SACO DE PLASTICO",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "53",
+        "descricao": "SACO DE OUTROS MATERIAIS",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "54",
+        "descricao": "SACOLA",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "55",
+        "descricao": "SAN BAG",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "56",
+        "descricao": "TAMBOR DE METAL",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "57",
+        "descricao": "TAMBOR DE PAPELAO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "58",
+        "descricao": "TAMBOR DE PLASTICO",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "59",
+        "descricao": "TAMBOR DE OUTROS MATERIAIS",
+        "inicioVigencia": "27/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "60",
+        "descricao": "PALLETS",
+        "inicioVigencia": "28/03/2008",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "99",
+        "descricao": "OUTROS",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    }
+]

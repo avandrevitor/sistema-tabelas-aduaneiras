@@ -1,0 +1,98 @@
+[
+    {
+        "codigo": "10",
+        "descricao": "QUILOGRAMA LIQUIDO",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "11",
+        "descricao": "UNIDADE",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "12",
+        "descricao": "MIL UNIDADES",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "13",
+        "descricao": "PARES",
+        "inicioVigencia": "12/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "14",
+        "descricao": "METRO",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "15",
+        "descricao": "METRO QUADRADO",
+        "inicioVigencia": "12/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "16",
+        "descricao": "METRO CUBICO",
+        "inicioVigencia": "12/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "17",
+        "descricao": "LITRO",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "18",
+        "descricao": "MEGAWATT HORA",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "19",
+        "descricao": "QUILATE",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "20",
+        "descricao": "DUZIA",
+        "inicioVigencia": "12/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "21",
+        "descricao": "TONEL.METR.LIQ.",
+        "inicioVigencia": "23/03/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "22",
+        "descricao": "GRAMA",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "23",
+        "descricao": "BILHAO DE UNIDADE INTERNACIONAL",
+        "inicioVigencia": "23/03/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "24",
+        "descricao": "QUILOGRAMA BRUTO",
+        "inicioVigencia": "12/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "25",
+        "descricao": "JOGO",
+        "inicioVigencia": "23/11/2016",
+        "fimVigencia": "-"
+    }
+]

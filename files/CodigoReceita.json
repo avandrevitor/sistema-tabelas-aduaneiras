@@ -1,0 +1,368 @@
+[
+    {
+        "codigo": "0086",
+        "descricao": "IMPOSTO DE IMPORTACAO - OUTROS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0094",
+        "descricao": "IMPOSTO DE IMPORTACAO - BAGAGEM ACOMPANHADA",
+        "inicioVigencia": "05/02/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0107",
+        "descricao": "IMPOSTO DE EXPORTACAO - OUTROS",
+        "inicioVigencia": "05/02/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0148",
+        "descricao": "CIDE - COMBUSTIVEIS - IMPORTACAO - LANCAMENTO DE OFICIO",
+        "inicioVigencia": "23/11/2007",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0150",
+        "descricao": "MULTA DE OFICIO - CIDE - COMBUSTIVEIS -IMPORTACAO",
+        "inicioVigencia": "23/11/2007",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0158",
+        "descricao": "JUROS LANCADOS DE OFICIO - CIDE - COMBUSTIVEIS - IMPORTACAO",
+        "inicioVigencia": "23/11/2007",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0300",
+        "descricao": "RECEITA DIREITOS ANTIDUMPING-LANÇAMENTO DE OFÍCIO",
+        "inicioVigencia": "04/04/2014",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0338",
+        "descricao": "MULTA ISOLADA REC DIREITOS ANTIDUMP E COMPENS ART.7 LEI 9019/95",
+        "inicioVigencia": "04/04/2014",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0406",
+        "descricao": "JUROS DE MORA - IMPOSTO DE IMPORTAÇÃO",
+        "inicioVigencia": "03/02/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0679",
+        "descricao": "PIS - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS",
+        "inicioVigencia": "09/04/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0691",
+        "descricao": "PIS - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS BEBIDAS",
+        "inicioVigencia": "09/04/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0724",
+        "descricao": "PIS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0753",
+        "descricao": "PIS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS   BEBIDAS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0760",
+        "descricao": "COFINS - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS",
+        "inicioVigencia": "09/04/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0776",
+        "descricao": "COFINS - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS BEBIDAS",
+        "inicioVigencia": "09/04/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0782",
+        "descricao": "COFINS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO -       CERVEJAS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0809",
+        "descricao": "COFINS - IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO - DEMAISBEBIDAS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0821",
+        "descricao": "IPI - REGIME ESPECIAL DE TRIBUTAçãO - CERVEJAS",
+        "inicioVigencia": "09/04/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0838",
+        "descricao": "IPI - REGIME ESPECIAL DE TRIBUTAçãO - DEMAIS BEBIDAS",
+        "inicioVigencia": "09/04/2009",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0850",
+        "descricao": "IPI - VINCULADO IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO -CERVEJAS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "0867",
+        "descricao": "IPI - VINCULADO IMPORTAçãO - REGIME ESPECIAL DE TRIBUTAçãO -DEMAIS BEBIDAS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "1038",
+        "descricao": "IPI VINCULADO A IMPORTACAO",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "1089",
+        "descricao": "IMPOSTO DE EXPORTACAO - CACAU",
+        "inicioVigencia": "05/02/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "1962",
+        "descricao": "IMPOSTO DE IMPORTACAO - PETROLEO E DERIVADOS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "2185",
+        "descricao": "MULTA APLICADA NO SETOR ADUANEIRO SEM REDUçãO",
+        "inicioVigencia": "04/08/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "2866",
+        "descricao": "JUROS DE MORA - IPI VINCULADO",
+        "inicioVigencia": "03/02/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "2892",
+        "descricao": "IMPOSTO DE IMPORTACAO - LANCAMENTO DE OFICIO",
+        "inicioVigencia": "29/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "2933",
+        "descricao": "TRIBUTOS FEDERAIS DEVIDOS EM IMPORTACAO REALIZADA AO AMPARO DO REGIME DE TRIBUTACAO UNIFICADA (RTU) - LEI 11898-2009",
+        "inicioVigencia": "10/02/2012",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3005",
+        "descricao": "MULTA DE OFíCIO DO IMPOSTO DE IMPORTAçãO",
+        "inicioVigencia": "29/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3101",
+        "descricao": "JUROS DE OFÍCIO - IMPOSTO DE IMPORTAÇÃO",
+        "inicioVigencia": "03/02/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3228",
+        "descricao": "MULTA IMPOSTO DE IMPORTAçãO",
+        "inicioVigencia": "28/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3345",
+        "descricao": "IPI VINCULADO IMPORTACAO - LANCAM. DE OFICIO",
+        "inicioVigencia": "29/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3358",
+        "descricao": "MULTA DE OFICIO - IPI VINC IMPORTACAO",
+        "inicioVigencia": "29/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3890",
+        "descricao": "IMPOSTO DE IMPORTACAO - CONVERSAO DEPOSITO JUDICIAL",
+        "inicioVigencia": "19/02/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3928",
+        "descricao": "IPI VINCULADO - CONVERSAO DEPOSITO JUDICIAL",
+        "inicioVigencia": "19/02/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4562",
+        "descricao": "PIS/IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO",
+        "inicioVigencia": "09/08/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4597",
+        "descricao": "PIS/IMPORTAÇÃO - MULTA DE OFÍCIO",
+        "inicioVigencia": "09/08/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4669",
+        "descricao": "PIS/IMPORTAÇÃO - JUROS DE OFÍCIO",
+        "inicioVigencia": "09/08/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4685",
+        "descricao": "COFINS/IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO",
+        "inicioVigencia": "09/08/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4693",
+        "descricao": "COFINS/IMPORTAÇÃO - MULTA DE OFÍCIO",
+        "inicioVigencia": "09/08/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4802",
+        "descricao": "COFINS/IMPORTAÇÃO - JUROS DE OFÍCIO",
+        "inicioVigencia": "09/08/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5149",
+        "descricao": "MULTA APLICADA AO SETOR ADUANEIRO COM REDUçãO",
+        "inicioVigencia": "04/08/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5503",
+        "descricao": "IPI VINCULADO - IMPORTACAO VEICULOS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5516",
+        "descricao": "IMPOSTO DE IMPORTACAO - VEICULOS",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5529",
+        "descricao": "ANTIDUMPING",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5602",
+        "descricao": "PISPASEP IMPORTACAO",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5629",
+        "descricao": "COFINS IMPORTACAO",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5637",
+        "descricao": "MULTA COFINS IMPORTACAO",
+        "inicioVigencia": "02/06/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5645",
+        "descricao": "JUROS COFINS IMPORTACAO",
+        "inicioVigencia": "02/06/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5653",
+        "descricao": "MULTA PIS IMPORTACAO",
+        "inicioVigencia": "19/05/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5661",
+        "descricao": "JUROS PIS IMPORTACAO",
+        "inicioVigencia": "19/05/2004",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "6324",
+        "descricao": "MULTA ISOLADA - PIS/PASEP (ART. 43 L.9430)",
+        "inicioVigencia": "11/02/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "6337",
+        "descricao": "MULTA ISOLADA - COFINS (ART. 43 L.9430)",
+        "inicioVigencia": "11/02/2015",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "6340",
+        "descricao": "MULTA ISOLADA - IMPOSTO DE IMPORTAÇÃO (ART. 43 LEI 9430)",
+        "inicioVigencia": "30/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "6393",
+        "descricao": "MULTA ISOLADA - IPI VINCULADO (ART. 43 LEI 9430)",
+        "inicioVigencia": "30/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "6542",
+        "descricao": "JUROS DO IMPOSTO DE IMPORTAÇÃO (ART. 43 LEI 9430)",
+        "inicioVigencia": "30/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "6608",
+        "descricao": "JUROS DO IPI VINCULADO (ART. 43 LEI 9430)",
+        "inicioVigencia": "30/01/2003",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "7811",
+        "descricao": "TAXA DE UTILIZAçãO DO SISCOMEX",
+        "inicioVigencia": "31/12/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "9064",
+        "descricao": "IMPOSTO DE IMPORTACAO - ADICIONAL",
+        "inicioVigencia": "19/02/1998",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "9438",
+        "descricao": "CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO INCIDENTE  SOBRE A IMPORTAÇÃO - CIDE.",
+        "inicioVigencia": "31/10/2017",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "9806",
+        "descricao": "MULTA IPI - VINCULADO A IMPORTACAO",
+        "inicioVigencia": "28/01/2003",
+        "fimVigencia": "-"
+    }
+]

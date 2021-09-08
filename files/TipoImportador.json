@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": "1",
+        "descricao": "PESSOA JURIDICA",
+        "inicioVigencia": "29/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "2",
+        "descricao": "PESSOA FISICA RESIDENTE NO PAIS",
+        "inicioVigencia": "29/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "3",
+        "descricao": "PESSOA FISICA RESIDENTE NO EXTERIOR",
+        "inicioVigencia": "29/04/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "4",
+        "descricao": "MISSAO DIPLOMATICA/REPRESENTACAO ORGANISMOS INTERNACION.",
+        "inicioVigencia": "21/12/1996",
+        "fimVigencia": "-"
+    },
+    {
+        "codigo": "5",
+        "descricao": "PESSOA FISICA RESIDENTE NO PAIS SEM INSCRICAO NO CPF",
+        "inicioVigencia": "05/11/1999",
+        "fimVigencia": "-"
+    }
+]
